@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  18 MAR 2022 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  24 MAR 2022 14:04
 entering extended mode
 **./ZF_SWEN1.tex
 (ZF_SWEN1.tex
@@ -320,46 +320,116 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks24
 \@floatcapt=\box53
 )
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count284
+\mult@box=\box54
+\multicol@leftmargin=\dimen163
+\c@unbalance=\count285
+\c@collectmore=\count286
+\doublecol@number=\count287
+\multicoltolerance=\count288
+\multicolpretolerance=\count289
+\full@width=\dimen164
+\page@free=\dimen165
+\premulticols=\dimen166
+\postmulticols=\dimen167
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box55
+\last@line=\box56
+\maxbalancingoverflow=\dimen168
+\mult@rightbox=\box57
+\mult@grightbox=\box58
+\mult@gfirstbox=\box59
+\mult@firstbox=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\c@minrows=\count290
+\c@columnbadness=\count291
+\c@finalcolumnbadness=\count292
+\last@try=\dimen169
+\multicolovershoot=\dimen170
+\multicolundershoot=\dimen171
+\mult@nat@firstbox=\box98
+\colbreak@box=\box99
+\mc@col@check@num=\count293
+)
 (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count284
-\l__pdf_internal_box=\box54
+\l__color_backend_stack_int=\count294
+\l__pdf_internal_box=\box100
 ) (ZF_SWEN1.aux)
 \openout1 = `ZF_SWEN1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
-\scratchdimen=\dimen163
-\scratchbox=\box55
-\nofMPsegments=\count286
-\nofMParguments=\count287
+\scratchcounter=\count295
+\scratchdimen=\dimen172
+\scratchbox=\box101
+\nofMPsegments=\count296
+\nofMParguments=\count297
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count288
-\MPscratchDim=\dimen164
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
+\MPscratchCnt=\count298
+\MPscratchDim=\dimen173
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
 \everyMPtoPDFconversion=\toks26
 )
 (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
@@ -406,7 +476,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 21.
+Package hyperref Info: Link coloring ON on input line 30.
 (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -417,186 +487,452 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 estring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count291
+\c@section@level=\count301
 )
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
  (ZF_SWEN1.out) (ZF_SWEN1.out)
 \@outlinefile=\write3
 \openout3 = `ZF_SWEN1.out'.
 
- [1
+ (ZF_SWEN1.toc [1
 
-{C:/Users/Asha/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
-<Resources/Images/CharaktersierungProzessmodellen.png, id=150, 655.69969pt x 28
+{C:/Users/Asha/AppData/Local/MiKTeX/pdftex/config/pdftex.map}])
+\tf@toc=\write4
+\openout4 = `ZF_SWEN1.toc'.
+
+ [2] [3] [4]
+<Resources/Images/CharaktersierungProzessmodellen.png, id=236, 655.69969pt x 28
 8.3272pt>
 File: Resources/Images/CharaktersierungProzessmodellen.png Graphic file (type p
 ng)
 <use Resources/Images/CharaktersierungProzessmodellen.png>
 Package pdftex.def Info: Resources/Images/CharaktersierungProzessmodellen.png  
-used on input line 169.
+used on input line 180.
 (pdftex.def)             Requested size: 133.07489pt x 58.51352pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+Underfull \hbox (badness 10000) in paragraph at lines 186--188
 
  []
 
-<Resources/Images/UML_Diagramme.png, id=152, 759.58781pt x 414.04688pt>
+<Resources/Images/UML_Diagramme.png, id=238, 759.58781pt x 414.04688pt>
 File: Resources/Images/UML_Diagramme.png Graphic file (type png)
 <use Resources/Images/UML_Diagramme.png>
 Package pdftex.def Info: Resources/Images/UML_Diagramme.png  used on input line
- 192.
+ 203.
 (pdftex.def)             Requested size: 133.07489pt x 72.5351pt.
-[3pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.200 		\item I
-               nformell, unvollständigpdfTeX warning (ext4): destination with 
-the same identifier (name{figure.2}) has been already used, duplicate ignored
+l.221 		\item K
+               omplette, ausführbare Spezifikation eines Software-Systems i...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.200 		\item I
-               nformell, unvollständig <./Resources/Images/CharaktersierungPro
-zessmodellen.png> <./Resources/Images/UML_Diagramme.png>] [4]
-<Resources/Images/Usability.png, id=166, 431.36156pt x 272.51813pt>
+l.221 		\item K
+               omplette, ausführbare Spezifikation eines Software-Systems i...
+ <./Resources/Images/CharaktersierungProzessmodellen.png> <./Resources/Images/U
+ML_Diagramme.png>] [6]
+<Resources/Images/Usability.png, id=252, 431.36156pt x 272.51813pt>
 File: Resources/Images/Usability.png Graphic file (type png)
 <use Resources/Images/Usability.png>
-Package pdftex.def Info: Resources/Images/Usability.png  used on input line 324
+Package pdftex.def Info: Resources/Images/Usability.png  used on input line 335
 .
 (pdftex.def)             Requested size: 133.07489pt x 84.06807pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
 
  []
 
-[5pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.333 	\item \textbf
+l.344 	\item \textbf
                     {4 wichtige Aspekte} <./Resources/Images/Usability.png>]
-[6] [7]
-<Resources/Images/UCD_Process.png, id=182, 707.64375pt x 603.0028pt>
+[8] [9]
+<Resources/Images/UCD_Process.png, id=268, 707.64375pt x 603.0028pt>
 File: Resources/Images/UCD_Process.png Graphic file (type png)
 <use Resources/Images/UCD_Process.png>
-Package pdftex.def Info: Resources/Images/UCD_Process.png  used on input line 4
-94.
+Package pdftex.def Info: Resources/Images/UCD_Process.png  used on input line 5
+05.
 (pdftex.def)             Requested size: 133.07489pt x 113.39398pt.
- [8pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
- has been already used, duplicate ignored
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.534 	\item C
+l.545 	\item C
               ontextual Inquiry <./Resources/Images/UCD_Process.png>]
-<Resources/Images/Stakeholdermap.png, id=189, 343.2825pt x 325.96782pt>
+<Resources/Images/Stakeholdermap.png, id=275, 343.2825pt x 325.96782pt>
 File: Resources/Images/Stakeholdermap.png Graphic file (type png)
 <use Resources/Images/Stakeholdermap.png>
 Package pdftex.def Info: Resources/Images/Stakeholdermap.png  used on input lin
-e 569.
+e 580.
 (pdftex.def)             Requested size: 133.07489pt x 126.36095pt.
-<Resources/Images/Blueprint.png, id=190, 633.86812pt x 280.79906pt>
+<Resources/Images/Blueprint.png, id=276, 633.86812pt x 280.79906pt>
 File: Resources/Images/Blueprint.png Graphic file (type png)
 <use Resources/Images/Blueprint.png>
-Package pdftex.def Info: Resources/Images/Blueprint.png  used on input line 575
+Package pdftex.def Info: Resources/Images/Blueprint.png  used on input line 586
 .
 (pdftex.def)             Requested size: 133.07489pt x 58.9481pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 583--584
+Underfull \hbox (badness 10000) in paragraph at lines 594--595
 
  []
 
-[9pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) 
-has been already used, duplicate ignored
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.585 	\item A
+l.596 	\item A
               usgehend von den Resultaten des UCD -> User-Anforderungen able...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.585 	\item A
+l.596 	\item A
               usgehend von den Resultaten des UCD -> User-Anforderungen able...
  <./Resources/Images/Stakeholdermap.png> <./Resources/Images/Blueprint.png>]
-<Resources/Images/UseCaseDiagramm.png, id=200, 283.81032pt x 240.9pt>
+<Resources/Images/UseCaseDiagramm.png, id=286, 283.81032pt x 240.9pt>
 File: Resources/Images/UseCaseDiagramm.png Graphic file (type png)
 <use Resources/Images/UseCaseDiagramm.png>
 Package pdftex.def Info: Resources/Images/UseCaseDiagramm.png  used on input li
-ne 653.
+ne 664.
 (pdftex.def)             Requested size: 133.07489pt x 112.95834pt.
 
-[10]
-<Resources/Images/UseCaseDiagramm2.png, id=205, 403.5075pt x 216.81pt>
+[12]
+<Resources/Images/UseCaseDiagramm2.png, id=291, 403.5075pt x 216.81pt>
 File: Resources/Images/UseCaseDiagramm2.png Graphic file (type png)
 <use Resources/Images/UseCaseDiagramm2.png>
 Package pdftex.def Info: Resources/Images/UseCaseDiagramm2.png  used on input l
-ine 662.
+ine 673.
 (pdftex.def)             Requested size: 133.07489pt x 71.50119pt.
-<Resources/Images/Systemsequenzdiagramm.png, id=206, 630.10406pt x 508.90125pt>
+<Resources/Images/Systemsequenzdiagramm.png, id=292, 630.10406pt x 508.90125pt>
 
 File: Resources/Images/Systemsequenzdiagramm.png Graphic file (type png)
 <use Resources/Images/Systemsequenzdiagramm.png>
 Package pdftex.def Info: Resources/Images/Systemsequenzdiagramm.png  used on in
-put line 672.
+put line 683.
 (pdftex.def)             Requested size: 133.07489pt x 107.4781pt.
-<Resources/Images/SSD2.png, id=207, 554.07pt x 435.87843pt>
+<Resources/Images/SSD2.png, id=293, 554.07pt x 435.87843pt>
 File: Resources/Images/SSD2.png Graphic file (type png)
 <use Resources/Images/SSD2.png>
-Package pdftex.def Info: Resources/Images/SSD2.png  used on input line 679.
+Package pdftex.def Info: Resources/Images/SSD2.png  used on input line 690.
 (pdftex.def)             Requested size: 133.07489pt x 104.68611pt.
- [11pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
+ [13pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
 ) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.688 		\item E
+l.699 		\item E
                vt. mit ParameternpdfTeX warning (ext4): destination with the sa
 me identifier (name{figure.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.688 		\item E
+l.699 		\item E
                vt. mit ParameternpdfTeX warning (ext4): destination with the sa
 me identifier (name{figure.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.688 		\item E
+l.699 		\item E
                vt. mit ParameternpdfTeX warning (ext4): destination with the sa
 me identifier (name{figure.10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.688 		\item E
+l.699 		\item E
                vt. mit Parametern <./Resources/Images/UseCaseDiagramm.png> <./R
 esources/Images/UseCaseDiagramm2.png> <./Resources/Images/Systemsequenzdiagramm
 .png> <./Resources/Images/SSD2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 698--699
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
 
  []
 
-<Resources/Images/OperationContract.png, id=221, 494.59781pt x 423.83344pt>
+<Resources/Images/OperationContract.png, id=308, 494.59781pt x 423.83344pt>
 File: Resources/Images/OperationContract.png Graphic file (type png)
 <use Resources/Images/OperationContract.png>
 Package pdftex.def Info: Resources/Images/OperationContract.png  used on input 
-line 712.
+line 723.
 (pdftex.def)             Requested size: 133.07489pt x 114.03558pt.
-[12pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
 ) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.755 		\item F
+l.766 		\item F
                ehlerrate, Wiederanlauffähigkeit, Vorhersagbarkeit, Datensic...
- <./Resources/Images/OperationContract.png>] [13] (ZF_SWEN1.aux)
+ <./Resources/Images/OperationContract.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 812--815
+
+ []
+
+[15]
+<Resources/Images/DM1.png, id=325, 643.6547pt x 479.54156pt>
+File: Resources/Images/DM1.png Graphic file (type png)
+<use Resources/Images/DM1.png>
+Package pdftex.def Info: Resources/Images/DM1.png  used on input line 824.
+(pdftex.def)             Requested size: 133.07489pt x 99.14081pt.
+<Resources/Images/DM2.png, id=326, 690.32906pt x 519.44063pt>
+File: Resources/Images/DM2.png Graphic file (type png)
+<use Resources/Images/DM2.png>
+Package pdftex.def Info: Resources/Images/DM2.png  used on input line 832.
+(pdftex.def)             Requested size: 133.07489pt x 100.12935pt.
+<Resources/Images/DM3.png, id=327, 715.92468pt x 522.45187pt>
+File: Resources/Images/DM3.png Graphic file (type png)
+<use Resources/Images/DM3.png>
+Package pdftex.def Info: Resources/Images/DM3.png  used on input line 838.
+(pdftex.def)             Requested size: 133.07489pt x 97.10648pt.
+<Resources/Images/Kategorienliste1.png, id=328, 867.24pt x 391.4625pt>
+File: Resources/Images/Kategorienliste1.png Graphic file (type png)
+<use Resources/Images/Kategorienliste1.png>
+Package pdftex.def Info: Resources/Images/Kategorienliste1.png  used on input l
+ine 872.
+(pdftex.def)             Requested size: 133.07489pt x 60.06679pt.
+<Resources/Images/Kategorienliste2.png, id=329, 872.50969pt x 339.51843pt>
+File: Resources/Images/Kategorienliste2.png Graphic file (type png)
+<use Resources/Images/Kategorienliste2.png>
+Package pdftex.def Info: Resources/Images/Kategorienliste2.png  used on input l
+ine 880.
+(pdftex.def)             Requested size: 133.07489pt x 51.78036pt.
+<Resources/Images/Kategorienliste3.png, id=330, 855.94781pt x 348.55219pt>
+File: Resources/Images/Kategorienliste3.png Graphic file (type png)
+<use Resources/Images/Kategorienliste3.png>
+Package pdftex.def Info: Resources/Images/Kategorienliste3.png  used on input l
+ine 886.
+(pdftex.def)             Requested size: 133.07489pt x 54.1899pt.
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.12
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.910 \begin
+            {figure}[H]pdfTeX warning (ext4): destination with the same identif
+ier (name{figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.910 \begin
+            {figure}[H]pdfTeX warning (ext4): destination with the same identif
+ier (name{figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.910 \begin
+            {figure}[H]pdfTeX warning (ext4): destination with the same identif
+ier (name{figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.910 \begin
+            {figure}[H]pdfTeX warning (ext4): destination with the same identif
+ier (name{figure.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.910 \begin
+            {figure}[H]pdfTeX warning (ext4): destination with the same identif
+ier (name{figure.17}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.910 \begin
+            {figure}[H] <./Resources/Images/DM1.png> <./Resources/Images/DM2.pn
+g> <./Resources/Images/DM3.png> <./Resources/Images/Kategorienliste1.png> <./Re
+sources/Images/Kategorienliste2.png> <./Resources/Images/Kategorienliste3.png>]
+<Resources/Images/AntiPattern1.png, id=359, 342.5297pt x 76.03406pt>
+File: Resources/Images/AntiPattern1.png Graphic file (type png)
+<use Resources/Images/AntiPattern1.png>
+Package pdftex.def Info: Resources/Images/AntiPattern1.png  used on input line 
+912.
+(pdftex.def)             Requested size: 133.07489pt x 29.54062pt.
+<Resources/Images/AntiPattern2.png, id=360, 357.58594pt x 63.23625pt>
+File: Resources/Images/AntiPattern2.png Graphic file (type png)
+<use Resources/Images/AntiPattern2.png>
+Package pdftex.def Info: Resources/Images/AntiPattern2.png  used on input line 
+918.
+(pdftex.def)             Requested size: 133.07489pt x 23.53308pt.
+<Resources/Images/AntiPatternSoftware.png, id=361, 912.40875pt x 412.54124pt>
+File: Resources/Images/AntiPatternSoftware.png Graphic file (type png)
+<use Resources/Images/AntiPatternSoftware.png>
+Package pdftex.def Info: Resources/Images/AntiPatternSoftware.png  used on inpu
+t line 940.
+(pdftex.def)             Requested size: 133.07489pt x 60.1663pt.
+<Resources/Images/BeispielDomänenmodell.png, id=362, 616.55344pt x 493.845pt>
+File: Resources/Images/BeispielDomänenmodell.png Graphic file (type png)
+<use Resources/Images/BeispielDomänenmodell.png>
+Package pdftex.def Info: Resources/Images/BeispielDomänenmodell.png  used on i
+nput line 949.
+(pdftex.def)             Requested size: 133.07489pt x 106.58905pt.
+<Resources/Images/Beschreibungsklassen.png, id=363, 322.95656pt x 70.76437pt>
+File: Resources/Images/Beschreibungsklassen.png Graphic file (type png)
+<use Resources/Images/Beschreibungsklassen.png>
+Package pdftex.def Info: Resources/Images/Beschreibungsklassen.png  used on inp
+ut line 963.
+(pdftex.def)             Requested size: 133.07489pt x 29.15826pt.
+<Resources/Images/BeschreibungsklasseFlug.png, id=364, 276.28218pt x 135.50626p
+t>
+File: Resources/Images/BeschreibungsklasseFlug.png Graphic file (type png)
+<use Resources/Images/BeschreibungsklasseFlug.png>
+Package pdftex.def Info: Resources/Images/BeschreibungsklasseFlug.png  used on 
+input line 969.
+(pdftex.def)             Requested size: 133.07489pt x 65.26762pt.
+
+Overfull \vbox (10.31224pt too high) has occurred while \output is active []
+
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.18}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.972 			\end{multicols}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{figure.19}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.972 			\end{multicols}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{figure.20}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.972 			\end{multicols}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{figure.21}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.972 			\end{multicols}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{figure.22}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.972 			\end{multicols}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{figure.23}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.972 			\end{multicols}
+                         <./Resources/Images/AntiPattern1.png> <./Resources/Ima
+ges/AntiPattern2.png> <./Resources/Images/AntiPatternSoftware.png> <./Resources
+/Images/BeispielDomänenmodell.png> <./Resources/Images/Beschreibungsklassen.pn
+g> <./Resources/Images/BeschreibungsklasseFlug.png>]
+<Resources/Images/GeneralisierungSpezialisierung.png, id=381, 933.4875pt x 305.
+64188pt>
+File: Resources/Images/GeneralisierungSpezialisierung.png Graphic file (type pn
+g)
+<use Resources/Images/GeneralisierungSpezialisierung.png>
+Package pdftex.def Info: Resources/Images/GeneralisierungSpezialisierung.png  u
+sed on input line 979.
+(pdftex.def)             Requested size: 133.07489pt x 43.5684pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--980
+[]\OT1/cmr/m/n/10 Abbildung 24:
+ []
+
+<Resources/Images/GeneralisierungSpezialisierungAttribute.png, id=382, 477.2831
+3pt x 242.40562pt>
+File: Resources/Images/GeneralisierungSpezialisierungAttribute.png Graphic file
+ (type png)
+<use Resources/Images/GeneralisierungSpezialisierungAttribute.png>
+Package pdftex.def Info: Resources/Images/GeneralisierungSpezialisierungAttribu
+te.png  used on input line 985.
+(pdftex.def)             Requested size: 133.07489pt x 67.5846pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 986--986
+[]\OT1/cmr/m/n/10 Abbildung 25:
+ []
+
+<Resources/Images/Zustände.png, id=383, 405.76593pt x 225.09094pt>
+File: Resources/Images/Zustände.png Graphic file (type png)
+<use Resources/Images/Zustände.png>
+Package pdftex.def Info: Resources/Images/Zustände.png  used on input line 995
+.
+(pdftex.def)             Requested size: 133.07489pt x 73.82343pt.
+<Resources/Images/DMRolleName.png, id=384, 556.32843pt x 417.81094pt>
+File: Resources/Images/DMRolleName.png Graphic file (type png)
+<use Resources/Images/DMRolleName.png>
+Package pdftex.def Info: Resources/Images/DMRolleName.png  used on input line 1
+003.
+(pdftex.def)             Requested size: 133.07489pt x 99.93878pt.
+<Resources/Images/DMRolleKonzept.png, id=385, 704.6325pt x 372.64218pt>
+File: Resources/Images/DMRolleKonzept.png Graphic file (type png)
+<use Resources/Images/DMRolleKonzept.png>
+Package pdftex.def Info: Resources/Images/DMRolleKonzept.png  used on input lin
+e 1009.
+(pdftex.def)             Requested size: 133.07489pt x 70.37628pt.
+<Resources/Images/Assoziationsklasse.png, id=386, 425.33907pt x 145.29282pt>
+File: Resources/Images/Assoziationsklasse.png Graphic file (type png)
+<use Resources/Images/Assoziationsklasse.png>
+Package pdftex.def Info: Resources/Images/Assoziationsklasse.png  used on input
+ line 1018.
+(pdftex.def)             Requested size: 133.07489pt x 45.45709pt.
+
+Overfull \hbox (66.76851pt too wide) in paragraph at lines 1016--1020
+[]\OT1/cmr/m/n/10 Wenn As-so-zia-tio-nen ei-ge-ne At-tri-bu-te ha-ben (Mer-chan
+-tID f[]ur Kre-dit-kar-te Gesch[]aft<->AuthorizationService): 
+ []
+
+<Resources/Images/Einheiten.png, id=387, 444.15938pt x 155.07938pt>
+File: Resources/Images/Einheiten.png Graphic file (type png)
+<use Resources/Images/Einheiten.png>
+Package pdftex.def Info: Resources/Images/Einheiten.png  used on input line 102
+6.
+(pdftex.def)             Requested size: 133.07489pt x 46.46263pt.
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.24}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1029 	\end{itemize}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.25}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1029 	\end{itemize}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.26}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1029 	\end{itemize}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.27}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1029 	\end{itemize}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.28}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1029 	\end{itemize}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.29}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1029 	\end{itemize}
+                      <./Resources/Images/GeneralisierungSpezialisierung.png> <
+./Resources/Images/GeneralisierungSpezialisierungAttribute.png> <./Resources/Im
+ages/Zustände.png> <./Resources/Images/DMRolleName.png> <./Resources/Images/DM
+RolleKonzept.png> <./Resources/Images/Assoziationsklasse.png>]
+<Resources/Images/Zeitintervall.png, id=404, 456.95718pt x 161.10187pt>
+File: Resources/Images/Zeitintervall.png Graphic file (type png)
+<use Resources/Images/Zeitintervall.png>
+Package pdftex.def Info: Resources/Images/Zeitintervall.png  used on input line
+ 1034.
+(pdftex.def)             Requested size: 133.07489pt x 46.915pt.
+ [19pdfTeX warning (ext4): destination with the same identifier (name{figure.30
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1198 \end{document}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.31}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1198 \end{document}
+                      <./Resources/Images/Einheiten.png> <./Resources/Images/Ze
+itintervall.png>] (ZF_SWEN1.aux)
 Package rerunfilecheck Info: File `ZF_SWEN1.out' has not changed.
-(rerunfilecheck)             Checksum: 1A83BA2970B521884DC559612C14FB96;5093.
+(rerunfilecheck)             Checksum: 7672C42860D4463396F6F5A2290770A0;6708.
  ) 
 Here is how much of TeX's memory you used:
- 10602 strings out of 478927
- 160765 string characters out of 2853008
- 497634 words of memory out of 3000000
- 28250 multiletter control sequences out of 15000+600000
- 408694 words of font info for 45 fonts, out of 8000000 for 9000
+ 10966 strings out of 478927
+ 169515 string characters out of 2853008
+ 513247 words of memory out of 3000000
+ 28536 multiletter control sequences out of 15000+600000
+ 409148 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,66p,277b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,7n,66p,378b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Asha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 000.pk><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -604,9 +940,9 @@ amsfonts/cm/cmbx12.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Asha/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on ZF_SWEN1.pdf (13 pages, 943066 bytes).
+Output written on ZF_SWEN1.pdf (19 pages, 1675334 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 67 named destinations out of 1000 (max. 500000)
- 312 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 469 PDF objects out of 1000 (max. 8388607)
+ 118 named destinations out of 1000 (max. 500000)
+ 484 words of extra memory for PDF output out of 10000 (max. 10000000)
 
