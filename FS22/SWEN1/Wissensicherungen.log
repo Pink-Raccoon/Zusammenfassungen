@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  24 MAR 2022 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  24 MAR 2022 16:26
 entering extended mode
 **./Wissensicherungen.tex
 (Wissensicherungen.tex
@@ -519,28 +519,88 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
-[2] [3] [4] (Wissensicherungen.aux)
+[2] [3] [4] [5]
+Overfull \hbox (7.1959pt too wide) in paragraph at lines 281--282
+[]\OT1/cmr/m/n/10 3c: Falls Tisch von ei-ner an-de-ren Ser-vier-per-son be-treu
+t wird, lau-fen-de Be-stel-lung []ubernehmen
+ []
+
+[6]
+Overfull \hbox (21.7538pt too wide) in paragraph at lines 338--340
+[]\OT1/cmr/m/n/10 Mobilger[]at muss von je-der aus-ge-bil-de-ten Ser-vier-per-s
+on nach ei-ner max. ein-min[]utigen Einf[]uhrung
+ []
+
+[7]
+<Resources/Images/SSDAufgabe.png, id=180, 560.8453pt x 481.04718pt>
+File: Resources/Images/SSDAufgabe.png Graphic file (type png)
+<use Resources/Images/SSDAufgabe.png>
+Package pdftex.def Info: Resources/Images/SSDAufgabe.png  used on input line 38
+0.
+(pdftex.def)             Requested size: 125.47737pt x 107.6217pt.
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+<Resources/Images/DMAufgabeUrsprung.png, id=191, 477.28313pt x 448.67625pt>
+File: Resources/Images/DMAufgabeUrsprung.png Graphic file (type png)
+<use Resources/Images/DMAufgabeUrsprung.png>
+Package pdftex.def Info: Resources/Images/DMAufgabeUrsprung.png  used on input 
+line 415.
+(pdftex.def)             Requested size: 125.47737pt x 117.95386pt.
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.418 
+       <./Resources/Images/SSDAufgabe.png>]
+<Resources/Images/DMAufgabeVerbesserung.png, id=199, 523.20468pt x 502.87875pt>
+
+File: Resources/Images/DMAufgabeVerbesserung.png Graphic file (type png)
+<use Resources/Images/DMAufgabeVerbesserung.png>
+Package pdftex.def Info: Resources/Images/DMAufgabeVerbesserung.png  used on in
+put line 422.
+(pdftex.def)             Requested size: 125.47737pt x 120.60127pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--424
+
+ []
+
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.702 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.702 \end{document}
+                     <./Resources/Images/DMAufgabeUrsprung.png> <./Resources/Im
+ages/DMAufgabeVerbesserung.png>] (Wissensicherungen.aux)
 Package rerunfilecheck Info: File `Wissensicherungen.out' has not changed.
-(rerunfilecheck)             Checksum: 19150BAFF54331F9BA41AE248BEFD552;3587.
+(rerunfilecheck)             Checksum: 5A8482B52D62A9B8E210955EE51CCCD5;4986.
  ) 
 Here is how much of TeX's memory you used:
- 10580 strings out of 478927
- 159077 string characters out of 2853008
- 496772 words of memory out of 3000000
- 28277 multiletter control sequences out of 15000+600000
+ 10678 strings out of 478927
+ 160693 string characters out of 2853008
+ 501896 words of memory out of 3000000
+ 28312 multiletter control sequences out of 15000+600000
  409148 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,66p,599b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,7n,66p,599b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Asha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 000.pk><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Asha/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Wissensicherungen.pdf (4 pages, 99398 bytes).
+eX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Asha/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
+Output written on Wissensicherungen.pdf (10 pages, 277934 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 259 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 160 words of extra memory for PDF output out of 10000 (max. 10000000)
 
