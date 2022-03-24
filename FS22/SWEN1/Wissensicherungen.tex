@@ -1,0 +1,501 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[german]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage[a4paper]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{xcolor}
+
+\setlength{\columnseprule}{0.5pt}
+\def\columnseprulecolor{\color{blue}}
+\title{Wissensicherung}
+\author{Asha Schwegler}
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\pagebreak
+
+\section{LE01}
+\subsection{Was ist Software Engineering?}
+
+\begin{itemize}
+ \item Herstellung oder Entwicklung 
+von Software,  Organisation und Modellierung der zugehörigen Datenstrukturen und 
+dem Betrieb von Softwaresystemen. 
+ \item Anhand eines strukturierten (Projekt-)Planes. (Schritte, Phasen, Meilensteine)
+ \item Schritte während Entw.Prozess eng miteinander verzahnt.
+\end{itemize}
+
+\subsection{Was für Prozesse bzw. Disziplinen können im Software Engineering unterschieden werden?}
+
+\paragraph{Kernprozesse\\}
+\begin{itemize}
+	\item Anforderungserhebung
+	\item Systemdesign/technische Konzeption
+	\item Implementierung
+	\item Softwaretest
+	\item Softwareeinführung
+	\item Wartung/Pflege
+\end{itemize}
+
+\paragraph{Unterstützungsprozesse\\}
+\begin{itemize}
+	\item Projektmanagement
+	\item Qualitätsmanagement
+	\item Risikomanagement
+\end{itemize}
+
+\subsection{Was sind die Charakteristiken eines iterativ-inkrementellen Softwarenentwicklungsprozesses?}
+\begin{itemize}
+	\item Abwicklung in Iterationen
+	\item Inkrement = In jeder Iteration ein Stück SW entwickelt
+	\item Ziele sind Risiko-getrieben
+	\item Iterationsreviews mit Learnings für nächste Iteration
+\end{itemize}
+
+
+
+\subsection{Warum wird im Software Engineering modelliert und was für Modelle werden erstellt?}
+Analyse- und Designentwürfe : diskutieren, abstimmen, dokumentieren und kommunizieren. \\
+\begin{itemize}
+	\item Verstehen eines Gebildes
+	\item  Kommunizieren
+	\item Gedankliches Hilfsmittel
+	\item Kritisieren
+	\item Experimentieren
+	\item Aufstellen und Prüfen von Hypothesen
+	\item in OOP: 
+	\begin{itemize}
+		\item Statische Modelle:
+		\begin{itemize}
+			\item Klassen und Assoziationen
+		\end{itemize}
+		\item Dynamische Modelle:
+		\begin{itemize}
+			\item Abläufe und Verhalten
+		\end{itemize}
+	\end{itemize}
+\end{itemize}
+
+
+
+\subsection{Welche Artefakte werden in der Anforderungsanalyse erstellt und wozu werden sie gebraucht?}
+
+\begin{itemize}
+	\item Systemabgrenzung und Systemkontextdiagramm
+	\item Use-Case-Modell und UI-Sketches
+	\item Qualitätsanforderungen und Randbedingungen
+	\item Domänenmodell
+\end{itemize}
+
+
+
+
+\section{LE02}
+
+\subsection{Was ist Usability und Usability-Engineering?}
+
+\textbf{Usability:} Die Effektivität, Effizienz und Zufriedenheit mit der die adressierten Benutzer ihre Ziele erreichen in ihren spezifischen Kontexten.\\
+\textbf{Usability Engineering:} Software entwickeln, die die drei Anforderungen von Usability erfüllen.
+
+
+\subsection{Was ist Usability-Engineering und was sind seine Ziele?}
+\begin{itemize}
+	\item Usability-Engineering = Software-Ergonomie
+	\item Ziel: SW-Produkte entwickeln, die effektiv, effizient und zufriedenstellend sind.
+\end{itemize}
+
+
+\subsection{Welche 7 Usability-Aspekte sind gemäss ISO EN 9241-110 wichtig und was fordern sie?}
+
+\begin{enumerate}
+	\item Aufgabenangemessenheit
+	\begin{itemize}
+		\item Aufwand im Vergleich zu Aufgaben und Ziele sollte angemessen sein.
+	\end{itemize}
+	\item Selbstbeschreibungsfähigkeit
+		\begin{itemize}
+		\item Wissen wo in der SW man ist und was man tun muss/kann und was das System tut.
+	\end{itemize}
+	\item Kontrolle
+		\begin{itemize}
+		\item Kontrolle über Interaktion mit System haben.
+	\end{itemize}
+	\item Erwartungskonformität
+		\begin{itemize}
+		\item Funktionalität
+		\item Interaktion
+		\item Design
+		\item Struktur
+		\item Ansprechen der Komplexität
+	\end{itemize}
+	\item Fehlertoleranz
+		\begin{itemize}
+		\item Fehler vermeiden
+		\item Fehler und Ursache erkennen
+		\item Fehler korrigieren
+	\end{itemize}
+	\item Inidividualisierbarkeit
+		\begin{itemize}
+		\item Anpassbar auf Bedürfnisse (Laien, Experten, Benutzer mit besondeen Bedürfnisse)
+	\end{itemize}
+	\item Lernförderlichkeit
+		\begin{itemize}
+		\item Informationen über unterliegende Konzepte, Reglen, Verfahren und neue Funktionalitäten/Interaktionsmöglichkeiten
+	\end{itemize}
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
