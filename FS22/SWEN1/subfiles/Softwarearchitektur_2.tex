@@ -78,7 +78,7 @@ Zwei arten von Design-Modellen (ergänzen sich und werden parallel erstellt):
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.3\textwidth]{/Resources/Images/Grundelemente_Klassendiagramm.png}
-\caption{\label{fig:CharaktersierungProzessmodellen}CharaktersierungProzessmodellen}
+\caption{\label{fig:Grundelemente_Klassendiagramm}Grundelemente\_Klassendiagramm.}
 \end{figure}
 
 \subsection{UML-Klassendiagramm}
@@ -105,13 +105,55 @@ Zwei arten von Design-Modellen (ergänzen sich und werden parallel erstellt):
 	\item Interface
 	\item Interface - Realisierung (Menge von öffentlichen Operationen, Merkmalen und Verpflichtungen, die durch eine Klasse, die die Schnittstelle implementiert, zwingend zur Verfügung gestellt werden müssen.
 	\item Assoziationsklasse (Da wenn ** Beziehung existiert)
-	\item 
+	\item Aktive Klasse (Instanz wird in einem separaten Thread ausgeführt)
 \end{itemize}
 
+\subsection{UML-Interaktionsdiagramme}
 
+Spezifiziert, auf welche Weise Nachrichten und Daten zwischen Interaktionspartnern ausgetauscht werden. \\
 
+\textcolor {WildStrawberry}{\textbf{2 Arten:}}
+\begin{enumerate}
+	\item Sequenzdiagramm
+	\item Kommunikationsdiagramm
+\end{enumerate}
 
+\paragraph{\textcolor {WildStrawberry}{\textbf{Anwendung:}}} Kollaborationen bzw. Informationsaustausch zwischen Objekten zu modellieren.
 
+\begin{itemize}
+	\item Wer tauscht mit Wem Information aus?
+	\item in welcher Reihenfolge
+	\item Zeitlicher Ablauf
+	\item Schachtelung und Flussteuerung (Bedingung, Schleifen, Verzweigungen) möglich.
+\end{itemize}
+
+\subparagraph{\textcolor {WildStrawberry}{\textbf{Kann in mehreren Perspektiven verwendet werden:}}}
+\begin{itemize}
+	\item \textcolor {Periwinkle}{Analyse}
+	\begin{itemize}
+		\item mit SSD Input-/Output-Erignisse (Systemoperationen mit Rückgabeantworten) für ein Szenario eines Use Cases modelliert
+	\end{itemize}
+	\item \textcolor {Periwinkle}{Design}
+	\begin{itemize}
+		\item mit SSD Interaktion zwischen Objekten zur Realisierung eines konkreten Use-Case Szenarios zu modellieren
+	\end{itemize}
+\end{itemize}
+
+\paragraph{Notationselemente:}
+\begin{itemize}
+	\item Lebenslinie
+	\item Aktionssequenz
+	\item Synchrone Nachricht
+	\item Antwortnachricht
+	\item Gefundene, verlorene Nachricht
+	\item kombiniertes Fragment
+\end{itemize}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.3\textwidth]{/Resources/Images/interaktionsdiagramm1.png}
+\caption{\label{fig:interaktionsdiagramm1}interaktionsdiagramm1}
+\end{figure}
 
 
 
