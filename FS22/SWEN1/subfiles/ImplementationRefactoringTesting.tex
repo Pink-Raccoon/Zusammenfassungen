@@ -1,0 +1,374 @@
+\documentclass[../ZF_SWEN1.tex]{subfiles}
+\begin{document}
+
+\subsubsection{Design to Code}
+\begin{itemize}
+	\item Quellcode aus Design Artefakten ableiten
+	\item Praxis: Nur Teile des gesamten Quellcodes zusätzlich als Design Artefakte abgebildet.
+\end{itemize}
+
+\paragraph{Einsatz von Collection Klassen:} Erforderlich bei 1:n Beziehungen
+
+\paragraph{Fehlerbehandlung:}\\
+\begin{itemize}
+	\item Exceptions verwenden
+	\item Exceptions nur für Fehlersituationen, nicht für reguläre Rückgabewerte
+	\item Standard Exceptions verwenden
+	\item Wo sinnvoll eigene Klassen definieren
+	\item Jede Schicht kapselt Exception Handling ab
+\end{itemize}
+
+
+\paragraph{Umsetzungs-Reihenfolge}
+\subparagraph{Bottom-Up Strategie:}
+Wenn alle umzusetzende Klassen als Design Artefakte vorhanden sind
+
+\subparagraph{Variante Agile:}
+\begin{itemize}
+	\item Nur für die Iteration notwendigen Klassen bekannt. Funktionen Schritt für Schritt umgesetzt.
+	\item Vorhandene Klassen müssen angepasst werden (Refaktoriert)
+	\item Umsetzung über verschiedene Schichten der Architektur vollzogen (Model, Controller, Services, Repository)
+	\item Ausgangspunkt oft Schnittstellenbeschreibung:
+	\begin{itemize}
+		\item Benutzerschnittstelle (UI-Designer)
+		\item Systemschnittstelle (OpenApi Swagger)
+	\end{itemize}
+\end{itemize}
+
+
+\paragraph{Methoden:}
+\begin{itemize}
+	\item High Cohesion
+	\item Eher kleine Methoden mit startkem inneren Zusammenhang
+	\item CQS - Command Query Separation anwenden (setter und getter?)
+	\item Wenn viele if's: Polymorphismus einsetzen
+\end{itemize}
+
+\subsection{Implementation}
+
+3 Verschiedene Implementierungsstrategien:
+\begin{enumerate}
+	\item Code-Driven Development (Zuerst die Klasse implementieren)
+	\item Test-Driven Development (TDD) (Zuerst Tests für Klassen/Komponenten dann Code entwickeln)
+	\item Behaviour-Driven Development(BDD:
+	\begin{itemize}
+		\item Test aus Benutzerschicht beschreiben
+		\item Z.B durch die Business Analystem mit Hilfe von Gherking
+	\end{itemize}
+\end{enumerate}
+
+Unabhängig der gewählten Strategie, jedes stück Code muss am Schluss Tests haben.
+
+\subsection{Refactoring}
+
+\paragraph{Code verbessern:}
+\begin{itemize}
+	\item DRY: Keinen duplizierten Code
+	\item Namensgebung: Klarheit erhöhen, Aussagekräftige Namen
+	\item Lange Methoden verkürzen
+	\item Algorithmen strukturieren in:
+	\begin{itemize}
+		\item Initialisierung
+		\item Berechnung
+		\item Aufbereiten des Resultats
+	\end{itemize}
+	\item Sichtbarkeit verbessern
+	\item Testbarkeit verbessern
+\end{itemize}
+
+
+\paragraph{Code Smells:}
+\begin{itemize}
+	\item Duplizierter Code
+	\item Lange Methoden
+	\item Klassen mit vielen Instatnzvariablen
+	\item Klassen mit sehr viel Code
+	\item Auffällig ähnliche Unterklassen
+	\item Keine Interface, nur Klassen
+	\item Hohe Kopplung zwischen Klassen
+\end{itemize}
+
+
+Nach Refactorn wieder testen ob Code noch funktioniert.
+
+\subsubsection{Refactoring Patterns}
+\begin{itemize}
+	\item Rename Method/Class/Variable
+	\item Pull Up / Push Down
+	\begin{itemize}
+		\item Methode in Superklasse / Subklasse verschoben
+	\end{itemize}
+	\item Extract Interface / Superclass
+	\begin{itemize}
+		\item Teil bestehendes Interfaces/Klasse wird in eine Superinterface / Superklasse extrahiert.
+	\end{itemize}
+	\item Extract Method
+	\begin{itemize}
+		\item Teil einer Methode wird in eine private Methode ausgelagert
+	\end{itemize}
+	\item Extract Constant
+	\begin{itemize}
+		\item Symbolische Konstante verwenden
+	\end{itemize}
+	\item Introduce Explaining Variable
+	\begin{itemize}
+		\item Grossen Ausdruck aufteilen, erklärende Zwischenvariablen einfügen.
+	\end{itemize}
+\end{itemize}
+
+
+\subsection{Testing}
+\paragraph{Testarten:}
+\begin{enumerate}
+	\item Funktionaler Test (Black-Box Verfahren)
+	\item Nicht funktionaler Test (Lasttest etc)
+	\item Strukturbezogener Test (White-Box Verfahren)
+	\item Änderungsbezogener Test (Regressionstest)
+\end{enumerate}
+
+\paragraph{Weitere Teststufen und Testarten}
+\begin{itemize}
+	\item Integrationstest
+	\item Systemtest
+	\item Abnahmetest
+	\item Regressionstest
+\end{itemize}
+
+\subsubsection{Integrationstest}
+\begin{itemize}
+	\item Eine Klasse wird im Anwendungskontext eingesetzt
+	\item Keine Mockups sondern die richtigen referenzierten Klassen eingesetzt
+	\item Ganzes Subsystem oder ganzes System getestet
+	\item Black-Box-Test mit zusätzlichem Wissen über Internas
+\end{itemize}
+
+
+\subsubsection{Systemtest}
+\begin{itemize}
+	\item Ganzes System oder gesamte Anwenderlogik wird getestet
+	\item Typischerweise Black-Box-Test
+	\item Nicht nur während Entwicklung sondern auch vor Auslieferung an Kunden
+	\item Anwendungsfälle beiziehen
+\end{itemize}
+
+
+\subsubsection{Abnahmetest}
+\begin{itemize}
+	\item Nach der Auslieferung wird die gesamte Software vom Kunden getestet
+	\item Meist Systemtest über das UI
+	\item Reiner Black-Box-test
+	\item Orientiert sich an Anforderungen des Kunden
+	\item Oft relevant für die Bezahlung
+\end{itemize}
+
+
+\subsubsection{Regressionstest}
+\begin{itemize}
+	\item Automatische Wiederholung von Tests nach Veränderungen am Quelltext
+	\item Nach Refactoring
+	\item Nach Weiterentwicklung für Funktionen, die nicht geändert haben.
+\end{itemize}
+
+\subsubsection{Reproduktion von Fehlern}
+\begin{itemize}
+	\item Tesfall schreiben nach Meldung Fehler
+	\item Reproduziert Fehler möglichst exakt
+	\item Am besten Systemtest Anwendungslogik sonst über UI
+	\item Eher White-Box-Test
+\end{itemize}
+
+\subsubsection{Einbindung in den Prozess}
+\begin{itemize}
+	\item Testfall vor der Implementation schreiben:
+	\begin{itemize}
+		\item Black-Box Test, den der Entwickler selber schreibt
+	\end{itemize}
+
+	\item Testfall nach der Implementation schreiben:
+		\begin{itemize}
+		\item Black-Box Test, mit White-Box Test Bereicherungen
+		\item Unit-, Integration-und/oder Systemtests, Entwickler
+	\end{itemize}
+	\item Qualitätssicherung
+	\begin{itemize}
+		\item Black-Box System Test, eigene Organisationseinheit
+	\end{itemize}
+	\item Abnahmetest
+	\begin{itemize}
+		\item Black-Box System Test, Kunde
+	\end{itemize}
+	\item Reproduktion von Fehlern
+\end{itemize}
+
+
+
+\subsubsection{Wichtige Begriffe}
+\begin{itemize}
+	\item Testling, Testobjekt
+	\begin{itemize}
+		\item Objekt, das getestet wird
+	\end{itemize}
+	\item Fehler
+	\begin{itemize}
+		\item Entwickler macht einen Fehler
+	\end{itemize}
+	\item Fehlerwirkung, Bug
+	\begin{itemize}
+		\item Jedes zu den Spezifikationen abweichende Verhalten
+	\end{itemize}
+	\item Testfall
+	\begin{itemize}
+		\item Satz von Testdaten zur vollständigen Ausführung eines Tests
+	\end{itemize}
+	\item Testtreiber
+	\begin{itemize}
+		\item Rahmenprogramm, das den Test startet und ausführt
+	\end{itemize}
+\end{itemize}
+
+\subsubsection{Merkmale}
+\begin{itemize}
+	\item Was wird getestet
+	\begin{itemize}
+		\item Einheit/Klasse (Unit-Test)
+		\item Zusammenarbeit mehrerer Klassen
+		\item Gesamte Applikationslogik (ohne UI)
+		\item gesamte Anwendung (über UI)
+	\end{itemize}
+	\item Wie wird getestet
+	\begin{itemize}
+		\item Dynamisch: Testling wird ausgeführt
+		\begin{itemize}
+			\item Black-Box Test
+			\item White-Box Test
+		\end{itemize}
+		\item Statisch: Qelltext wird analysiert
+		\begin{itemize}
+			\itlem Walkthrough, Review, Inspektion
+		\end{itemize}
+	\end{itemize}
+	\item Wann wird der Test geschrieben?
+	\begin{itemize}
+		\item Vor dem Implementieren (TDD)
+		\item Nach dem Implementieren
+	\end{itemize}
+	\item Wer testet?
+	\begin{itemize}
+		\item Entwickler
+		\item Tester, Qualitätssicherung
+		\item Kunde, Endbenutzer
+	\end{itemize}
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
