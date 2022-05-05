@@ -331,8 +331,17 @@ Welches erste Objekt jenseits der UI-Schicht empfängt und koordiniert(kontrolli
 Lösung:\\
 Verantwortlichkeit der Klasse zuweisen, der eine der folgenden Bedingungen erfüllt:\\
 \begin{itemize}
-	\item 
+	\item Variante 1: Fassaden Controller:
+	\begin{itemize}
+		\item Repräsentiert "Root-Objekt", System bzw. übergeordnetes System auf dem die Sowftware läuft.
+	\end{itemize}
+	\item Variante 2: Use Case Controller:
+	\begin{itemize}
+		\item Pro Use-Case-Szenario eine künstliche Klasse, in der die Systemoperationen abläuft.
+	\end{itemize}
 \end{itemize}
+
+\textbf{{\large Controller macht selber nur wenig und delegiert fast alles!}}
 
 \begin{figure} [H]
 \centering
@@ -342,20 +351,106 @@ Verantwortlichkeit der Klasse zuweisen, der eine der folgenden Bedingungen erfü
 \end{figure}
 
 
+\subsubsection{Low Coupling}
+
+Ziel: geringe Abhängigkeit (besser für Refactoring)
+\begin{itemize}
+	\item Kopplung = Mass für die Abhängigkeit von anderen Elementen (Klassen, Subsystem,Systeme)
+	\item Hohe Kopplung= Element ist von vielen anderen Elementen abhängig
+	\begin{itemize}
+		\item Nachteil: Refactoring mühsam, schwieriger zu verstehen, schwieriger wiederzuverwenden
+		
+	\end{itemize}
+	\item Niederige Kopplung = Element ist nur von wenigen anderen Elementen abhängig.
+\end{itemize}
+
+
+Lösung:\\
+Verwantwortlichkeiten so zuweisen, dass Kopplung gering bleibt, Delegation Information Expert.
+
+\subsubsection{High Cohesion}
+
+Ziel:\\
+Erreichen, dass Objekte fokussiert, verständlich handbar bleiben und nebenbei Low Coupling unterstützen
+
+\begin{itemize}
+	\item Kohäsion = Mass für Verwandschaft und Fokussierung eines Elements
+	\item Hohe Kohäsion = Element erledigt nur wenige Aufgaben, die eng miteinander verwandt sind
+	\item Geringe Kohäsion = Element, das für viele unzusammenhängende Dinge verantwortlich ist
+\end{itemize}
+
+Nachteil geringe Kohäsion: Schwierig zu verstehen, schwierig wiederzuverwenden, brüchig und instabil, sind laufend von Änderungen betroffen
+
+Lösung:\\
+Verwantwortlichkeiten so zuweisen, dass Kohäsion hoch bleibt.
 
 
 
+\subsubsection{Polymorphismus}
+
+Ziel: Typabhängige Alternativen handhaben.
+\begin{itemize}
+	\item Operation weist viele if-then-else bzw. grosse switch-case Anweisungen auf
+	\item Bestimmtes Verhalten (z.B Einsatz eines externen Dienstes konfigurierbar machen.
+\end{itemize}
+
+Lösung:\\
+Typabhängige Verhalten mit polymorphen Operationen der Klasse zuweisen, dessen Verhalten variiert.
+\begin{itemize}
+	\item Grundlegende Idee OOP (Generalisierung / Spezialisierung)
+	\item Überprüfen dass Beziehung "is a" ist zwischen Superklase und Subklassen
+	\item Liskov-Substituions-Prinzip einhalten
+\end{itemize}
+
+\subsubsection{Pure Fabrication}
+Problem: Wollen nicht gegen High Cohesion und Low Coupling oder andere Ziele verstossen, aber Lösungen nicht passen
+\begin{itemize}
+	\item Viele Design-Klassen können direkt aus dem Fachbereich (Domänenmodell) abgeleitet werden und erfüllen das Low Representational Gap
+	\item viele Situationen wo es Probleme gibt wenn Verantwortlichkeiten der Klasse in der Domänenschicht zugewiesen werden
+\end{itemize}
+
+Lösung:\\
+\begin{itemize}
+	\item Hoch kohäsiven Satz von Verantwortlichkeiten einer künstlichen Hilfsklasse zuweisen
+	\item Nur erstellt um höhere Kohäsion, geringe Kopplung oder eine bessere Wiederverwendbarkeit zu realisieren.
+\end{itemize}
 
 
 
+\subsubsection{Indirection}
+Problem: Verantwortlichkeit zuweisen, so dass direkte Kopplung zwischen 2 oder mehrere Objekte vermeidet wird. Objekte Entkoppeln, für geringere Kopplung und Wiederverwendungspotentioal grösser.\\
+Ziel: Zwischen Adapter vermittelt\\
+Lösung:\\
+\begin{itemize}
+	\item Verantwortlichkeit einem zwischengeschalteten Objekt zuweisen
+	\item Vermittler schafft eine Indirektion zwischen den anderen Komponenten
+	\item Alternativen = Protected Variations
+	\item GoF Patterns wie Adapter, Bridge, Facade, Observer oder Mediator verwenden dieses Prinzip
+	\item viele Indirections sind Pure Fabrications
+\end{itemize}
+
+\subsubsection{Protected Variations}
+
+Problem: Objekte, Subsystem und Systeme entwerfen, so dass Veränderungen und Instabilitäten in diesen Elementen keinen Einfluss auf andere Elemente haben.\\
+Ziel: Im Vorfeld Erweiterungen vorbereiten für Zukunft.\\
+
+Lösung:\\
+
+Punkte identifizieren, an denen Veränderungen und Instabilitäten zu erwarten sind. Verantwortlichkeiten so zuweisen, dass diese Punkte durch ein stabiles Interface eingekapselt werden.\\
+Unterscheidung der Änderungspunkten:
+\begin{itemize}
+	\item Variationspunkt:
+	\begin{itemize}
+		\item Veränderung sind sicher(in Anforderung), zwingend PV Konzepte einbauen
+		\item Entwicklungspunkt:
+		\begin{itemize}
+			\item Veränderungen nicht sicher, treffen mit hoher Wahrscheinlichkeit ein, sind nicht in Anforderungen enthalten.
+		\end{itemize}
+	\end{itemize}
+\end{itemize}
 
 
-
-
-
-
-
-
+Spekulative Anwendungen vermeiden, sonst unnötige Komplexität.
 
 
 
