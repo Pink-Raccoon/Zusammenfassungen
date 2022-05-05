@@ -74,3 +74,21 @@
 \contentsline {subsubsection}{\numberline {8.5.5}Broker Pattern}{27}{subsubsection.8.5.5}%
 \contentsline {subsubsection}{\numberline {8.5.6}Event-Bus Pattern}{27}{subsubsection.8.5.6}%
 \contentsline {subsubsection}{\numberline {8.5.7}Model View Controller Pattern}{28}{subsubsection.8.5.7}%
+\contentsline {section}{\numberline {9}Softwarearchitekur und Design II}{28}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Objektorientierung}{28}{subsection.9.1}%
+\contentsline {paragraph}{Grundidee: }{28}{section*.20}%
+\contentsline {paragraph}{Objektorientierte Analyse(OOA): }{28}{section*.21}%
+\contentsline {paragraph}{Objektorientierten Design (OOD): }{28}{section*.22}%
+\contentsline {paragraph}{Domänenschicht: }{28}{section*.23}%
+\contentsline {subsubsection}{\numberline {9.1.1}Use Cases und System-Sequenzdiagramm}{28}{subsubsection.9.1.1}%
+\contentsline {paragraph}{Basis für das Design: }{28}{section*.24}%
+\contentsline {subparagraph}{Was programmiert werden muss: }{28}{section*.25}%
+\contentsline {paragraph}{Use-Case-Realisierung: }{29}{section*.26}%
+\contentsline {paragraph}{Systemoperationen: }{29}{section*.27}%
+\contentsline {paragraph}{UML-Diagramme: }{29}{section*.28}%
+\contentsline {subsubsection}{\numberline {9.1.2}Klassen entwerfen: }{29}{subsubsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.2}UML-Diagramme für das Design}{29}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}Grundelemente der UML}{29}{subsubsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.3}UML-Klassendiagramm}{29}{subsection.9.3}%
+\contentsline {subsubsection}{\numberline {9.3.1}Notationselemente}{30}{subsubsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.4}UML-Interaktionsdiagramme}{30}{subsection.9.4}%
