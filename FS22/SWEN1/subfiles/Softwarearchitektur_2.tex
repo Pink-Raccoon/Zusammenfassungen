@@ -81,14 +81,14 @@ Zwei arten von Design-Modellen (ergänzen sich und werden parallel erstellt):
 \caption{\label{fig:Grundelemente_Klassendiagramm}Grundelemente\_Klassendiagramm.}
 \end{figure}
 
-\subsection{UML-Klassendiagramm}
+\subsubsection{UML-Klassendiagramm}
 \begin{itemize}
 	\item Statische struktur
 	\item Konzeptuell: Problemdomäne (Domänenmodell)
 	\item Design: Lösungsdomäne (DCD)
 \end{itemize}
 
-\subsubsection{Notationselemente}
+\subparagraph{Notationselemente}
 \begin{itemize}
 	\item Klasse
 	\item Attribut
@@ -108,7 +108,7 @@ Zwei arten von Design-Modellen (ergänzen sich und werden parallel erstellt):
 	\item Aktive Klasse (Instanz wird in einem separaten Thread ausgeführt)
 \end{itemize}
 
-\subsection{UML-Interaktionsdiagramme}
+\subsubsection{UML-Interaktionsdiagramme}
 
 Spezifiziert, auf welche Weise Nachrichten und Daten zwischen Interaktionspartnern ausgetauscht werden. \\
 
@@ -147,30 +147,105 @@ Spezifiziert, auf welche Weise Nachrichten und Daten zwischen Interaktionspartne
 	\item Antwortnachricht
 	\item Gefundene, verlorene Nachricht
 	\item kombiniertes Fragment
+	\item Erzeugnis-, Löschereignis
+	\item Selbstaufruf
+	\item Interaktionsreferenz
+	\item Lebenslinie mit aktiver Klasse
+	\item Asynchrone Nachricht
 \end{itemize}
 
-\begin{figure}[H]
-\centering
-\includegraphics[width=0.3\textwidth]{/Resources/Images/interaktionsdiagramm1.png}
-\caption{\label{fig:interaktionsdiagramm1}interaktionsdiagramm1}
-\end{figure}
 
 
 
+	
 
 
 
+\subsubsection{UML-Kommunikationsdiagramm}
+\paragraph{Beantwortet Frage:}\\
+Wer kommuniziert mit werm? Wer arbeitet im System zusammen? Darstellung Informationsaustausch zwischen Kommunikationspartnern. Überblick im Vordergrund.
+\paragraph{Notationselemente:}
+\begin{itemize}
+	\item Lebenslinie (Box)
+	\item Synchrone Nachricht (=Aufruf einer Operation)
+	\item Antwortnachricht (=Rückgabewert)
+	\item Bedingte Nachrichten "[]"
+	\item Iteration "*"
+	\item Nummerierung der Nachrichten (Festlegung Zeitliche Abfolge)
+	\begin{itemize}
+		\item Systemoperation (msg1, ohne Nummer)
+		\item Nummern gleicher Hierarchie(1,2,3...)
+		\item Nummer unterer Hierarchie:
+		\begin{itemize}
+			\item Werden innerhalb der Operation darüber ausgeführt (verschachtelt)
+			\item Operation 1.1:msg3 wird innerhalb von Operation 1:msg2 aufgerufen
+		\end{itemize}
+	\end{itemize}
+
+\end{itemize}
+
+\subsubsection{UML-Zustandsdiagramm}
+\paragraph{Beantwortet zentrale Frage:}\\
+Weleche Zustände kann ein Objekt, eine Schnittstelle, ein Use Case, ...bei welchen Ereignissen annehmen?\\
+Präzise Abbildung eines Zustandmodells (endlicher Automat):
+\begin{itemize}
+	\item Zuständen
+	\item Ereignissen
+	\item Nebenläufigkeiten
+	\item Bedingungen
+	\item Ein- und Austrittsaktionen
+\end{itemize}
+\subparagraph{Verwendung:} Modellierung von Echtzeitsystemen, Steuerungen und Protokollen 
+
+\paragraph{Notationselemente:}
+\begin{itemize}
+	\item Start-, Endzustand
+	\item einfacher Zustand
+	\item Zusammengesetzter bzw. geschachtelter Zustand
+	\item Transition
+	\item Orthogonaler Zustand
+	\item Parallelisierungsknoten
+	\item Synchronisationsknoten
+	\item Einstiepunkt
+	\item Ausstigespunkt
+	\item Unterzustandautomat
+	\item Zusammengesetzter Zustand
+	\item Flache und tiefe Historie
+\end{itemize}
 
 
+\subsubsection{UML-Aktivitätsdiagramm}
+\paragraph{Beantwortet zentrale Frage:}\\
+Wie läuft ein bestimmter Prozess oder ein Algortithmus ab?\\
+Detaillierte Visualisierung von Abläufen:
+\begin{itemize}
+	\item Bedingungen
+	\item Schleifen
+	\item Verweigungen
+\end{itemize}
+
+Parallelisierung und Synchronisation von Aktionen möglich.
+
+\paragraph{Notationselemente:}
+\begin{itemize}
+	\item Aktivität
+	\item Aktionsknoten (Aktion)
+	\item Objektknoten (Objekt)
+	\item Entscheidungs- und Vereinigungsknoten
+	\item Initialknoten
+	\item Aktivitätsendknoten
+	\item Partition / Swimlane
+	\item Parallelisierungsknoten
+	\item Synchronisationsknoten
+	\item SendSignal-Aktion
+	\item Ereignis- bzw. Zeitereignisannahmeaktion
+	\item CallBehavior-Aktion
+\end{itemize}
 
 
-
-
-
-
-
-
-
+\subsection{Verantwortlichkeiten und Responsibility-Driven-Design}:
+Methode über Entwurf Softwareklassen nachzudenken:
+\textcolor {yelloworange} {\textbf{Verantwortlichkeiten, Rollen, Kollaborationsbeziehungen}}
 
 
 
