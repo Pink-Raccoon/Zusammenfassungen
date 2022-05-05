@@ -245,7 +245,180 @@ Parallelisierung und Synchronisation von Aktionen möglich.
 
 \subsection{Verantwortlichkeiten und Responsibility-Driven-Design}:
 Methode über Entwurf Softwareklassen nachzudenken:
-\textcolor {yelloworange} {\textbf{Verantwortlichkeiten, Rollen, Kollaborationsbeziehungen}}
+\textcolor {yelloworange} {\textbf{Verantwortlichkeiten, Rollen, Kollaborationsbeziehungen}} = \textbf{RDD / Responsibility Driven Design}\\
+
+Softwareobjekte haben Verantwortlichkeiten und arbeiten mit anderen Objekten zusammen.\\
+Verantwortlichkeiten werden durch Attribute und Methoden implementiert.\\
+Kann auf jeder Ebene des Designs angwendet werden:
+\begin{itemize}
+	\item Klasse
+	\item Komponente
+	\item Schicht
+\end{itemize}
+
+
+\paragraph{2 Ausprägungen von Verantwortlichkeiten:}
+\subparagraph{\textcolor {brick}{\textbf{Doing-Verantwortlichkeiten / Algorithmen, Code:}}
+\begin{itemize}
+	\item Selbst etwas tun
+	\item Aktionen anderer Objekte anstossen
+	\item Aktivitäten anderer Objekte kontrollieren und steuern
+\end{itemize}
+
+\subparagraph{\textcolor {brick}{\textbf{Knowing-Verantwortlichkeit / Daten, Attribute: }}
+\begin{itemize}
+	\item Private eingekapselte Daten
+	\item Dinge kennen, die es ableiten oder berechnen kann
+	\item Daten/Objekte zur Verfügung stellen, die aus bekannten Daten/Objekten abgeleitet oder berechnet werden können
+\end{itemize}
+
+
+\subsubsection{GRASP- 9 Patterns}
+\begin{enumerate}
+	\item \textbf{Information Expert}
+	\begin{itemize}
+		\item \textcolor {teal} {Derjenige, der was weiss}
+	\end{itemize}
+	\item \textbf{Creator}
+		\begin{itemize}
+		\item \textcolor {teal} {Zuständig erstellen Objekte(new())im Framework ABER delegiert als Dependency Injection}
+	\end{itemize}
+	\item \textbf{Controller /Domain Controller = Service}
+	\item \textbf{Low Coupling}
+		\begin{itemize}
+		\item \textcolor {teal} {Weniger Abhängigkeiten}
+	\end{itemize}
+	\item \textbf{High Cohesion}
+		\begin{itemize}
+		\item \textcolor {teal} {Abhängigkeiten zusammentun}
+	\end{itemize}
+	\item \textbf{Polymorphism}
+		\begin{itemize}
+		\item \textcolor {teal} {Unterschiedliche Objekte können gleiche Nachricht empfangen und interpretieren}
+	\end{itemize}
+	\item \textbf{Pure Fabrication}
+	\item \textbf{Indirection}
+	\item \textbf{Protected Variations}
+\end{enumerate}
+
+\subsubsection{Information Expert}
+
+Lösung:\\
+Verantwortlichkeit einer Klasse zuweisen, die über die erforderlichen Informationen verfügt, um sie zu erfüllen. Partielle Verantwortlichkeiten sind auch möglich.\\
+Alternativen:\\
+Low Coupling, High Cohesion (Künstliche Klasse)
+
+
+
+\subsubsection{Creator}
+Denn Nachteil von new..() = Kopplung\\
+Lösung:\\
+\textbf {Klasse A} zuständig eine neue Instanz einer \textbf{Klasse B} zu erzeugen, wenn eine oder mehrerere der folgenden Aussagen wahr ist(je mehr desto besser):\\
+\begin{itemize}
+	\item A eine Aggregation oder ein Kompositum von B
+	\item A registriert oder erfasst B-Objekte
+	\item A arbeitet eng mit B-Objekten zusammen oder hat enge Kopplung
+	\item A verfügt über Initialisierungsdaten für B (A ist Experte bezüglich Erzeugung von B)
+\end{itemize}
+Wenn mehrere Optionen anwendbar sind, Klasse A vorziehen, die ein Aggregat oder ein Kompositum ist.\\
+Alternative:\\
+Factory Pattern, Dependency Injection(DI)
+
+\subsubsection{Controller}
+
+Service = 1.Schicht = Domain Controller\\
+Welches erste Objekt jenseits der UI-Schicht empfängt und koordiniert(kontrolliert) eine Systemoperation?\\
+Lösung:\\
+Verantwortlichkeit der Klasse zuweisen, der eine der folgenden Bedingungen erfüllt:\\
+\begin{itemize}
+	\item 
+\end{itemize}
+
+\begin{figure} [H]
+\centering
+\includegraphics[width=0.3\textwidth]{\Resources\Images\Controller.png}
+\caption{\label{fig:Controller}Controller.}
+
+\end{figure}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
