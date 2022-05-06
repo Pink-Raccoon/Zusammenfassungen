@@ -36,8 +36,23 @@
 \subsubsection{Simple Factory}
 \begin{itemize}
 	\item Problem
+	\begin{itemize}
+		\item Das Erzeugen eines neuen Objekts ist aufwändig
+	\end{itemize}
 	\item Lösung
+		\item Eine eigene Klasse für das Erzeugen eines neuen Objekts wird geschrieben
 	\item Hinweise
+	\begin{itemize}
+		\item Erzeugung oft abhängig von Konfiguration
+		\item Auch möglich create() mit Parametern zu ergänzen
+		\item Delegation Implementieren von Interfaces z.B
+		\item Factory kann allenfalls erzeugten Objekte zwischenspeichern und wiederverwenden
+	\end{itemize}
+	\item Alternativen
+	\begin{itemize}
+		\item GoF Abstract Factory: Erzeugung einer Familie von verwandten Objekte
+		\item GoF Factory Method: Basisklasse abstrakte Methode definiert, Objekt eines bestimmten Interfaces zu erzeugen. In abgeleiteten Klassen Methode überschrieben und erzeugt gewünschtes Objekt.
+	\end{itemize}
 \end{itemize}
 
 
@@ -49,8 +64,27 @@
 \subsubsection{Singleton}
 \begin{itemize}
 	\item Problem
+	\begin{itemize}
+		\item Benötigt von einer Klasse eine einzige Instanz
+		\item Instanz global sichtibar sein
+	\end{itemize}
 	\item Lösung
+	\begin{itemize}
+		\item Klasse mit statischen Methode, liefert immer dasselbe Objekt zurück
+		\item Statische Methode public deklarieren
+	\end{itemize}
 	\item Hinweise
+	\begin{itemize}
+		\item Globale Sichtbarkeit kritisch
+		\item Lazy Creation für Instanz möglich, dann aber getInstance() synchronisiert werden.
+	\end{itemize}
+	\item Allgeimen
+	\begin{itemize}
+		\item Singletons dann wichtig, wenn einen zentralen Ort braucht um Ressourcen zu verwalten
+		\item Speicherplatz wird gespart mit nur einem Objekt
+		\item Java Enum Instanzen sind ebenfalls Singletons
+		\item Globale Sichtbarkeit eher problematisch
+	\end{itemize}
 \end{itemize}
 
 
@@ -58,8 +92,28 @@
 \subsubsection{Dependency Injection}
 \begin{itemize}
 	\item Problem
+	\begin{itemize}
+		\item Klasse braucht Referenz auf ein anderes Objekt. Dieses Objekt muss ein bestimmtes Interface definieren, je nach Konfiguration mit einer anderen Funktionalität.
+	\end{itemize}
 	\item Lösung
+	\begin{itemize}
+		\item Anstelle Klasse abhängige Objekt selber erzeugt, Objekt von aussen (Injector) gesetzt
+	\end{itemize}
 	\item Hinweise
+	\begin{itemize}
+		\item Ersatz für Factory Pattern
+		\item Direkter Widerspruch zu GRASP Creator Prinzip
+		\item Unterstüzt von vielen Frameworks kann auch ohne angewendet werden
+		\item Erleichtert schreiben von Testfällen insbesondere Gebrauch von Mocks
+	\end{itemize}
+	\item Varianten
+	\begin{itemize}
+		\item DI über setter Methoden
+		\item Service bei Constructor vom Client übergeben werden
+		\item DI initialisiert ganze Anwendung
+	\end{itemize}
+	\item Frameworks verwenden Annotationen um anzuzeigen welche Attribute über DI gesetzt werden sollen.
+	
 \end{itemize}
 
 
@@ -68,18 +122,50 @@
 \subsubsection{Proxy}
 \begin{itemize}
 	\item Problem
+	\begin{itemize}
+		\item Objekt ist nicht oder noch nicht im selben Adressraum verfügbar
+	\end{itemize}
 	\item Lösung
+	\begin{itemize}
+		\item Stellvertreter Objekt mit demselben Interface anstelle des richtigen Objekts verwendet
+		\item Proxy Objekt leitet alle Methodenaufrufe zum richtigen Objekt weiter
+	\end{itemize}
+	\item Einsatz als (Strucktur ist dieselbe!)
+	\begin{itemize}
+		\item Remote Proxy = Proxy für Objekt in einem anderen Adressraum und übernimmt Kommunikation mit diesem
+		\item Virtual Proxy = verzögert Erzeugen des richtigen Objekts auf das 1. Mal, dass dieses benutzt wird
+		\item Protection Proxy = Kontrolliert Zugriff auf das richtige Objekt
+	\end{itemize}
 	\item Hinweise
+	\begin{itemize}
+		\item Unterschied zu Adapter: "Adaptee" in diesem Fall dasselbe Interface implementiert wie "Adapter"
+		\item Vom Aufbau identisch mit Decorator Pattern hat aber einen anderen Zweck
+		\item Persistenzframeworks verwenden Virtual Proxy Objekte, um das Erzeugen von Objekten und damit das Herunterladen der Daten zu verzögern, bis die Daten wirklich gebraucht werden.
+	\end{itemize}
 \end{itemize}
 
 
 \subsubsection{Chain of Responsibility}
 \begin{itemize}
 	\item Problem
+	\begin{itemize}
+		\item Für Anfrage potentiell mehrere handler, aber richtigen Handler im Vornherein nicht möglich herauszufinden
+	\end{itemize}
 	\item Lösung
+	\begin{itemize}
+		\item Handler in einer einfach verketteten Liste hintereinandergeschachtelt.
+		\item Jeder Handler entscheidet, ob der die Anfrage selber beantworten möchte oder sie an den nächsten Handler weiterleitet.
+	\end{itemize}
 	\item Hinweise
+	\begin{itemize}
+		\item Variante davon:Jeder Handler leitet Anfrage an den nächsten, unabhängig dabon, ob er sie selber behandelt oder nicht
+		\item Könnte auch sein, dass gar kein Handler Anfrage behandelt		
+	\end{itemize}
+	\item Allgemein
+	\begin{itemize}
+		\item Bei allen hierarchischen Stufen: Wenn Referenz auf Parent Node vorhanden, Anfrage zum Parent weiterleiten wenn dies Node selber nicht beabeiten kann.
+	\end{itemize}
 \end{itemize}
-
 
 
 
