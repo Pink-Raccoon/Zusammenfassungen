@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  29 APR 2022 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  5 MAY 2022 19:56
 entering extended mode
 **./ZF_SWEN1.tex
 (ZF_SWEN1.tex
@@ -514,7 +514,7 @@ LaTeX Info: Redefining \nameref on input line 31.
  [2]
 (subfiles/Software Engineering.tex) (subfiles/Prozess und Prozess-Modell.tex
 [3] [4]
-<Resources/Images/CharaktersierungProzessmodellen.png, id=316, 655.69969pt x 28
+<Resources/Images/CharaktersierungProzessmodellen.png, id=441, 655.69969pt x 28
 8.3272pt>
 File: Resources/Images/CharaktersierungProzessmodellen.png Graphic file (type p
 ng)
@@ -527,7 +527,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
 
-<Resources/Images/UML_Diagramme.png, id=318, 759.58781pt x 414.04688pt>
+<Resources/Images/UML_Diagramme.png, id=443, 759.58781pt x 414.04688pt>
 File: Resources/Images/UML_Diagramme.png Graphic file (type png)
 <use Resources/Images/UML_Diagramme.png>
 Package pdftex.def Info: Resources/Images/UML_Diagramme.png  used on input line
@@ -548,7 +548,7 @@ l.40 		\item K
  <./Resources/Images/CharaktersierungProzessmodellen.png> <./Resources/Images/U
 ML_Diagramme.png>]) (subfiles/Wesentliche Artefakte.tex [6])
 (subfiles/Usability und User Experience (UX).tex
-<Resources/Images/Usability.png, id=332, 431.36156pt x 272.51813pt>
+<Resources/Images/Usability.png, id=457, 431.36156pt x 272.51813pt>
 File: Resources/Images/Usability.png Graphic file (type png)
 <use Resources/Images/Usability.png>
 Package pdftex.def Info: Resources/Images/Usability.png  used on input line 6.
@@ -565,7 +565,7 @@ has been already used, duplicate ignored
 l.15 	\item \textbf
                    {4 wichtige Aspekte} <./Resources/Images/Usability.png>]
 [8] [9]) (subfiles/User-Centered Design (UCD).tex
-<Resources/Images/UCD_Process.png, id=348, 707.64375pt x 603.0028pt>
+<Resources/Images/UCD_Process.png, id=473, 707.64375pt x 603.0028pt>
 File: Resources/Images/UCD_Process.png Graphic file (type png)
 <use Resources/Images/UCD_Process.png>
 Package pdftex.def Info: Resources/Images/UCD_Process.png  used on input line 6
@@ -577,13 +577,13 @@ Package pdftex.def Info: Resources/Images/UCD_Process.png  used on input line 6
                                                   \__shipout_drop_firstpage_...
 l.46 	\item C
              ontextual Inquiry <./Resources/Images/UCD_Process.png>]
-<Resources/Images/Stakeholdermap.png, id=355, 343.2825pt x 325.96782pt>
+<Resources/Images/Stakeholdermap.png, id=480, 343.2825pt x 325.96782pt>
 File: Resources/Images/Stakeholdermap.png Graphic file (type png)
 <use Resources/Images/Stakeholdermap.png>
 Package pdftex.def Info: Resources/Images/Stakeholdermap.png  used on input lin
 e 81.
 (pdftex.def)             Requested size: 133.07489pt x 126.36095pt.
-<Resources/Images/Blueprint.png, id=356, 633.86812pt x 280.79906pt>
+<Resources/Images/Blueprint.png, id=481, 633.86812pt x 280.79906pt>
 File: Resources/Images/Blueprint.png Graphic file (type png)
 <use Resources/Images/Blueprint.png>
 Package pdftex.def Info: Resources/Images/Blueprint.png  used on input line 87.
@@ -607,7 +607,7 @@ s been already used, duplicate ignored
 l.97 	\item A
              usgehend von den Resultaten des UCD -> User-Anforderungen ablei...
  <./Resources/Images/Stakeholdermap.png> <./Resources/Images/Blueprint.png>]
-<Resources/Images/UseCaseDiagramm.png, id=366, 283.81032pt x 240.9pt>
+<Resources/Images/UseCaseDiagramm.png, id=491, 283.81032pt x 240.9pt>
 File: Resources/Images/UseCaseDiagramm.png Graphic file (type png)
 <use Resources/Images/UseCaseDiagramm.png>
 Package pdftex.def Info: Resources/Images/UseCaseDiagramm.png  used on input li
@@ -615,20 +615,20 @@ ne 165.
 (pdftex.def)             Requested size: 133.07489pt x 112.95834pt.
 
 [12]
-<Resources/Images/UseCaseDiagramm2.png, id=371, 403.5075pt x 216.81pt>
+<Resources/Images/UseCaseDiagramm2.png, id=496, 403.5075pt x 216.81pt>
 File: Resources/Images/UseCaseDiagramm2.png Graphic file (type png)
 <use Resources/Images/UseCaseDiagramm2.png>
 Package pdftex.def Info: Resources/Images/UseCaseDiagramm2.png  used on input l
 ine 174.
 (pdftex.def)             Requested size: 133.07489pt x 71.50119pt.
-<Resources/Images/Systemsequenzdiagramm.png, id=372, 630.10406pt x 508.90125pt>
+<Resources/Images/Systemsequenzdiagramm.png, id=497, 630.10406pt x 508.90125pt>
 
 File: Resources/Images/Systemsequenzdiagramm.png Graphic file (type png)
 <use Resources/Images/Systemsequenzdiagramm.png>
 Package pdftex.def Info: Resources/Images/Systemsequenzdiagramm.png  used on in
 put line 184.
 (pdftex.def)             Requested size: 133.07489pt x 107.4781pt.
-<Resources/Images/SSD2.png, id=373, 554.07pt x 435.87843pt>
+<Resources/Images/SSD2.png, id=498, 554.07pt x 435.87843pt>
 File: Resources/Images/SSD2.png Graphic file (type png)
 <use Resources/Images/SSD2.png>
 Package pdftex.def Info: Resources/Images/SSD2.png  used on input line 191.
@@ -660,7 +660,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
-<Resources/Images/OperationContract.png, id=388, 494.59781pt x 423.83344pt>
+<Resources/Images/OperationContract.png, id=513, 494.59781pt x 423.83344pt>
 File: Resources/Images/OperationContract.png Graphic file (type png)
 <use Resources/Images/OperationContract.png>
 Package pdftex.def Info: Resources/Images/OperationContract.png  used on input 
@@ -679,34 +679,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--16
  []
 
 [15]
-<Resources/Images/DM1.png, id=405, 643.6547pt x 479.54156pt>
+<Resources/Images/DM1.png, id=530, 643.6547pt x 479.54156pt>
 File: Resources/Images/DM1.png Graphic file (type png)
 <use Resources/Images/DM1.png>
 Package pdftex.def Info: Resources/Images/DM1.png  used on input line 25.
 (pdftex.def)             Requested size: 133.07489pt x 99.14081pt.
-<Resources/Images/DM2.png, id=406, 690.32906pt x 519.44063pt>
+<Resources/Images/DM2.png, id=531, 690.32906pt x 519.44063pt>
 File: Resources/Images/DM2.png Graphic file (type png)
 <use Resources/Images/DM2.png>
 Package pdftex.def Info: Resources/Images/DM2.png  used on input line 33.
 (pdftex.def)             Requested size: 133.07489pt x 100.12935pt.
-<Resources/Images/DM3.png, id=407, 715.92468pt x 522.45187pt>
+<Resources/Images/DM3.png, id=532, 715.92468pt x 522.45187pt>
 File: Resources/Images/DM3.png Graphic file (type png)
 <use Resources/Images/DM3.png>
 Package pdftex.def Info: Resources/Images/DM3.png  used on input line 39.
 (pdftex.def)             Requested size: 133.07489pt x 97.10648pt.
-<Resources/Images/Kategorienliste1.png, id=408, 867.24pt x 391.4625pt>
+<Resources/Images/Kategorienliste1.png, id=533, 867.24pt x 391.4625pt>
 File: Resources/Images/Kategorienliste1.png Graphic file (type png)
 <use Resources/Images/Kategorienliste1.png>
 Package pdftex.def Info: Resources/Images/Kategorienliste1.png  used on input l
 ine 73.
 (pdftex.def)             Requested size: 133.07489pt x 60.06679pt.
-<Resources/Images/Kategorienliste2.png, id=409, 872.50969pt x 339.51843pt>
+<Resources/Images/Kategorienliste2.png, id=534, 872.50969pt x 339.51843pt>
 File: Resources/Images/Kategorienliste2.png Graphic file (type png)
 <use Resources/Images/Kategorienliste2.png>
 Package pdftex.def Info: Resources/Images/Kategorienliste2.png  used on input l
 ine 81.
 (pdftex.def)             Requested size: 133.07489pt x 51.78036pt.
-<Resources/Images/Kategorienliste3.png, id=410, 855.94781pt x 348.55219pt>
+<Resources/Images/Kategorienliste3.png, id=535, 855.94781pt x 348.55219pt>
 File: Resources/Images/Kategorienliste3.png Graphic file (type png)
 <use Resources/Images/Kategorienliste3.png>
 Package pdftex.def Info: Resources/Images/Kategorienliste3.png  used on input l
@@ -745,37 +745,37 @@ l.111 \begin
             {figure}[H] <./Resources/Images/DM1.png> <./Resources/Images/DM2.pn
 g> <./Resources/Images/DM3.png> <./Resources/Images/Kategorienliste1.png> <./Re
 sources/Images/Kategorienliste2.png> <./Resources/Images/Kategorienliste3.png>]
-<Resources/Images/AntiPattern1.png, id=439, 342.5297pt x 76.03406pt>
+<Resources/Images/AntiPattern1.png, id=564, 342.5297pt x 76.03406pt>
 File: Resources/Images/AntiPattern1.png Graphic file (type png)
 <use Resources/Images/AntiPattern1.png>
 Package pdftex.def Info: Resources/Images/AntiPattern1.png  used on input line 
 113.
 (pdftex.def)             Requested size: 133.07489pt x 29.54062pt.
-<Resources/Images/AntiPattern2.png, id=440, 357.58594pt x 63.23625pt>
+<Resources/Images/AntiPattern2.png, id=565, 357.58594pt x 63.23625pt>
 File: Resources/Images/AntiPattern2.png Graphic file (type png)
 <use Resources/Images/AntiPattern2.png>
 Package pdftex.def Info: Resources/Images/AntiPattern2.png  used on input line 
 119.
 (pdftex.def)             Requested size: 133.07489pt x 23.53308pt.
-<Resources/Images/AntiPatternSoftware.png, id=441, 912.40875pt x 412.54124pt>
+<Resources/Images/AntiPatternSoftware.png, id=566, 912.40875pt x 412.54124pt>
 File: Resources/Images/AntiPatternSoftware.png Graphic file (type png)
 <use Resources/Images/AntiPatternSoftware.png>
 Package pdftex.def Info: Resources/Images/AntiPatternSoftware.png  used on inpu
 t line 141.
 (pdftex.def)             Requested size: 133.07489pt x 60.1663pt.
-<Resources/Images/BeispielDomänenmodell.png, id=442, 616.55344pt x 493.845pt>
+<Resources/Images/BeispielDomänenmodell.png, id=567, 616.55344pt x 493.845pt>
 File: Resources/Images/BeispielDomänenmodell.png Graphic file (type png)
 <use Resources/Images/BeispielDomänenmodell.png>
 Package pdftex.def Info: Resources/Images/BeispielDomänenmodell.png  used on i
 nput line 150.
 (pdftex.def)             Requested size: 133.07489pt x 106.58905pt.
-<Resources/Images/Beschreibungsklassen.png, id=443, 322.95656pt x 70.76437pt>
+<Resources/Images/Beschreibungsklassen.png, id=568, 322.95656pt x 70.76437pt>
 File: Resources/Images/Beschreibungsklassen.png Graphic file (type png)
 <use Resources/Images/Beschreibungsklassen.png>
 Package pdftex.def Info: Resources/Images/Beschreibungsklassen.png  used on inp
 ut line 164.
 (pdftex.def)             Requested size: 133.07489pt x 29.15826pt.
-<Resources/Images/BeschreibungsklasseFlug.png, id=444, 276.28218pt x 135.50626p
+<Resources/Images/BeschreibungsklasseFlug.png, id=569, 276.28218pt x 135.50626p
 t>
 File: Resources/Images/BeschreibungsklasseFlug.png Graphic file (type png)
 <use Resources/Images/BeschreibungsklasseFlug.png>
@@ -820,7 +820,7 @@ l.173 			\end{multicols}
 ges/AntiPattern2.png> <./Resources/Images/AntiPatternSoftware.png> <./Resources
 /Images/BeispielDomänenmodell.png> <./Resources/Images/Beschreibungsklassen.pn
 g> <./Resources/Images/BeschreibungsklasseFlug.png>]
-<Resources/Images/GeneralisierungSpezialisierung.png, id=461, 933.4875pt x 305.
+<Resources/Images/GeneralisierungSpezialisierung.png, id=586, 933.4875pt x 305.
 64188pt>
 File: Resources/Images/GeneralisierungSpezialisierung.png Graphic file (type pn
 g)
@@ -833,7 +833,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--181
 []\OT1/cmr/m/n/10 Abbildung 24:
  []
 
-<Resources/Images/GeneralisierungSpezialisierungAttribute.png, id=462, 477.2831
+<Resources/Images/GeneralisierungSpezialisierungAttribute.png, id=587, 477.2831
 3pt x 242.40562pt>
 File: Resources/Images/GeneralisierungSpezialisierungAttribute.png Graphic file
  (type png)
@@ -846,25 +846,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--187
 []\OT1/cmr/m/n/10 Abbildung 25:
  []
 
-<Resources/Images/Zustände.png, id=463, 405.76593pt x 225.09094pt>
+<Resources/Images/Zustände.png, id=588, 405.76593pt x 225.09094pt>
 File: Resources/Images/Zustände.png Graphic file (type png)
 <use Resources/Images/Zustände.png>
 Package pdftex.def Info: Resources/Images/Zustände.png  used on input line 196
 .
 (pdftex.def)             Requested size: 133.07489pt x 73.82343pt.
-<Resources/Images/DMRolleName.png, id=464, 556.32843pt x 417.81094pt>
+<Resources/Images/DMRolleName.png, id=589, 556.32843pt x 417.81094pt>
 File: Resources/Images/DMRolleName.png Graphic file (type png)
 <use Resources/Images/DMRolleName.png>
 Package pdftex.def Info: Resources/Images/DMRolleName.png  used on input line 2
 04.
 (pdftex.def)             Requested size: 133.07489pt x 99.93878pt.
-<Resources/Images/DMRolleKonzept.png, id=465, 704.6325pt x 372.64218pt>
+<Resources/Images/DMRolleKonzept.png, id=590, 704.6325pt x 372.64218pt>
 File: Resources/Images/DMRolleKonzept.png Graphic file (type png)
 <use Resources/Images/DMRolleKonzept.png>
 Package pdftex.def Info: Resources/Images/DMRolleKonzept.png  used on input lin
 e 210.
 (pdftex.def)             Requested size: 133.07489pt x 70.37628pt.
-<Resources/Images/Assoziationsklasse.png, id=466, 425.33907pt x 145.29282pt>
+<Resources/Images/Assoziationsklasse.png, id=591, 425.33907pt x 145.29282pt>
 File: Resources/Images/Assoziationsklasse.png Graphic file (type png)
 <use Resources/Images/Assoziationsklasse.png>
 Package pdftex.def Info: Resources/Images/Assoziationsklasse.png  used on input
@@ -876,7 +876,7 @@ Overfull \hbox (66.76851pt too wide) in paragraph at lines 217--221
 -tID f[]ur Kre-dit-kar-te Gesch[]aft<->AuthorizationService): 
  []
 
-<Resources/Images/Einheiten.png, id=467, 444.15938pt x 155.07938pt>
+<Resources/Images/Einheiten.png, id=592, 444.15938pt x 155.07938pt>
 File: Resources/Images/Einheiten.png Graphic file (type png)
 <use Resources/Images/Einheiten.png>
 Package pdftex.def Info: Resources/Images/Einheiten.png  used on input line 227
@@ -916,7 +916,7 @@ l.230 	\end{itemize}
 /Resources/Images/GeneralisierungSpezialisierungAttribute.png> <./Resources/Ima
 ges/Zustände.png> <./Resources/Images/DMRolleName.png> <./Resources/Images/DMR
 olleKonzept.png> <./Resources/Images/Assoziationsklasse.png>]
-<Resources/Images/Zeitintervall.png, id=484, 456.95718pt x 161.10187pt>
+<Resources/Images/Zeitintervall.png, id=609, 456.95718pt x 161.10187pt>
 File: Resources/Images/Zeitintervall.png Graphic file (type png)
 <use Resources/Images/Zeitintervall.png>
 Package pdftex.def Info: Resources/Images/Zeitintervall.png  used on input line
@@ -941,20 +941,20 @@ gnored
 l.52 	\item U
              se Case / User Story Realisierung <./Resources/Images/Einheiten.pn
 g> <./Resources/Images/Zeitintervall.png>]
-<Resources/Images/Übersicht.png, id=495, 557.08125pt x 527.72156pt>
+<Resources/Images/Übersicht.png, id=620, 557.08125pt x 527.72156pt>
 File: Resources/Images/Übersicht.png Graphic file (type png)
 <use Resources/Images/Übersicht.png>
 Package pdftex.def Info: Resources/Images/Übersicht.png  used on input line 61
 .
 (pdftex.def)             Requested size: 133.07489pt x 126.05988pt.
-<Resources/Images/ArchitekturEntstehung.png, id=496, 594.72188pt x 284.56313pt>
+<Resources/Images/ArchitekturEntstehung.png, id=621, 594.72188pt x 284.56313pt>
 
 File: Resources/Images/ArchitekturEntstehung.png Graphic file (type png)
 <use Resources/Images/ArchitekturEntstehung.png>
 Package pdftex.def Info: Resources/Images/ArchitekturEntstehung.png  used on in
 put line 69.
 (pdftex.def)             Requested size: 133.07489pt x 63.67223pt.
-<Resources/Images/TwinPeak.png, id=497, 642.14906pt x 493.845pt>
+<Resources/Images/TwinPeak.png, id=622, 642.14906pt x 493.845pt>
 File: Resources/Images/TwinPeak.png Graphic file (type png)
 <use Resources/Images/TwinPeak.png>
 Package pdftex.def Info: Resources/Images/TwinPeak.png  used on input line 91.
@@ -971,14 +971,14 @@ l.94
 l.94 
       <./Resources/Images/Übersicht.png> <./Resources/Images/ArchitekturEntste
 hung.png>]
-<Resources/Images/EntwurfsEntscheidungen.png, id=509, 621.07031pt x 290.58563pt
+<Resources/Images/EntwurfsEntscheidungen.png, id=634, 621.07031pt x 290.58563pt
 >
 File: Resources/Images/EntwurfsEntscheidungen.png Graphic file (type png)
 <use Resources/Images/EntwurfsEntscheidungen.png>
 Package pdftex.def Info: Resources/Images/EntwurfsEntscheidungen.png  used on i
 nput line 97.
 (pdftex.def)             Requested size: 133.07489pt x 62.26186pt.
-<Resources/Images/NichtfunktionaleAnforderungen.png, id=510, 633.11531pt x 238.
+<Resources/Images/NichtfunktionaleAnforderungen.png, id=635, 633.11531pt x 238.
 64156pt>
 File: Resources/Images/NichtfunktionaleAnforderungen.png Graphic file (type png
 )
@@ -986,13 +986,13 @@ File: Resources/Images/NichtfunktionaleAnforderungen.png Graphic file (type png
 Package pdftex.def Info: Resources/Images/NichtfunktionaleAnforderungen.png  us
 ed on input line 103.
 (pdftex.def)             Requested size: 133.07489pt x 50.1599pt.
-<Resources/Images/Schnittstellen.png, id=511, 541.27219pt x 295.85532pt>
+<Resources/Images/Schnittstellen.png, id=636, 541.27219pt x 295.85532pt>
 File: Resources/Images/Schnittstellen.png Graphic file (type png)
 <use Resources/Images/Schnittstellen.png>
 Package pdftex.def Info: Resources/Images/Schnittstellen.png  used on input lin
 e 123.
 (pdftex.def)             Requested size: 133.07489pt x 72.73573pt.
-<Resources/Images/ModularenStruktur.png, id=512, 450.18187pt x 341.77687pt>
+<Resources/Images/ModularenStruktur.png, id=637, 450.18187pt x 341.77687pt>
 File: Resources/Images/ModularenStruktur.png Graphic file (type png)
 <use Resources/Images/ModularenStruktur.png>
 Package pdftex.def Info: Resources/Images/ModularenStruktur.png  used on input 
@@ -1027,7 +1027,7 @@ l.136 \end{multicols}
 wurfsEntscheidungen.png> <./Resources/Images/NichtfunktionaleAnforderungen.png>
  <./Resources/Images/Schnittstellen.png> <./Resources/Images/ModularenStruktur.
 png>]
-<Resources/Images/CleanArchitecture.png, id=527, 571.38469pt x 410.2828pt>
+<Resources/Images/CleanArchitecture.png, id=652, 571.38469pt x 410.2828pt>
 File: Resources/Images/CleanArchitecture.png Graphic file (type png)
 <use Resources/Images/CleanArchitecture.png>
 Package pdftex.def Info: Resources/Images/CleanArchitecture.png  used on input 
@@ -1044,42 +1044,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--175
                                                   \__shipout_drop_firstpage_...
 l.205 				\item P
                  rozesse <./Resources/Images/CleanArchitecture.png>] [23]
-<Resources/Images/LogischeArchitektur.png, id=538, 279.29344pt x 214.55156pt>
+<Resources/Images/LogischeArchitektur.png, id=663, 279.29344pt x 214.55156pt>
 File: Resources/Images/LogischeArchitektur.png Graphic file (type png)
 <use Resources/Images/LogischeArchitektur.png>
 Package pdftex.def Info: Resources/Images/LogischeArchitektur.png  used on inpu
 t line 284.
 (pdftex.def)             Requested size: 133.07489pt x 102.23059pt.
-<Resources/Images/VermeidungArch.png, id=539, 243.15843pt x 225.84375pt>
+<Resources/Images/VermeidungArch.png, id=664, 243.15843pt x 225.84375pt>
 File: Resources/Images/VermeidungArch.png Graphic file (type png)
 <use Resources/Images/VermeidungArch.png>
 Package pdftex.def Info: Resources/Images/VermeidungArch.png  used on input lin
 e 291.
 (pdftex.def)             Requested size: 133.07489pt x 123.59758pt.
-<Resources/Images/Arc42.png, id=540, 637.63219pt x 377.91188pt>
+<Resources/Images/Arc42.png, id=665, 637.63219pt x 377.91188pt>
 File: Resources/Images/Arc42.png Graphic file (type png)
 <use Resources/Images/Arc42.png>
 Package pdftex.def Info: Resources/Images/Arc42.png  used on input line 297.
 (pdftex.def)             Requested size: 133.07489pt x 78.86792pt.
-<Resources/Images/PaketDiagramm1.png, id=541, 341.77687pt x 329.73187pt>
+<Resources/Images/PaketDiagramm1.png, id=666, 341.77687pt x 329.73187pt>
 File: Resources/Images/PaketDiagramm1.png Graphic file (type png)
 <use Resources/Images/PaketDiagramm1.png>
 Package pdftex.def Info: Resources/Images/PaketDiagramm1.png  used on input lin
 e 312.
 (pdftex.def)             Requested size: 133.07489pt x 128.38861pt.
-<Resources/Images/PaketDiagramm2.png, id=542, 362.10281pt x 324.46219pt>
+<Resources/Images/PaketDiagramm2.png, id=667, 362.10281pt x 324.46219pt>
 File: Resources/Images/PaketDiagramm2.png Graphic file (type png)
 <use Resources/Images/PaketDiagramm2.png>
 Package pdftex.def Info: Resources/Images/PaketDiagramm2.png  used on input lin
 e 316.
 (pdftex.def)             Requested size: 133.07489pt x 119.24213pt.
-<Resources/Images/PaketDiagramm3.png, id=543, 448.67625pt x 288.3272pt>
+<Resources/Images/PaketDiagramm3.png, id=668, 448.67625pt x 288.3272pt>
 File: Resources/Images/PaketDiagramm3.png Graphic file (type png)
 <use Resources/Images/PaketDiagramm3.png>
 Package pdftex.def Info: Resources/Images/PaketDiagramm3.png  used on input lin
 e 321.
 (pdftex.def)             Requested size: 133.07489pt x 85.51332pt.
-<Resources/Images/VerteilungsDiagramm.png, id=544, 374.14781pt x 246.9225pt>
+<Resources/Images/VerteilungsDiagramm.png, id=669, 374.14781pt x 246.9225pt>
 File: Resources/Images/VerteilungsDiagramm.png Graphic file (type png)
 <use Resources/Images/VerteilungsDiagramm.png>
 Package pdftex.def Info: Resources/Images/VerteilungsDiagramm.png  used on inpu
@@ -1124,7 +1124,7 @@ Overfull \hbox (8.60913pt too wide) in paragraph at lines 343--365
 [][] 
  []
 
-<Resources/Images/LayeredPattern1.png, id=561, 108.405pt x 178.41656pt>
+<Resources/Images/LayeredPattern1.png, id=686, 108.405pt x 178.41656pt>
 File: Resources/Images/LayeredPattern1.png Graphic file (type png)
 <use Resources/Images/LayeredPattern1.png>
 Package pdftex.def Info: Resources/Images/LayeredPattern1.png  used on input li
@@ -1142,13 +1142,13 @@ l.387
 l.387 
        <./Resources/Images/VerteilungsDiagramm.png> <./Resources/Images/Layered
 Pattern1.png>]
-<Resources/Images/AnrufSzenarienH.png, id=571, 355.3275pt x 326.72063pt>
+<Resources/Images/AnrufSzenarienH.png, id=696, 355.3275pt x 326.72063pt>
 File: Resources/Images/AnrufSzenarienH.png Graphic file (type png)
 <use Resources/Images/AnrufSzenarienH.png>
 Package pdftex.def Info: Resources/Images/AnrufSzenarienH.png  used on input li
 ne 392.
 (pdftex.def)             Requested size: 133.07489pt x 122.36537pt.
-<Resources/Images/AnrufSzenarienObserver.png, id=572, 380.17032pt x 340.27126pt
+<Resources/Images/AnrufSzenarienObserver.png, id=697, 380.17032pt x 340.27126pt
 >
 File: Resources/Images/AnrufSzenarienObserver.png Graphic file (type png)
 <use Resources/Images/AnrufSzenarienObserver.png>
@@ -1160,13 +1160,13 @@ Underfull \hbox (badness 5802) in paragraph at lines 431--432
 []\OT1/cmr/m/n/10 Datenstrukturen, Threads, Da-tei-en,
  []
 
-<Resources/Images/LayeredPattern2.png, id=573, 304.88907pt x 575.90157pt>
+<Resources/Images/LayeredPattern2.png, id=698, 304.88907pt x 575.90157pt>
 File: Resources/Images/LayeredPattern2.png Graphic file (type png)
 <use Resources/Images/LayeredPattern2.png>
 Package pdftex.def Info: Resources/Images/LayeredPattern2.png  used on input li
 ne 436.
 (pdftex.def)             Requested size: 133.07489pt x 251.36755pt.
-<Resources/Images/ServerClient.png, id=574, 192.72pt x 204.765pt>
+<Resources/Images/ServerClient.png, id=699, 192.72pt x 204.765pt>
 File: Resources/Images/ServerClient.png Graphic file (type png)
 <use Resources/Images/ServerClient.png>
 Package pdftex.def Info: Resources/Images/ServerClient.png  used on input line 
@@ -1195,19 +1195,19 @@ l.458 \end{multicols}
                       <./Resources/Images/AnrufSzenarienH.png> <./Resources/Ima
 ges/AnrufSzenarienObserver.png> <./Resources/Images/LayeredPattern2.png> <./Res
 ources/Images/ServerClient.png>]
-<Resources/Images/MasterSlave.png, id=587, 322.95656pt x 139.27031pt>
+<Resources/Images/MasterSlave.png, id=712, 322.95656pt x 139.27031pt>
 File: Resources/Images/MasterSlave.png Graphic file (type png)
 <use Resources/Images/MasterSlave.png>
 Package pdftex.def Info: Resources/Images/MasterSlave.png  used on input line 4
 70.
 (pdftex.def)             Requested size: 133.07489pt x 57.38594pt.
-<Resources/Images/PipeFilter.png, id=588, 286.82156pt x 88.07906pt>
+<Resources/Images/PipeFilter.png, id=713, 286.82156pt x 88.07906pt>
 File: Resources/Images/PipeFilter.png Graphic file (type png)
 <use Resources/Images/PipeFilter.png>
 Package pdftex.def Info: Resources/Images/PipeFilter.png  used on input line 48
 5.
 (pdftex.def)             Requested size: 133.07489pt x 40.86627pt.
-<Resources/Images/BrokerPattern.png, id=589, 281.55188pt x 174.6525pt>
+<Resources/Images/BrokerPattern.png, id=714, 281.55188pt x 174.6525pt>
 File: Resources/Images/BrokerPattern.png Graphic file (type png)
 <use Resources/Images/BrokerPattern.png>
 Package pdftex.def Info: Resources/Images/BrokerPattern.png  used on input line
@@ -1218,7 +1218,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 517--518
 [][][][][][][] \OT1/cmr/m/n/10 pu-bli-zie-ren Mel-dun-gen
  []
 
-<Resources/Images/EventBus.png, id=590, 426.84468pt x 273.27094pt>
+<Resources/Images/EventBus.png, id=715, 426.84468pt x 273.27094pt>
 File: Resources/Images/EventBus.png Graphic file (type png)
 <use Resources/Images/EventBus.png>
 Package pdftex.def Info: Resources/Images/EventBus.png  used on input line 526.
@@ -1246,7 +1246,7 @@ l.533
 l.533 
        <./Resources/Images/MasterSlave.png> <./Resources/Images/PipeFilter.png>
  <./Resources/Images/BrokerPattern.png> <./Resources/Images/EventBus.png>]
-<Resources/Images/MVC.png, id=607, 330.48468pt x 312.41719pt>
+<Resources/Images/MVC.png, id=732, 330.48468pt x 312.41719pt>
 File: Resources/Images/MVC.png Graphic file (type png)
 <use Resources/Images/MVC.png>
 Package pdftex.def Info: Resources/Images/MVC.png  used on input line 554.
@@ -1263,35 +1263,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
                                                   \__shipout_drop_firstpage_...
 l.50 \paragraph
                {UML-Diagramme: } Gemeinsame Sprache um Use-Case-Realisierung...
- <./Resources/Images/MVC.png>]
-
-LaTeX Warning: File `/Resources/Images/Grundelemente_Klassendiagramm.png' not f
-ound on input line 80.
-
-
-! Package pdftex.def Error: File `/Resources/Images/Grundelemente_Klassendiagra
-mm.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.80 .../Images/Grundelemente_Klassendiagramm.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[29pdfTeX warning (ext4): destination with the same identifier (name{figure.57}
-) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.95 	\item O
-             peration]
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+ <./Resources/Images/MVC.png>] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
-) [30] (ZF_SWEN1.aux)
+[30] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 234--237
+
+ []
+
+[32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 310--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--329
+
+ []
+
+<Resources/Images/Controller.png, id=798, 588.69937pt x 319.1925pt>
+File: Resources/Images/Controller.png Graphic file (type png)
+<use Resources/Images/Controller.png>
+Package pdftex.def Info: Resources/Images/Controller.png  used on input line 34
+4.
+(pdftex.def)             Requested size: 133.07489pt x 72.15128pt.
+[34pdfTeX warning (ext4): destination with the same identifier (name{figure.57}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.359 	\end{itemize}
+                     <./Resources/Images/Controller.png>]
+Overfull \hbox (4.56107pt too wide) in paragraph at lines 405--406
+[]\OT1/cmr/m/n/10 viele Si-tua-tio-nen wo es Pro-ble-me gibt wenn Ver-ant-wort-
+lich-kei-ten der Klas-se in der Dom[]anenschicht
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--420
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 430--432
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+
+ []
+
+) (subfiles/Implementation.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 4.
+
+[36] [37] [38] [39]) (subfiles/EntwurfDesignPattern1.tex [40]) [41]
+(ZF_SWEN1.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -1301,28 +1336,30 @@ Package rerunfilecheck Warning: File `ZF_SWEN1.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `ZF_SWEN1.out':
-(rerunfilecheck)             Before: 8438406A928EB5F3CE732B2254F32E0E;9726
-(rerunfilecheck)             After:  C5257A01E29FD8E2B1677944C04CF630;11391.
+(rerunfilecheck)             Before: 32CD25273011A1840074F9AC2CC5889C;14134
+(rerunfilecheck)             After:  736E96D9CA1056D30E1CE76654387ABC;16211.
  ) 
 Here is how much of TeX's memory you used:
- 11531 strings out of 478927
- 185433 string characters out of 2853008
- 519045 words of memory out of 3000000
- 28932 multiletter control sequences out of 15000+600000
- 409316 words of font info for 48 fonts, out of 8000000 for 9000
+ 11614 strings out of 478927
+ 185748 string characters out of 2853008
+ 519101 words of memory out of 3000000
+ 28943 multiletter control sequences out of 15000+600000
+ 409148 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,9n,66p,424b,603s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Asha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
-000.pk><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmbx12.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Asha/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Asha/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on ZF_SWEN1.pdf (30 pages, 3324296 bytes).
+pdfTeX warning (dest): name{subsubsection.10.1.1} has been referenced but doe
+s not exist, replaced by a fixed one
+
+ <C:\Users\Asha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm100
+0.pk><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on ZF_SWEN1.pdf (41 pages, 3460143 bytes).
 PDF statistics:
- 723 PDF objects out of 1000 (max. 8388607)
- 203 named destinations out of 1000 (max. 500000)
- 737 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 957 PDF objects out of 1000 (max. 8388607)
+ 285 named destinations out of 1000 (max. 500000)
+ 942 words of extra memory for PDF output out of 10000 (max. 10000000)
 

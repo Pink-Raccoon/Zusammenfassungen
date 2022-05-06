@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  5 MAY 2022 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  5 MAY 2022 19:46
 entering extended mode
-**./Softwarearchitektur_2.tex
-(Softwarearchitektur_2.tex
+**./ImplementationRefactoringTesting.tex
+(ImplementationRefactoringTesting.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27>
 (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
@@ -408,27 +408,27 @@ ex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count294
 \l__pdf_internal_box=\box100
-) (Softwarearchitektur_2.aux)
-\openout1 = `Softwarearchitektur_2.aux'.
+) (ImplementationRefactoringTesting.aux)
+\openout1 = `ImplementationRefactoringTesting.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
 
 (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
@@ -489,7 +489,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 3.
+Package hyperref Info: Link coloring ON on input line 2.
 (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -502,98 +502,38 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count301
 )
-LaTeX Info: Redefining \ref on input line 3.
-LaTeX Info: Redefining \pageref on input line 3.
-LaTeX Info: Redefining \nameref on input line 3.
- (Softwarearchitektur_2.out) (Softwarearchitektur_2.out)
+LaTeX Info: Redefining \ref on input line 2.
+LaTeX Info: Redefining \pageref on input line 2.
+LaTeX Info: Redefining \nameref on input line 2.
+ (ImplementationRefactoringTesting.out)
+(ImplementationRefactoringTesting.out)
 \@outlinefile=\write3
-\openout3 = `Softwarearchitektur_2.out'.
+\openout3 = `ImplementationRefactoringTesting.out'.
 
+ [1
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-
- []
-
-[1
-
-{C:/Users/Asha/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
-
- []
-
-[2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 234--237
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 310--313
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 325--329
-
- []
-
-[6]
-<..//Resources/Images/Controller.png, id=154, 588.69937pt x 319.1925pt>
-File: ..//Resources/Images/Controller.png Graphic file (type png)
-<use ..//Resources/Images/Controller.png>
-Package pdftex.def Info: ..//Resources/Images/Controller.png  used on input lin
-e 344.
-(pdftex.def)             Requested size: 133.07489pt x 72.15128pt.
- [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
- has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.391 \end{itemize}
-                    <..//Resources/Images/Controller.png>]
-Overfull \hbox (4.56107pt too wide) in paragraph at lines 405--406
-[]\OT1/cmr/m/n/10 viele Si-tua-tio-nen wo es Pro-ble-me gibt wenn Ver-ant-wort-
-lich-kei-ten der Klas-se in der Dom[]anenschicht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--409
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 417--420
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 430--432
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 433--434
-
- []
-
-[8] [9] (Softwarearchitektur_2.aux)
-Package rerunfilecheck Info: File `Softwarearchitektur_2.out' has not changed.
-(rerunfilecheck)             Checksum: 06475C09D459D030581DE2DF0292E225;3551.
+{C:/Users/Asha/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5] 
+(ImplementationRefactoringTesting.aux)
+Package rerunfilecheck Info: File `ImplementationRefactoringTesting.out' has no
+t changed.
+(rerunfilecheck)             Checksum: EAFE8C5C0E97C6E94674A4E7ABF16099;1791.
  ) 
 Here is how much of TeX's memory you used:
- 10793 strings out of 478927
- 163390 string characters out of 2853008
- 507905 words of memory out of 3000000
- 28436 multiletter control sequences out of 15000+600000
+ 10727 strings out of 478927
+ 162528 string characters out of 2853008
+ 508923 words of memory out of 3000000
+ 28407 multiletter control sequences out of 15000+600000
  404678 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,6n,83p,383b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,5n,83p,305b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Asha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 000.pk><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr10.pfb>
-Output written on Softwarearchitektur_2.pdf (9 pages, 201618 bytes).
+Output written on ImplementationRefactoringTesting.pdf (5 pages, 75336 bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 70 named destinations out of 1000 (max. 500000)
- 174 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
