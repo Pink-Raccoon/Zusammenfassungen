@@ -1,148 +1,162 @@
 \babel@toc {german}{}\relax 
-\contentsline {section}{\numberline {1}Software Engineering}{3}{section.1}%
-\contentsline {paragraph}{Disziplinen}{3}{section*.2}%
-\contentsline {section}{\numberline {2}Prozess und Prozess-Modell}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Vorgehensmodelle}{3}{subsection.2.1}%
-\contentsline {paragraph}{Code and Fix}{4}{section*.3}%
-\contentsline {paragraph}{Wassefallmodell}{4}{section*.4}%
-\contentsline {paragraph}{Iterativ-inkrementelle Modelle}{4}{section*.5}%
-\contentsline {subsection}{\numberline {2.2}Agile SWE}{4}{subsection.2.2}%
-\contentsline {paragraph}{Strategie}{5}{section*.6}%
-\contentsline {section}{\numberline {3}Modellierung}{5}{section.3}%
-\contentsline {subsection}{\numberline {3.1}UML}{5}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Gebrauch der UML}{5}{subsubsection.3.1.1}%
-\contentsline {section}{\numberline {4}Wesentliche Artefakte}{6}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Überblick Anforderungsanalyse}{6}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Überblick Design}{7}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Überblick Implementation}{7}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Überblick Testing}{7}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Usability und User Experience (UX)}{7}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Usability}{8}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Usability Engineering}{8}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Usability Anforderungen}{8}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.1}Aufgabenangemessenheit}{8}{subsubsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {5.3.2}Selbstbeschreibungsfähigkeit}{9}{subsubsection.5.3.2}%
-\contentsline {subsubsection}{\numberline {5.3.3}Kontrolle}{9}{subsubsection.5.3.3}%
-\contentsline {subsubsection}{\numberline {5.3.4}Erwartungskonformität}{9}{subsubsection.5.3.4}%
-\contentsline {subsubsection}{\numberline {5.3.5}Fehlertoleranz}{9}{subsubsection.5.3.5}%
-\contentsline {subsubsection}{\numberline {5.3.6}Individualisierbarkeit}{10}{subsubsection.5.3.6}%
-\contentsline {subsubsection}{\numberline {5.3.7}Lernförderlichkeit}{10}{subsubsection.5.3.7}%
-\contentsline {section}{\numberline {6}User-Centered Design (UCD)}{10}{section.6}%
-\contentsline {subsection}{\numberline {6.1}User \& Domain Research}{10}{subsection.6.1}%
-\contentsline {subsubsection}{\numberline {6.1.1}GUI Design Process}{11}{subsubsection.6.1.1}%
-\contentsline {paragraph}{Methoden User \& Domain Research}{11}{section*.7}%
-\contentsline {subsubsection}{\numberline {6.1.2}Wichtige Artekfakte}{11}{subsubsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.2}Anforderungsanalyse}{12}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}Use Cases}{12}{subsubsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2}UML Sequenzdiagramm (SSD)}{13}{subsubsection.6.2.2}%
-\contentsline {paragraph}{System Operation}{13}{section*.8}%
-\contentsline {subsubsection}{\numberline {6.2.3}Operation Contract}{14}{subsubsection.6.2.3}%
-\contentsline {subsubsection}{\numberline {6.2.4}Zusätzliche Anforderungen}{14}{subsubsection.6.2.4}%
-\contentsline {paragraph}{Formulierung}{14}{section*.9}%
-\contentsline {paragraph}{Checkliste FURPS+}{15}{section*.10}%
-\contentsline {paragraph}{Glossar}{15}{section*.11}%
-\contentsline {section}{\numberline {7}Domänenmodellierung}{15}{section.7}%
-\contentsline {paragraph}{Definition: }{15}{section*.12}%
-\contentsline {paragraph}{Aufbau: }{15}{section*.13}%
-\contentsline {subsection}{\numberline {7.1}Domänenmodell als vereinfachtes UML Klassendiagramm}{15}{subsection.7.1}%
-\contentsline {paragraph}{Nur wenn es einen guten Grund gibt:\\}{15}{section*.14}%
-\contentsline {subsection}{\numberline {7.2}Vorgehen}{16}{subsection.7.2}%
-\contentsline {subsubsection}{\numberline {7.2.1}Kategorienliste}{16}{subsubsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.3}Datentypen von Attributen}{16}{subsection.7.3}%
-\contentsline {subsubsection}{\numberline {7.3.1}Anti-Pattern}{16}{subsubsection.7.3.1}%
-\contentsline {paragraph}{Assoziationen statt Atrribute\\}{16}{section*.15}%
-\contentsline {subsection}{\numberline {7.4}Vorgehensweise eines Kartografen}{17}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Domänenmodell vollständig Beispiel}{17}{subsection.7.5}%
-\contentsline {subsection}{\numberline {7.6}Analysemuster}{17}{subsection.7.6}%
-\contentsline {section}{\numberline {8}Softwarearchtiketur und Design I}{19}{section.8}%
-\contentsline {subsubsection}{\numberline {8.0.1}Übersicht Buisiness Analyse vs Architektur vs Entwicklung}{19}{subsubsection.8.0.1}%
-\contentsline {paragraph}{Business Analyse}{19}{section*.16}%
-\contentsline {paragraph}{Architektur}{20}{section*.17}%
-\contentsline {paragraph}{Entwicklung}{20}{section*.18}%
-\contentsline {subsubsection}{\numberline {8.0.2}Wie entstehen Architekturen}{20}{subsubsection.8.0.2}%
-\contentsline {paragraph}{Architektur aus Anforderungen ableiten}{20}{section*.19}%
-\contentsline {subsection}{\numberline {8.1}Modulkonzept}{21}{subsection.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.1}Messung der Güte einer Modularisierung}{22}{subsubsection.8.1.1}%
-\contentsline {subsection}{\numberline {8.2}Architektur Beschreiben}{22}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}UML-Paketdiagramme}{24}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Verteilungsdiagramm}{24}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Ausgewählte Architekturpatterns}{25}{subsection.8.5}%
-\contentsline {subsubsection}{\numberline {8.5.1}Layered Pattern}{25}{subsubsection.8.5.1}%
-\contentsline {subsubsection}{\numberline {8.5.2}Client-Server}{26}{subsubsection.8.5.2}%
-\contentsline {subsubsection}{\numberline {8.5.3}Master-Slave Pattern}{27}{subsubsection.8.5.3}%
-\contentsline {subsubsection}{\numberline {8.5.4}Pipe-Filter Pattern}{27}{subsubsection.8.5.4}%
-\contentsline {subsubsection}{\numberline {8.5.5}Broker Pattern}{27}{subsubsection.8.5.5}%
-\contentsline {subsubsection}{\numberline {8.5.6}Event-Bus Pattern}{27}{subsubsection.8.5.6}%
-\contentsline {subsubsection}{\numberline {8.5.7}Model View Controller Pattern}{28}{subsubsection.8.5.7}%
-\contentsline {section}{\numberline {9}Softwarearchitekur und Design II}{28}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Objektorientierung}{28}{subsection.9.1}%
-\contentsline {paragraph}{Grundidee: }{28}{section*.20}%
-\contentsline {paragraph}{Objektorientierte Analyse(OOA): }{28}{section*.21}%
-\contentsline {paragraph}{Objektorientierten Design (OOD): }{28}{section*.22}%
-\contentsline {paragraph}{Domänenschicht: }{28}{section*.23}%
-\contentsline {subsubsection}{\numberline {9.1.1}Use Cases und System-Sequenzdiagramm}{28}{subsubsection.9.1.1}%
-\contentsline {paragraph}{Basis für das Design: }{28}{section*.24}%
-\contentsline {subparagraph}{Was programmiert werden muss: }{28}{section*.25}%
-\contentsline {paragraph}{Use-Case-Realisierung: }{29}{section*.26}%
-\contentsline {paragraph}{Systemoperationen: }{29}{section*.27}%
-\contentsline {paragraph}{UML-Diagramme: }{29}{section*.28}%
-\contentsline {subsubsection}{\numberline {9.1.2}Klassen entwerfen: }{29}{subsubsection.9.1.2}%
-\contentsline {subsection}{\numberline {9.2}UML-Diagramme für das Design}{29}{subsection.9.2}%
-\contentsline {subsubsection}{\numberline {9.2.1}Grundelemente der UML}{29}{subsubsection.9.2.1}%
-\contentsline {subsubsection}{\numberline {9.2.2}UML-Klassendiagramm}{29}{subsubsection.9.2.2}%
-\contentsline {subparagraph}{Notationselemente}{29}{section*.29}%
-\contentsline {subsubsection}{\numberline {9.2.3}UML-Interaktionsdiagramme}{30}{subsubsection.9.2.3}%
-\contentsline {paragraph}{\leavevmode {\color {WildStrawberry}\textbf {Anwendung:}}}{30}{section*.30}%
-\contentsline {subparagraph}{\leavevmode {\color {WildStrawberry}\textbf {Kann in mehreren Perspektiven verwendet werden:}}}{30}{section*.31}%
-\contentsline {paragraph}{Notationselemente:}{30}{section*.32}%
-\contentsline {subsubsection}{\numberline {9.2.4}UML-Kommunikationsdiagramm}{31}{subsubsection.9.2.4}%
-\contentsline {paragraph}{Beantwortet Frage:\\}{31}{section*.33}%
-\contentsline {paragraph}{Notationselemente:}{31}{section*.34}%
-\contentsline {subsubsection}{\numberline {9.2.5}UML-Zustandsdiagramm}{31}{subsubsection.9.2.5}%
-\contentsline {paragraph}{Beantwortet zentrale Frage:\\}{31}{section*.35}%
-\contentsline {subparagraph}{Verwendung:}{31}{section*.36}%
-\contentsline {paragraph}{Notationselemente:}{32}{section*.37}%
-\contentsline {subsubsection}{\numberline {9.2.6}UML-Aktivitätsdiagramm}{32}{subsubsection.9.2.6}%
-\contentsline {paragraph}{Beantwortet zentrale Frage:\\}{32}{section*.38}%
-\contentsline {paragraph}{Notationselemente:}{32}{section*.39}%
-\contentsline {subsection}{\numberline {9.3}Verantwortlichkeiten und Responsibility-Driven-Design}{33}{subsection.9.3}%
-\contentsline {paragraph}{2 Ausprägungen von Verantwortlichkeiten:}{33}{section*.40}%
-\contentsline {subparagraph}{\leavevmode {\color {BrickRed}\textbf {Doing-Verantwortlichkeiten / Algorithmen, Code:}}}{33}{section*.41}%
-\contentsline {subparagraph}{\leavevmode {\color {BrickRed}\textbf {Knowing-Verantwortlichkeit / Daten, Attribute: }}}{33}{section*.42}%
-\contentsline {subsubsection}{\numberline {9.3.1}GRASP- 9 Patterns}{33}{subsubsection.9.3.1}%
-\contentsline {subsubsection}{\numberline {9.3.2}Information Expert}{34}{subsubsection.9.3.2}%
-\contentsline {subsubsection}{\numberline {9.3.3}Creator}{34}{subsubsection.9.3.3}%
-\contentsline {subsubsection}{\numberline {9.3.4}Controller}{34}{subsubsection.9.3.4}%
-\contentsline {subsubsection}{\numberline {9.3.5}Low Coupling}{35}{subsubsection.9.3.5}%
-\contentsline {subsubsection}{\numberline {9.3.6}High Cohesion}{35}{subsubsection.9.3.6}%
-\contentsline {subsubsection}{\numberline {9.3.7}Polymorphismus}{35}{subsubsection.9.3.7}%
-\contentsline {subsubsection}{\numberline {9.3.8}Pure Fabrication}{35}{subsubsection.9.3.8}%
-\contentsline {subsubsection}{\numberline {9.3.9}Indirection}{36}{subsubsection.9.3.9}%
-\contentsline {subsubsection}{\numberline {9.3.10}Protected Variations}{36}{subsubsection.9.3.10}%
-\contentsline {section}{\numberline {10}Implementation,Refactoring,Testing}{36}{section.10}%
-\contentsline {subsubsection}{\numberline {10.0.1}Design to Code}{36}{subsubsection.10.0.1}%
-\contentsline {paragraph}{Einsatz von Collection Klassen:}{36}{section*.43}%
-\contentsline {paragraph}{Fehlerbehandlung:\\}{36}{section*.44}%
-\contentsline {paragraph}{Umsetzungs-Reihenfolge}{37}{section*.45}%
-\contentsline {subparagraph}{Bottom-Up Strategie:}{37}{section*.46}%
-\contentsline {subparagraph}{Variante Agile:}{37}{section*.47}%
-\contentsline {paragraph}{Methoden:}{37}{section*.48}%
-\contentsline {subsection}{\numberline {10.1}Implementation}{37}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Refactoring}{37}{subsection.10.2}%
-\contentsline {paragraph}{Code verbessern:}{37}{section*.49}%
-\contentsline {paragraph}{Code Smells:}{38}{section*.50}%
-\contentsline {subsubsection}{\numberline {10.2.1}Refactoring Patterns}{38}{subsubsection.10.2.1}%
-\contentsline {subsection}{\numberline {10.3}Testing}{38}{subsection.10.3}%
-\contentsline {paragraph}{Testarten:}{38}{section*.51}%
-\contentsline {paragraph}{Weitere Teststufen und Testarten}{38}{section*.52}%
-\contentsline {subsubsection}{\numberline {10.3.1}Integrationstest}{39}{subsubsection.10.3.1}%
-\contentsline {subsubsection}{\numberline {10.3.2}Systemtest}{39}{subsubsection.10.3.2}%
-\contentsline {subsubsection}{\numberline {10.3.3}Abnahmetest}{39}{subsubsection.10.3.3}%
-\contentsline {subsubsection}{\numberline {10.3.4}Regressionstest}{39}{subsubsection.10.3.4}%
-\contentsline {subsubsection}{\numberline {10.3.5}Reproduktion von Fehlern}{39}{subsubsection.10.3.5}%
-\contentsline {subsubsection}{\numberline {10.3.6}Einbindung in den Prozess}{39}{subsubsection.10.3.6}%
-\contentsline {subsubsection}{\numberline {10.3.7}Wichtige Begriffe}{40}{subsubsection.10.3.7}%
-\contentsline {subsubsection}{\numberline {10.3.8}Merkmale}{40}{subsubsection.10.3.8}%
-\contentsline {section}{\numberline {11}Entwurf mit Design Pattern I}{40}{section.11}%
-\contentsline {subsection}{\numberline {11.1}Liste der Design Patterns für die Lerneinheit}{40}{subsection.11.1}%
-\contentsline {subsubsection}{\numberline {11.1.1}Adapter}{41}{subsubsection.11.1.1}%
+\contentsline {section}{\numberline {1}Software Engineering}{4}{section.1}%
+\contentsline {paragraph}{Disziplinen}{4}{section*.2}%
+\contentsline {section}{\numberline {2}Prozess und Prozess-Modell}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Vorgehensmodelle}{4}{subsection.2.1}%
+\contentsline {paragraph}{Code and Fix}{5}{section*.3}%
+\contentsline {paragraph}{Wassefallmodell}{5}{section*.4}%
+\contentsline {paragraph}{Iterativ-inkrementelle Modelle}{5}{section*.5}%
+\contentsline {subsection}{\numberline {2.2}Agile SWE}{5}{subsection.2.2}%
+\contentsline {paragraph}{Strategie}{6}{section*.6}%
+\contentsline {section}{\numberline {3}Modellierung}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}UML}{6}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Gebrauch der UML}{6}{subsubsection.3.1.1}%
+\contentsline {section}{\numberline {4}Wesentliche Artefakte}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Überblick Anforderungsanalyse}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Überblick Design}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Überblick Implementation}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Überblick Testing}{8}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Usability und User Experience (UX)}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Usability}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Usability Engineering}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Usability Anforderungen}{9}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Aufgabenangemessenheit}{9}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Selbstbeschreibungsfähigkeit}{10}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}Kontrolle}{10}{subsubsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.4}Erwartungskonformität}{10}{subsubsection.5.3.4}%
+\contentsline {subsubsection}{\numberline {5.3.5}Fehlertoleranz}{10}{subsubsection.5.3.5}%
+\contentsline {subsubsection}{\numberline {5.3.6}Individualisierbarkeit}{11}{subsubsection.5.3.6}%
+\contentsline {subsubsection}{\numberline {5.3.7}Lernförderlichkeit}{11}{subsubsection.5.3.7}%
+\contentsline {section}{\numberline {6}User-Centered Design (UCD)}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}User \& Domain Research}{11}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}GUI Design Process}{12}{subsubsection.6.1.1}%
+\contentsline {paragraph}{Methoden User \& Domain Research}{12}{section*.7}%
+\contentsline {subsubsection}{\numberline {6.1.2}Wichtige Artekfakte}{12}{subsubsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.2}Anforderungsanalyse}{13}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Use Cases}{13}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}UML Sequenzdiagramm (SSD)}{14}{subsubsection.6.2.2}%
+\contentsline {paragraph}{System Operation}{14}{section*.8}%
+\contentsline {subsubsection}{\numberline {6.2.3}Operation Contract}{15}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}Zusätzliche Anforderungen}{15}{subsubsection.6.2.4}%
+\contentsline {paragraph}{Formulierung}{15}{section*.9}%
+\contentsline {paragraph}{Checkliste FURPS+}{16}{section*.10}%
+\contentsline {paragraph}{Glossar}{16}{section*.11}%
+\contentsline {section}{\numberline {7}Domänenmodellierung}{16}{section.7}%
+\contentsline {paragraph}{Definition: }{16}{section*.12}%
+\contentsline {paragraph}{Aufbau: }{16}{section*.13}%
+\contentsline {subsection}{\numberline {7.1}Domänenmodell als vereinfachtes UML Klassendiagramm}{16}{subsection.7.1}%
+\contentsline {paragraph}{Nur wenn es einen guten Grund gibt:\\}{16}{section*.14}%
+\contentsline {subsection}{\numberline {7.2}Vorgehen}{17}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}Kategorienliste}{17}{subsubsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.3}Datentypen von Attributen}{17}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Anti-Pattern}{17}{subsubsection.7.3.1}%
+\contentsline {paragraph}{Assoziationen statt Atrribute\\}{17}{section*.15}%
+\contentsline {subsection}{\numberline {7.4}Vorgehensweise eines Kartografen}{18}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Domänenmodell vollständig Beispiel}{18}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Analysemuster}{18}{subsection.7.6}%
+\contentsline {section}{\numberline {8}Softwarearchtiketur und Design I}{20}{section.8}%
+\contentsline {subsubsection}{\numberline {8.0.1}Übersicht Buisiness Analyse vs Architektur vs Entwicklung}{20}{subsubsection.8.0.1}%
+\contentsline {paragraph}{Business Analyse}{20}{section*.16}%
+\contentsline {paragraph}{Architektur}{21}{section*.17}%
+\contentsline {paragraph}{Entwicklung}{21}{section*.18}%
+\contentsline {subsubsection}{\numberline {8.0.2}Wie entstehen Architekturen}{21}{subsubsection.8.0.2}%
+\contentsline {paragraph}{Architektur aus Anforderungen ableiten}{21}{section*.19}%
+\contentsline {subsection}{\numberline {8.1}Modulkonzept}{22}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Messung der Güte einer Modularisierung}{23}{subsubsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.2}Architektur Beschreiben}{23}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}UML-Paketdiagramme}{25}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Verteilungsdiagramm}{25}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Ausgewählte Architekturpatterns}{26}{subsection.8.5}%
+\contentsline {subsubsection}{\numberline {8.5.1}Layered Pattern}{26}{subsubsection.8.5.1}%
+\contentsline {subsubsection}{\numberline {8.5.2}Client-Server}{27}{subsubsection.8.5.2}%
+\contentsline {subsubsection}{\numberline {8.5.3}Master-Slave Pattern}{28}{subsubsection.8.5.3}%
+\contentsline {subsubsection}{\numberline {8.5.4}Pipe-Filter Pattern}{28}{subsubsection.8.5.4}%
+\contentsline {subsubsection}{\numberline {8.5.5}Broker Pattern}{28}{subsubsection.8.5.5}%
+\contentsline {subsubsection}{\numberline {8.5.6}Event-Bus Pattern}{28}{subsubsection.8.5.6}%
+\contentsline {subsubsection}{\numberline {8.5.7}Model View Controller Pattern}{29}{subsubsection.8.5.7}%
+\contentsline {section}{\numberline {9}Softwarearchitekur und Design II}{29}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Objektorientierung}{29}{subsection.9.1}%
+\contentsline {paragraph}{Grundidee: }{29}{section*.20}%
+\contentsline {paragraph}{Objektorientierte Analyse(OOA): }{29}{section*.21}%
+\contentsline {paragraph}{Objektorientierten Design (OOD): }{29}{section*.22}%
+\contentsline {paragraph}{Domänenschicht: }{29}{section*.23}%
+\contentsline {subsubsection}{\numberline {9.1.1}Use Cases und System-Sequenzdiagramm}{29}{subsubsection.9.1.1}%
+\contentsline {paragraph}{Basis für das Design: }{29}{section*.24}%
+\contentsline {subparagraph}{Was programmiert werden muss: }{29}{section*.25}%
+\contentsline {paragraph}{Use-Case-Realisierung: }{30}{section*.26}%
+\contentsline {paragraph}{Systemoperationen: }{30}{section*.27}%
+\contentsline {paragraph}{UML-Diagramme: }{30}{section*.28}%
+\contentsline {subsubsection}{\numberline {9.1.2}Klassen entwerfen: }{30}{subsubsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.2}UML-Diagramme für das Design}{30}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}Grundelemente der UML}{30}{subsubsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.2}UML-Klassendiagramm}{30}{subsubsection.9.2.2}%
+\contentsline {subparagraph}{Notationselemente}{30}{section*.29}%
+\contentsline {subsubsection}{\numberline {9.2.3}UML-Interaktionsdiagramme}{31}{subsubsection.9.2.3}%
+\contentsline {paragraph}{\leavevmode {\color {WildStrawberry}\textbf {Anwendung:}}}{31}{section*.30}%
+\contentsline {subparagraph}{\leavevmode {\color {WildStrawberry}\textbf {Kann in mehreren Perspektiven verwendet werden:}}}{31}{section*.31}%
+\contentsline {paragraph}{Notationselemente:}{31}{section*.32}%
+\contentsline {subsubsection}{\numberline {9.2.4}UML-Kommunikationsdiagramm}{32}{subsubsection.9.2.4}%
+\contentsline {paragraph}{Beantwortet Frage:\\}{32}{section*.33}%
+\contentsline {paragraph}{Notationselemente:}{32}{section*.34}%
+\contentsline {subsubsection}{\numberline {9.2.5}UML-Zustandsdiagramm}{32}{subsubsection.9.2.5}%
+\contentsline {paragraph}{Beantwortet zentrale Frage:\\}{32}{section*.35}%
+\contentsline {subparagraph}{Verwendung:}{32}{section*.36}%
+\contentsline {paragraph}{Notationselemente:}{33}{section*.37}%
+\contentsline {subsubsection}{\numberline {9.2.6}UML-Aktivitätsdiagramm}{33}{subsubsection.9.2.6}%
+\contentsline {paragraph}{Beantwortet zentrale Frage:\\}{33}{section*.38}%
+\contentsline {paragraph}{Notationselemente:}{33}{section*.39}%
+\contentsline {subsection}{\numberline {9.3}Verantwortlichkeiten und Responsibility-Driven-Design}{34}{subsection.9.3}%
+\contentsline {paragraph}{2 Ausprägungen von Verantwortlichkeiten:}{34}{section*.40}%
+\contentsline {subparagraph}{\leavevmode {\color {BrickRed}\textbf {Doing-Verantwortlichkeiten / Algorithmen, Code:}}}{34}{section*.41}%
+\contentsline {subparagraph}{\leavevmode {\color {BrickRed}\textbf {Knowing-Verantwortlichkeit / Daten, Attribute: }}}{34}{section*.42}%
+\contentsline {subsubsection}{\numberline {9.3.1}GRASP- 9 Patterns}{34}{subsubsection.9.3.1}%
+\contentsline {subsubsection}{\numberline {9.3.2}Information Expert}{35}{subsubsection.9.3.2}%
+\contentsline {subsubsection}{\numberline {9.3.3}Creator}{35}{subsubsection.9.3.3}%
+\contentsline {subsubsection}{\numberline {9.3.4}Controller}{35}{subsubsection.9.3.4}%
+\contentsline {subsubsection}{\numberline {9.3.5}Low Coupling}{36}{subsubsection.9.3.5}%
+\contentsline {subsubsection}{\numberline {9.3.6}High Cohesion}{36}{subsubsection.9.3.6}%
+\contentsline {subsubsection}{\numberline {9.3.7}Polymorphismus}{36}{subsubsection.9.3.7}%
+\contentsline {subsubsection}{\numberline {9.3.8}Pure Fabrication}{36}{subsubsection.9.3.8}%
+\contentsline {subsubsection}{\numberline {9.3.9}Indirection}{37}{subsubsection.9.3.9}%
+\contentsline {subsubsection}{\numberline {9.3.10}Protected Variations}{37}{subsubsection.9.3.10}%
+\contentsline {section}{\numberline {10}Implementation,Refactoring,Testing}{37}{section.10}%
+\contentsline {subsubsection}{\numberline {10.0.1}Design to Code}{37}{subsubsection.10.0.1}%
+\contentsline {paragraph}{Einsatz von Collection Klassen:}{37}{section*.43}%
+\contentsline {paragraph}{Fehlerbehandlung:\\}{37}{section*.44}%
+\contentsline {paragraph}{Umsetzungs-Reihenfolge}{38}{section*.45}%
+\contentsline {subparagraph}{Bottom-Up Strategie:}{38}{section*.46}%
+\contentsline {subparagraph}{Variante Agile:}{38}{section*.47}%
+\contentsline {paragraph}{Methoden:}{38}{section*.48}%
+\contentsline {subsection}{\numberline {10.1}Implementation}{38}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Refactoring}{38}{subsection.10.2}%
+\contentsline {paragraph}{Code verbessern:}{38}{section*.49}%
+\contentsline {paragraph}{Code Smells:}{39}{section*.50}%
+\contentsline {subsubsection}{\numberline {10.2.1}Refactoring Patterns}{39}{subsubsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.3}Testing}{39}{subsection.10.3}%
+\contentsline {paragraph}{Testarten:}{39}{section*.51}%
+\contentsline {paragraph}{Weitere Teststufen und Testarten}{39}{section*.52}%
+\contentsline {subsubsection}{\numberline {10.3.1}Integrationstest}{40}{subsubsection.10.3.1}%
+\contentsline {subsubsection}{\numberline {10.3.2}Systemtest}{40}{subsubsection.10.3.2}%
+\contentsline {subsubsection}{\numberline {10.3.3}Abnahmetest}{40}{subsubsection.10.3.3}%
+\contentsline {subsubsection}{\numberline {10.3.4}Regressionstest}{40}{subsubsection.10.3.4}%
+\contentsline {subsubsection}{\numberline {10.3.5}Reproduktion von Fehlern}{40}{subsubsection.10.3.5}%
+\contentsline {subsubsection}{\numberline {10.3.6}Einbindung in den Prozess}{40}{subsubsection.10.3.6}%
+\contentsline {subsubsection}{\numberline {10.3.7}Wichtige Begriffe}{41}{subsubsection.10.3.7}%
+\contentsline {subsubsection}{\numberline {10.3.8}Merkmale}{41}{subsubsection.10.3.8}%
+\contentsline {section}{\numberline {11}Entwurf mit Design Pattern I}{41}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Liste der Design Patterns für die Lerneinheit}{41}{subsection.11.1}%
+\contentsline {subsubsection}{\numberline {11.1.1}Adapter}{42}{subsubsection.11.1.1}%
+\contentsline {subsubsection}{\numberline {11.1.2}Simple Factory}{42}{subsubsection.11.1.2}%
+\contentsline {subsubsection}{\numberline {11.1.3}Singleton}{42}{subsubsection.11.1.3}%
+\contentsline {subsubsection}{\numberline {11.1.4}Dependency Injection}{43}{subsubsection.11.1.4}%
+\contentsline {subsubsection}{\numberline {11.1.5}Proxy}{43}{subsubsection.11.1.5}%
+\contentsline {subsubsection}{\numberline {11.1.6}Chain of Responsibility}{44}{subsubsection.11.1.6}%
+\contentsline {section}{\numberline {12}Entwurf mit Design Pattern II}{44}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Decorator}{44}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Observer}{44}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Strategy}{45}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}Composite}{45}{subsection.12.4}%
+\contentsline {subsection}{\numberline {12.5}State}{45}{subsection.12.5}%
+\contentsline {subsection}{\numberline {12.6}Visitor}{46}{subsection.12.6}%
+\contentsline {subsection}{\numberline {12.7}Facade}{46}{subsection.12.7}%
+\contentsline {subsection}{\numberline {12.8}Decorator}{46}{subsection.12.8}%
