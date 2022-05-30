@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.6)  6 MAY 2022 14:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.6)  30 MAY 2022 18:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -506,31 +506,25 @@ LaTeX Info: Redefining \nameref on input line 2.
 
 {C:/Users/ashas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3]
 (EntwurfDesignPattern2.aux)
-
-Package rerunfilecheck Warning: File `EntwurfDesignPattern2.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `EntwurfDesignPattern2.out':
-(rerunfilecheck)             Before: F899B8B80269AFF4998DC5975304E4C1;704
-(rerunfilecheck)             After:  59CA2434D4A3A54FE6692116C289C026;689.
+Package rerunfilecheck Info: File `EntwurfDesignPattern2.out' has not changed.
+(rerunfilecheck)             Checksum: 46400EF228C10CEF21DF2AC994D8F7CE;596.
  ) 
 Here is how much of TeX's memory you used:
- 11103 strings out of 478582
- 177733 string characters out of 2844345
+ 11104 strings out of 478582
+ 177721 string characters out of 2844345
  510530 words of memory out of 3000000
- 29137 multiletter control sequences out of 15000+600000
+ 29136 multiletter control sequences out of 15000+600000
  470507 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,5n,80p,315b,528s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 80i,5n,80p,315b,524s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ashas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb>
-Output written on EntwurfDesignPattern2.pdf (3 pages, 57160 bytes).
+Output written on EntwurfDesignPattern2.pdf (3 pages, 62699 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 

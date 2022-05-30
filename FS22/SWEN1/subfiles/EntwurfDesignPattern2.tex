@@ -5,16 +5,22 @@
 \begin{itemize}
 	\item Problem
 	\begin{itemize}
-		\item Objekt(nicht ganze Klasse) sol mit zusätzlichen Verantwortlichkeiten versehen werden
+		\item Objekt(nicht eine ganze Klasse) soll mit zusätzlichen Verantwortlichkeiten versehen werden.
 	\end{itemize}
 	\item Lösung
 	\begin{itemize}
-		\item Decorator, der dieselber Schnittstelle hat wie das urpsrüngliche Objekt, wird vor dieses geschaltet. Decorator kann jeden Methodenaufruf entweder selber bearbeiten, ihn an das ursprüngliche Objekt weiterleiten oder eine Mischung aus beiden machen.
+		\item Decorator, der dieselbe Schnittstelle hat wir das ursprüngliche Objekt, wird vor dieses geschaltet. Decorator kann nun jeden Methodenaufruf entweder 
+		\begin{enumerate}
+			\item selber bearbeiten,
+			\item ihn an das ursprüngliche Objekt weiterleiten oder
+			\item eine Mischung aus beidem machen.
+		\end{enumerate}
+ 
 	\end{itemize}
 	\item Hinweise
 	\begin{itemize}
-		\item Strukturell identisch mit Proxy aber andere Absicht
-		\item Wenn Anzahl Elemente 1 dann identisch zu Composite Pattern, aber andere Absicht.
+		\item Strukturell identisch mit dem Proxy Design Pattern. Hat aber andere Absicht.
+		\item Identisch mit Composite Design Pattern wenn Anzahl Elemente 1 ist. Hat aber andere Absicht.
 	\end{itemize}
 \end{itemize}
 
@@ -23,15 +29,15 @@
 
 \subsection{Observer}
 \begin{itemize}
-	\item Problem
+	\item \textbf{Problem}
 	\begin{itemize}
 		\item Objekt soll ein anderes Objekt benachrichtigen, ohne Typ des Empfängers zu kennen.
 	\end{itemize}
-	\item Lösung
+	\item \textbf{Lösung}
 	\begin{itemize}
 		\item Interface definieren, dient nur dazu, Objekt über eine Änderung zu informieren. Interface vom Observer implementiert. Observable Objekt benachrichtigt ale registrierten Observer über eine Änderung.
 	\end{itemize}
-	\item Hinweise
+	\item \textbf{Hinweise}
 	\begin{itemize}
 		\item (Observer-Observable) = (Publisher-Subscriber)= (Listener-Observable)
 		\item Observable kennt nur Observer aber nicht wahren Typ
@@ -41,7 +47,7 @@
 			\item Benachrichtigung vom Observable
 		\end{enumerate}
 	\end{itemize}
-	\item Erweiterung
+	\item \textbf{Erweiterung}
 	\begin{itemize}
 		\item Mithilfe Mediatior Pattern kann ein Objekt zwischen Observer und Observable vermitteln. Sowohl Objekt wie auch Observable registrieren sich bei diesem Objekt. Beide benennen eine Eventquelle, die Observer abonniert und Observable mit Events bedient.
 		\item Beispiel:
@@ -55,16 +61,16 @@
 
 \subsection{Strategy}
 \begin{itemize}
-	\item Problem
+	\item \textbf{Problem}
 	\begin{itemize}
 		\item Algorithmus soll einfach austauschbar sein
 	\end{itemize}
-	\item Lösung
+	\item \textbf{Lösung}
 	\begin{itemize}
 		\item Algorithmus in eine eigene Klasse verschieben, die nur eine Methode mit diesem Algorithmus hat.
 		\item Interface für diese Klasse definieren, das von alternativen Algorithmen implementiert werden muss.
 	\end{itemize}
-	\item Hinweise
+	\item \textbf{Hinweise}
 	\begin{itemize}
 		\item Motivation: technische oder fachspezifische Gründe zur Austauschung
 		\item Interface:
@@ -79,15 +85,15 @@
 
 \subsection{Composite}
 \begin{itemize}
-	\item Problem
+	\item \textbf{Problem}
 	\begin{itemize}
 		\item Menge von Objekten haben dasselbe Interface und müssen für viele Verantwortlichkeiten als Gesamtheit betrachtet werden.
 	\end{itemize}
-	\item Lösung
+	\item \textbf{Lösung}
 	\begin{itemize}
 		\item Composite definieren, das dasselbe Interface implementiert und Methoden an die darin enthaltenen objekte weiterleitet.
 	\end{itemize}
-	\item Hinweise
+	\item \textbf{Hinweise}
 	\begin{itemize}
 		\item Hierarchische Struktur of vom Fachgebiet gegeben
 		\item Nicht alle Methoden delegieren einfach auf enthaltenen Elemente. vor- und Nachbearbeitung ist üblich. Gewisse Methoden müssen ganz anders implementiert werden.
@@ -98,22 +104,22 @@
 
 \subsection{State}
 \begin{itemize}
-	\item Problem
+	\item \textbf{Problem}
 	\begin{itemize}
 		\item Verhalten eines Objekts ist abhängig von seinem inneren Zustand
 	\end{itemize}
-	\item Lösung
+	\item \textbf{Lösung}
 	\begin{itemize}
 		\item Objekt hat ein darin enthaltenes Zustandsobjekt
 		\item Alle Methoden, deren Verhalten vom Zustand abhängig sind, über Zustandsobjekt geführt.
 	\end{itemize}
-	\item Hinweise
+	\item \textbf{Hinweise}
 	\begin{itemize}
 		\item Zustands-Klassen implementieren Zustand-Interface
 		\item Zustands-Objekte sind nichts anderes als Strategy Objekte und können Singletons sein.
 		\item Zustandsobjekt hat entweder direkt den Code (als innere Klasse) oder delegiert an eine Methode des Objekts weiter.
 	\end{itemize}
-	\item Allgemein
+	\item \textbf{Allgemein}
 	\begin{itemize}
 		\item In Geschäftsanwendungen State Pattern selten. Häufig in technischen Anwendungen wie Protokollhandler oder Maschinensteuerungen.
 	\end{itemize}
@@ -125,16 +131,16 @@
 
 \subsection{Visitor}
 \begin{itemize}
-	\item Problem
+	\item \textbf{Problem}
 	\begin{itemize}
 		\item Klassenhierarchie um Verantwortlichkeiten (weniger wichtige) erweitert werden, ohne dass viele neue Methoden hinzukommen
 	\end{itemize}
-	\item Lösung
+	\item \textbf{Lösung}
 	\begin{itemize}
 		\item Klassenhierarchie mit einer Visitor-Infrastruktur erweitern
 		\item Alle weiteren neuen Verantwortlichkeiten mit spezigischen Visitor-Klassen realisiert
 	\end{itemize}
-	\item Hinweise
+	\item \textbf{Hinweise}
 	\begin{itemize}
 		\item Widerspruch zum Information Expert. Darum wiichtige Methoden weiterhin direkt der Klasse hinzufügen
 		\item Oft Auswertungen an Visitor-Klassen delegieren
@@ -146,15 +152,15 @@
 
 \subsection{Facade}
 \begin{itemize}
-	\item Problem
+	\item \textbf{Problem}
 	\begin{itemize}
 		\item Einsatz kompliziertes Subsystem mit vielen Klassen. Wie Verwendung vereinfachen, so dass alle Team-Mitglieder es korrekt und einfach verwenden?
 	\end{itemize}
-	\item Lösung
+	\item \textbf{Lösung}
 	\begin{itemize}
 		\item Facade Klasse diefinieren,die vereinfachte Schnittstelle zum Subsystem anbietet und die meisten Anwendungen abdeckt.
 	\end{itemize}
-	\item Hinweise
+	\item \textbf{Hinweise}
 	\begin{itemize}
 		\item Facade vs Adapter: Fassade kapselt Subsystem nicht vollständig. Erlaubt dass Methoden der Facade Parameter und Rückgabewerte haben, die Bezug auf das Subsystem nehmen.
 		\item Oft vom Ersteller eines Frameworks entwickelt
@@ -163,12 +169,7 @@
 
 
 
-\subsection{Decorator}
-\begin{itemize}
-	\item Problem
-	\item Lösung
-	\item Hinweise
-\end{itemize}
+
 
 
 

@@ -7,6 +7,10 @@
 \paragraph{Aufbau: } Fachliche Begriffe mit ihren Attributen, setzt Begriffe in Beziehung zueinander.\\
 Geht nur um die Problemstellung und das Fachgebiet.
 
+\paragraph{Wie Domänen finden:}
+\begin{itemize}
+	\item Substantive markieren in Szenario (Achtung nicht alle sind Konzepte, gewisse sind auch Attribute oder gehören nicht zum Fachgebiet)
+\end{itemize}
 
 \subsection{Domänenmodell als vereinfachtes UML Klassendiagramm}
 
@@ -19,27 +23,6 @@ Geht nur um die Problemstellung und das Fachgebiet.
 	\item \textbf{Komposition = }z.B wenn Produktkatalog gelöscht wird, dann auch die darin enthaltenen Produktbeschreibungen. Abkürzung "bietet an".
 \end{itemize}
 
-\begin{multicols}{3}
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.3\textwidth] {Resources/Images/DM1.png}
-	\caption{\label{fig:DM1}DM1}
-	\end{figure}
-
-
-\columnbreak
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.3\textwidth] {Resources/Images/DM2.png}
-	\caption{\label{fig:DM2}DM2}
-	\end{figure}
-\columnbreak
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.3\textwidth] {Resources/Images/DM3.png}
-	\caption{\label{fig:DM3}DM3}
-	\end{figure}
-\end{multicols}
 
 
 \subsection{Vorgehen}
@@ -104,22 +87,9 @@ Geht nur um die Problemstellung und das Fachgebiet.
 \end{itemize}
 
 
-\subsubsection{Anti-Pattern}
+\paragraph{Anti-Pattern:}
 
-\paragraph{Assoziationen statt Atrribute\\}
-\begin{multicols}{2}
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.3\textwidth] {Resources/Images/AntiPattern1.png}
-	\caption{\label{fig:AntiPattern1}AntiPattern Bad}
-	\end{figure}
-\columnbreak
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.3\textwidth] {Resources/Images/AntiPattern2.png}
-	\caption{\label{fig:AntiPattern2}AntiPattern Good}
-	\end{figure}
-\end{multicols}
+Assoziationen statt Attribute, um Konzepte in Beziehung zueinander zu setzen.
 
 \subsection{Vorgehensweise eines Kartografen}
 
@@ -134,22 +104,8 @@ Geht nur um die Problemstellung und das Fachgebiet.
 
 \end{itemize}
 
-\title {Keine Software Klassen im Domänenmodell :}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.3\textwidth] {Resources/Images/AntiPatternSoftware.png}
-	\caption{\label{fig:AntiPatternSoftware}AntiPatternSoftware}
-	\end{figure}
-
-
-\subsection{Domänenmodell vollständig Beispiel}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.3\textwidth] {Resources/Images/BeispielDomänenmodell.png}
-	\caption{\label{fig:BeispielDomänenmodell}BeispielDomänenmodell}
-	\end{figure}
+\paragraph {Anti-Pattern:}
+Keine Software Klassen im Domänenmodell 
 
 
 \subsection{Analysemuster}
@@ -159,82 +115,32 @@ Geht nur um die Problemstellung und das Fachgebiet.
 		\item Item = Physischer Gegenstand oder Dienstleistung
 		\item Mehrere Artikel desselben Typs
 		\item Attribute (description, price, serial number, itemID)
-			\begin{multicols} {2} \begin{figure}[H]
-				\centering
-				\includegraphics[width=0.3\textwidth] {Resources/Images/Beschreibungsklassen.png}
-			\caption{\label{fig:Beschreibungsklassen}Beschreibungsklassen}
-	\end{figure} 
-	\columnbreak 
-	\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.3\textwidth] {Resources/Images/BeschreibungsklasseFlug.png}
-	\caption{\label{fig:BeschreibungsklasseFlug}BeschreibungsklasseFlug}
-	\end{figure} 
-			\end{multicols}
 	\end{itemize}
 	\item \textcolor {teal} {\textbf{Generalisierung / Spezialisierung}}
 	\begin{itemize}
 		\item Spezialisierung als "is a" Beziehung zu 
-					\begin{multicols} {2} \begin{figure}[H]
-				\centering
-				\includegraphics[width=0.3\textwidth] {Resources/Images/GeneralisierungSpezialisierung.png}
-			\caption{\label{fig:GeneralisierungSpezialisierung}GeneralisierungSpezialisierung}
-	\end{figure} 
-	\columnbreak 
-	\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.3\textwidth] {Resources/Images/GeneralisierungSpezialisierungAttribute.png}
-	\caption{\label{fig:GeneralisierungSpezialisierungAttribute}GeneralisierungSpezialisierungAttribute}
-	\end{figure} 
-			\end{multicols}
+					
 	\end{itemize}
 	\item \textcolor {teal}{\textbf{Komposition}}
 	\item \textcolor {teal} {\textbf{Zustände}}
 		\begin{itemize}
-		\item Eigene Hierarchie für Zustände definieren: \begin{figure}[H]
-				\centering
-				\includegraphics[width=0.3\textwidth] {Resources/Images/Zustände.png}
-			\caption{\label{fig:Zustände}Zustände}
-	\end{figure} 
-	\end{itemize}
+			\item Eigene Hierarchie für Zustände definieren: 
+		\end{itemize}
 	\item \textcolor {teal} {\textbf{Rollen}}
 	\begin{itemize}
-		\item Dasselbe Konzept kann unterschiedliche Rollen einnehmen: \begin{multicols} {2} \begin{figure}[H]
-				\centering
-				\includegraphics[width=0.3\textwidth] {Resources/Images/DMRolleName.png}
-			\caption{\label{fig:DMRolleName}DMRolleName}
-	\end{figure} 
-	\columnbreak 
-	\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.3\textwidth] {Resources/Images/DMRolleKonzept.png}
-	\caption{\label{fig:DMRolleKonzept}DMRolleKonzept}
-	\end{figure} 
-			\end{multicols}
+		\item Dasselbe Konzept kann unterschiedliche Rollen einnehmen: 
 	\end{itemize}
 	\item \textcolor {teal} {\textbf{Assoziationsklasse}}
 	\begin{itemize}
-		\item Wenn Assoziationen eigene Attribute haben (MerchantID für Kreditkarte Geschäft<->AuthorizationService): \begin{figure}[H]
-				\centering
-				\includegraphics[width=0.3\textwidth] {Resources/Images/Assoziationsklasse.png}
-			\caption{\label{fig:Assoziationsklasse}Assoziationsklasse}
-	\end{figure} 
+		\item Wenn Assoziationen eigene Attribute haben (MerchantID für Kreditkarte Geschäft<->AuthorizationService)
 	\end{itemize}
 	\item \textcolor {teal} {\textbf{Einheiten}}
 	\begin{itemize}
-		\item Manchmal sinnvoll explizit als Konzept zu modellieren : \begin{figure}[H]
-				\centering
-				\includegraphics[width=0.3\textwidth] {Resources/Images/Einheiten.png}
-			\caption{\label{fig:Einheiten}Einheiten}
-	\end{figure} 
+		\item Manchmal sinnvoll explizit als Konzept zu modellieren  
 	\end{itemize}
 	\item \textcolor {teal} {\textbf{Zeitintervalle}}
 	\begin{itemize}
-		\item Gültigkeitsintervall für sich ändernede Attribute : \begin{figure}[H]
-				\centering
-				\includegraphics[width=0.3\textwidth] {Resources/Images/Zeitintervall.png}
-			\caption{\label{fig:Zeitintervall}Zeitintervall}
-				\end{figure} 
+		\item Gültigkeitsintervall für sich ändernede Attribute   
 	\end{itemize}
 \end{itemize}
 

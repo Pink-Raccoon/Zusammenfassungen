@@ -174,7 +174,7 @@ Wer kommuniziert mit werm? Wer arbeitet im System zusammen? Darstellung Informat
 
 \subsubsection{UML-Zustandsdiagramm}
 \paragraph{Beantwortet zentrale Frage:\\}
-Weleche Zustände kann ein Objekt, eine Schnittstelle, ein Use Case, ...bei welchen Ereignissen annehmen?\\
+Welche Zustände kann ein Objekt, eine Schnittstelle, ein Use Case, ...bei welchen Ereignissen annehmen?\\
 Präzise Abbildung eines Zustandmodells (endlicher Automat):
 \begin{itemize}
 	\item Zuständen
@@ -231,10 +231,9 @@ Parallelisierung und Synchronisation von Aktionen möglich.
 \end{itemize}
 
 
-\subsection{Verantwortlichkeiten und Responsibility-Driven-Design}:
+\subsection{Verantwortlichkeiten und Responsibility-Driven-Design}
 Methode über Entwurf Softwareklassen nachzudenken:
-\textcolor {YellowOrange} {\textbf{Verantwortlichkeiten, Rollen, Kollaborationsbeziehungen}} = \textbf{RDD / Responsibility Driven Design}\\
-
+\textcolor {YellowOrange} {\textbf{Verantwortlichkeiten, Rollen, Kollaborationsbeziehungen}} = \textbf{RDD / Responsibility Driven Design}\\ \\
 Softwareobjekte haben Verantwortlichkeiten und arbeiten mit anderen Objekten zusammen.\\
 Verantwortlichkeiten werden durch Attribute und Methoden implementiert.\\
 Kann auf jeder Ebene des Designs angwendet werden:
@@ -263,13 +262,13 @@ Kann auf jeder Ebene des Designs angwendet werden:
 
 
 
-
-
-
-
-
-
 \subsubsection{GRASP- 9 Patterns}
+
+\paragraph{GRASP:} Methodischer Ansatz für das OO-Design = General Responsibility Assignment Software Patterns)
+
+\paragraph{Idee:} Mit Pattern-Language, gutes wiederverwendbares Design zu kodifizieren.
+
+\paragraph{Definition Pattern:} Ein benanntes Problem-Lösungspaar
 \begin{enumerate}
 	\item \textbf{Information Expert}
 	\begin{itemize}
@@ -298,17 +297,19 @@ Kann auf jeder Ebene des Designs angwendet werden:
 \end{enumerate}
 
 \subsubsection{Information Expert}
-
-Lösung:\\
+\textbf{Problem:\\}
+Gibt es ein grundlegendes Prinzip, um Objekten Verantwortlichkeiten zuzuweisen?\\
+\textbf{Lösung:\\}
 Verantwortlichkeit einer Klasse zuweisen, die über die erforderlichen Informationen verfügt, um sie zu erfüllen. Partielle Verantwortlichkeiten sind auch möglich.\\
-Alternativen:\\
+\textbf{Alternativen:\\}
 Low Coupling, High Cohesion (Künstliche Klasse)
 
 
 
 \subsubsection{Creator}
-Denn Nachteil von new..() = Kopplung\\
-Lösung:\\
+\textbf{Problem:\\}
+Wer verantwortlich, neue Instanz einer Klasse zu erzeugen? Denn Nachteil von new..() = Kopplung\\
+\textbf{Lösung:\\}
 \textbf {Klasse A} zuständig eine neue Instanz einer \textbf{Klasse B} zu erzeugen, wenn eine oder mehrerere der folgenden Aussagen wahr ist(je mehr desto besser):\\
 \begin{itemize}
 	\item A eine Aggregation oder ein Kompositum von B
@@ -317,19 +318,20 @@ Lösung:\\
 	\item A verfügt über Initialisierungsdaten für B (A ist Experte bezüglich Erzeugung von B)
 \end{itemize}
 Wenn mehrere Optionen anwendbar sind, Klasse A vorziehen, die ein Aggregat oder ein Kompositum ist.\\
-Alternative:\\
+\textbf{Alternative:\\}
 Factory Pattern, Dependency Injection(DI)
 
 \subsubsection{Controller}
 
 Service = 1.Schicht = Domain Controller\\
+\textbf{Problem.\\}
 Welches erste Objekt jenseits der UI-Schicht empfängt und koordiniert(kontrolliert) eine Systemoperation?\\
-Lösung:\\
+\textbf{Lösung:\\}
 Verantwortlichkeit der Klasse zuweisen, der eine der folgenden Bedingungen erfüllt:\\
 \begin{itemize}
 	\item Variante 1: Fassaden Controller:
 	\begin{itemize}
-		\item Repräsentiert "Root-Objekt", System bzw. übergeordnetes System auf dem die Sowftware läuft.
+		\item Repräsentiert "`Root-Objekt"', System bzw. übergeordnetes System auf dem die Sowftware läuft.
 	\end{itemize}
 	\item Variante 2: Use Case Controller:
 	\begin{itemize}
@@ -348,7 +350,8 @@ Verantwortlichkeit der Klasse zuweisen, der eine der folgenden Bedingungen erfü
 
 
 \subsubsection{Low Coupling}
-
+\textbf{Problem:\\}
+Wie geringe Abhängigkeit erreichen, Auswirkungen von Veränderungen begrenzen und wie Wiederverwendbarkeit verbessern?\\
 Ziel: geringe Abhängigkeit (besser für Refactoring)
 \begin{itemize}
 	\item Kopplung = Mass für die Abhängigkeit von anderen Elementen (Klassen, Subsystem,Systeme)
@@ -359,14 +362,11 @@ Ziel: geringe Abhängigkeit (besser für Refactoring)
 	\end{itemize}
 	\item Niederige Kopplung = Element ist nur von wenigen anderen Elementen abhängig.
 \end{itemize}
-
-
-Lösung:\\
+\textbf{Lösung:\\}
 Verwantwortlichkeiten so zuweisen, dass Kopplung gering bleibt, Delegation Information Expert.
 
 \subsubsection{High Cohesion}
-
-Ziel:\\
+\textbf{Problem:\\}
 Erreichen, dass Objekte fokussiert, verständlich handbar bleiben und nebenbei Low Coupling unterstützen
 
 \begin{itemize}
@@ -374,38 +374,37 @@ Erreichen, dass Objekte fokussiert, verständlich handbar bleiben und nebenbei L
 	\item Hohe Kohäsion = Element erledigt nur wenige Aufgaben, die eng miteinander verwandt sind
 	\item Geringe Kohäsion = Element, das für viele unzusammenhängende Dinge verantwortlich ist
 \end{itemize}
-
-Nachteil geringe Kohäsion: Schwierig zu verstehen, schwierig wiederzuverwenden, brüchig und instabil, sind laufend von Änderungen betroffen
-
-Lösung:\\
+Nachteil geringe Kohäsion: Schwierig zu verstehen, schwierig wiederzuverwenden, brüchig und instabil, sind laufend von Änderungen betroffen.\\
+\textbf{Lösung:\\}
 Verwantwortlichkeiten so zuweisen, dass Kohäsion hoch bleibt.
 
 
 
 \subsubsection{Polymorphismus}
 
-Ziel: Typabhängige Alternativen handhaben.
+\textbf{Problem:\\}
+ Typabhängige Alternativen handhaben.
 \begin{itemize}
 	\item Operation weist viele if-then-else bzw. grosse switch-case Anweisungen auf
 	\item Bestimmtes Verhalten (z.B Einsatz eines externen Dienstes konfigurierbar machen.
 \end{itemize}
-
-Lösung:\\
+\textbf{Lösung:\\}
 Typabhängige Verhalten mit polymorphen Operationen der Klasse zuweisen, dessen Verhalten variiert.
 \begin{itemize}
 	\item Grundlegende Idee OOP (Generalisierung / Spezialisierung)
-	\item Überprüfen dass Beziehung "is a" ist zwischen Superklase und Subklassen
+	\item Überprüfen dass Beziehung "`is a"' ist zwischen Superklase und Subklassen
 	\item Liskov-Substituions-Prinzip einhalten
 \end{itemize}
 
 \subsubsection{Pure Fabrication}
-Problem: Wollen nicht gegen High Cohesion und Low Coupling oder andere Ziele verstossen, aber Lösungen nicht passen
+\textbf{Problem:\\}
+Wollen nicht gegen High Cohesion und Low Coupling oder andere Ziele verstossen, aber Lösungen passen nicht
 \begin{itemize}
 	\item Viele Design-Klassen können direkt aus dem Fachbereich (Domänenmodell) abgeleitet werden und erfüllen das Low Representational Gap
 	\item viele Situationen wo es Probleme gibt wenn Verantwortlichkeiten der Klasse in der Domänenschicht zugewiesen werden
 \end{itemize}
 
-Lösung:\\
+\textbf{Lösung:\\}
 \begin{itemize}
 	\item Hoch kohäsiven Satz von Verantwortlichkeiten einer künstlichen Hilfsklasse zuweisen
 	\item Nur erstellt um höhere Kohäsion, geringe Kopplung oder eine bessere Wiederverwendbarkeit zu realisieren.
@@ -414,9 +413,10 @@ Lösung:\\
 
 
 \subsubsection{Indirection}
-Problem: Verantwortlichkeit zuweisen, so dass direkte Kopplung zwischen 2 oder mehrere Objekte vermeidet wird. Objekte Entkoppeln, für geringere Kopplung und Wiederverwendungspotentioal grösser.\\
+\textbf{Problem:\\}
+Verantwortlichkeit zuweisen, so dass direkte Kopplung zwischen 2 oder mehrere Objekte vermeidet wird. Objekte Entkoppeln, für geringere Kopplung und Wiederverwendungspotential grösser.\\
 Ziel: Zwischen Adapter vermittelt\\
-Lösung:\\
+\textbf{Lösung:\\}
 \begin{itemize}
 	\item Verantwortlichkeit einem zwischengeschalteten Objekt zuweisen
 	\item Vermittler schafft eine Indirektion zwischen den anderen Komponenten
@@ -427,11 +427,10 @@ Lösung:\\
 
 \subsubsection{Protected Variations}
 
-Problem: Objekte, Subsystem und Systeme entwerfen, so dass Veränderungen und Instabilitäten in diesen Elementen keinen Einfluss auf andere Elemente haben.\\
+\textbf{Problem:\\}
+Objekte, Subsystem und Systeme entwerfen, so dass Veränderungen und Instabilitäten in diesen Elementen keinen Einfluss auf andere Elemente haben.\\
 Ziel: Im Vorfeld Erweiterungen vorbereiten für Zukunft.\\
-
-Lösung:\\
-
+\textbf{Lösung:\\}
 Punkte identifizieren, an denen Veränderungen und Instabilitäten zu erwarten sind. Verantwortlichkeiten so zuweisen, dass diese Punkte durch ein stabiles Interface eingekapselt werden.\\
 Unterscheidung der Änderungspunkten:
 \begin{itemize}
