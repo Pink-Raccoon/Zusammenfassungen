@@ -1,11 +1,18 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.6)  9 JUN 2022 17:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.6)  9 JUN 2022 17:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./ZF_HM2.tex
-(ZF_HM2.tex
+**"./Funktionen mit mehreren Variablen.tex"
+(Funktionen mit mehreren Variablen.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
+(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
+Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
+Preamble taken from file `../ZF_HM2.tex'
+(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+)
+(../ZF_HM2.tex
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -984,31 +991,27 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+))) (Funktionen mit mehreren Variablen.aux)
+\openout1 = `"Funktionen mit mehreren Variablen.aux"'.
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
-Package: import 2020/04/01  v 6.2
-))
-(ZF_HM2.aux)
-\openout1 = `ZF_HM2.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
 
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1069,7 +1072,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 36.
+Package hyperref Info: Link coloring ON on input line 3.
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1082,40 +1085,31 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count351
 )
-LaTeX Info: Redefining \ref on input line 36.
-LaTeX Info: Redefining \pageref on input line 36.
-LaTeX Info: Redefining \nameref on input line 36.
- (ZF_HM2.out) (ZF_HM2.out)
+LaTeX Info: Redefining \ref on input line 3.
+LaTeX Info: Redefining \pageref on input line 3.
+LaTeX Info: Redefining \nameref on input line 3.
+ (Funktionen mit mehreren Variablen.out)
+(Funktionen mit mehreren Variablen.out)
 \@outlinefile=\write4
-\openout4 = `ZF_HM2.out'.
+\openout4 = `"Funktionen mit mehreren Variablen.out"'.
 
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 36.
+ on input line 3.
 
 \c@lstlisting=\count352
-LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
-
+LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
 
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(ZF_HM2.toc)
-\tf@toc=\write5
-\openout5 = `ZF_HM2.toc'.
-
- [1
-
-{C:/Users/ashas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (subfiles/Fu
-nktionen mit mehreren Variablen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
@@ -1146,24 +1140,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
-[2]) (subfiles/Ausgleichsrechnung.tex) (subfiles/Numerische Integration.tex)
-(subfiles/Einfuehrung in gewoehnliche Differentialgleichungen.tex) [3]
-(ZF_HM2.aux)
-Package rerunfilecheck Info: File `ZF_HM2.out' has not changed.
-(rerunfilecheck)             Checksum: 573133FA3778E5AA85EBFE1E1A4165AD;1604.
+[1
+
+{C:/Users/ashas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Package mdframed Info: Not enough space on this page on input line 72.
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+[2] (Funktionen mit mehreren Variablen.aux)
+Package rerunfilecheck Info: File `"Funktionen mit mehreren Variablen".out' has
+ not changed.
+(rerunfilecheck)             Checksum: 82835D5F1CA271F483138F6A8B794758;1003.
  ) 
 Here is how much of TeX's memory you used:
- 34127 strings out of 478582
- 794248 string characters out of 2844345
- 1271095 words of memory out of 3000000
- 51723 multiletter control sequences out of 15000+600000
- 477457 words of font info for 60 fonts, out of 8000000 for 9000
+ 34092 strings out of 478582
+ 793887 string characters out of 2844345
+ 1281371 words of memory out of 3000000
+ 51704 multiletter control sequences out of 15000+600000
+ 472206 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,10n,94p,725b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 119i,10n,111p,778b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ashas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -1172,16 +1199,15 @@ ype1/public/amsfonts/cm/cmex10.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ashas/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ashas/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ashas/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/a
-shas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
-/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/as
+has/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/U
+sers/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmr7.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmsy7.pfb>
-Output written on ZF_HM2.pdf (3 pages, 164575 bytes).
+m/cmsy7.pfb>
+Output written on "Funktionen mit mehreren Variablen.pdf" (2 pages, 137472 byte
+s).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 77 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
