@@ -6,7 +6,10 @@
 \contentsline {subsection}{\numberline {1.2}Linearisierung von Funktionen}{2}{subsection.1.2}%
 \contentsline {paragraph}{Jacobi-Matrix Df(x) \\}{2}{section*.4}%
 \contentsline {subsection}{\numberline {1.3}Das Newton-Verfahren für Systeme}{2}{subsection.1.3}%
-\contentsline {section}{\numberline {2}Ausgleichsrechnung}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Das Gauss Newton-Verfahren}{3}{subsection.2.1}%
-\contentsline {section}{\numberline {3}Numerische Integration}{3}{section.3}%
-\contentsline {section}{\numberline {4}Einführung in gewöhnliche Differentialgleichungen}{3}{section.4}%
+\contentsline {subsubsection}{\numberline {1.3.1}Vereinfachtes Newton-Verfahren}{3}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Gedämpftes Newton-Verfahren}{3}{subsubsection.1.3.2}%
+\contentsline {section}{\numberline {2}Ausgleichsrechnung}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Ausgleichsrechnung}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Polynominterpolation}{4}{subsubsection.2.1.1}%
+\contentsline {section}{\numberline {3}Numerische Integration}{5}{section.3}%
+\contentsline {section}{\numberline {4}Einführung in gewöhnliche Differentialgleichungen}{5}{section.4}%

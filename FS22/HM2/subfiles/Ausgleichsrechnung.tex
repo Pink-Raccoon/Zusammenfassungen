@@ -3,31 +3,148 @@
 \begin{document}
 
 
-\subsection{Das Gauss Newton-Verfahren}
+\subsection{Ausgleichsrechnung}
+\begin{itemize}
+	\item Datenpunkte mit gewissen Streuung durch einfache Funktion annähern
+	\item Mehr Gleichungen als unbekannte (Mehr Datenpunkte als Parameter)
+
+\end{itemize}
+
+\subsubsection{Polynominterpolation}
+\textcolor {magenta} {Gesucht: $P_n(x)$ welche n+1 Stützpunkte interpoliert}
+Jeder Stützpunkt gibt lin.Gleichung für die \colorbox {orange!30}{Bestimmung der Koeffizienten.}\\
+\colorbox {green!30}{Grad n} so wählen , dass lin.Gleichungssystem gleich viele Gleichungen wie unbekannte Koeffizienten hat.\\
+$P_n(x_0) = a_0 + a_1x_0 + a_2x_0^{2} + ... + a_nx_0^{n}=y_0$\\\\
+$P_n(x_1) = a_0 + a_1x_1 + a_2x_1^{2} + ... + a_nx_1^{n}=y_1$\\
+		.\\
+		.\\
+		.\\
+$P_n(x_n) = a_0 + a_1x_n + a_2x_n^{2} + ... + a_nx_n^{n}=y_n$\\\\
+
+
+\[
+\begin{rcases*}
+ = \left[\begin {matrix}1 & x_0 & ... & x_0^{n}\\
+.&.\\
+.&.\\
+.&.\\
+1 & x_n &...& n_n^{n}\end{matrix}\right] *
+ \left[\begin {matrix}a_0\\
+.\\
+.\\
+.\\
+a_n\end{matrix}\right]
+= \left[\begin {matrix}y_0\\
+.\\
+.\\
+.\\
+y_n\end{matrix}\right] 
+\end{rcases*}\textcolor {orange!60}{Van der monde-Matrix = Schlecht konditioniert.
+Ab n \geq 20 numerisch instabil}
+\]
+
+
+\begin{mdframed}
+	\textbf{Lagrange Interpolationsformel:\\}
+	Lagrangeform von $P_n(x):$\\
+	 \[ P_(x) =\sum_{i=0}^{n} l_i(x)y_i \]
+	
+	LagrangePolynome = $l_i(x)$:
+	\[ l_i(x) =\prod_{j=0_{j\neq i}}^{n} \dfrac {x-x_j}{x_i-x_j} \]
+	
+\end{mdframed}
+
+\textbf{Stückweise Interpolation:\\}
+Interpolationspolynom erster Ordnung: n = 1\\
+Stützpunkte so wählen: $x_{j-1} und x_{j+1}$ ,somit 2 Werte: n = 1\\
+
+\textbf{Grösse des Fehlers an Stelle x wenn:\\}
+$y_i$ Funktionswerte (genügend oft stetig differenzierbare Funktion)\\
+$|f(x)-P_n(x)|\leq \dfrac{|(x-x_0)(x-x_1)...(x-x_n)|}{(n+1!)}$\\
+Max der (n+1)-ten Abletung der f(x) Intervall [$x_0,x_n$] kennen, Fehlerabschätzung nur dann möglich.
+
+
+\subsubsection{Spline-Interpolation}
+
+\textbf{Bedingungen für $S_i$:\\}
+
+\begin{enumerate}
+	\item $S_i(x_i) = y_i, S_{i+1}(x+1) = y_{i+1}, ... \textcolor{green} {Interpolation}$
+	\item $S_i(x_{i+1}) = S_{i+1}(x_{i+1}),S_{i+1}(x_{i+2}) = S_{i+2}(x_{i+2}),...$\textcolor {green} {Stetiger Übergang}
+	\item $S'_i(x_{i+1}) = S'_{i+1}(x_{i+1}),S'_{i+1}(x_{i+2}) = S'_{i+2}, ... \textcolor{green}{Keine Knicke}$
+		\item $S''_i(x_{i+1}) = S''_{i+1}(x_{i+1}),S''_{i+1}(x_{i+2}) = S''_{i+2}, ...$ \textcolor{green}{Gleiche Krümmung}
+		\item Mindestens den Grad 3 ... \textcolor{green}{Kubische Splines}
+\end{enumerate}
 
 
 
+3 Intervalle, 4 Stützpunkte:\\
+$[x_0,x_1],[x_1,x_2],[x_2,x_3]$\\
+\textbf{Ansatz:\\}
+$S_0 = a_0 + b_0(x-x_0) + c_0(x-x_0)^{2} + d_0(x-x_0)^{3},x\in[x_0,x_1]$\\
+$S_1 = a_1 + b_1(x-x_1) + c_1(x-x_1)^{2} + d_1(x-x_1)^{3},x\in[x_1,x_2]$\\
+$S_2 = a_2 + b_2(x-x_2) + c_2(x-x_2)^{2} + d_2(x-x_2)^{3},x\in[x_2,x_3]$\\
+
+$3*4 = 12$ Koeffizienten$\implies $12 Bedingungen
+
+\textbf{\textcolor{blue}{1.Interpolation der Stützpunkte:}\\}
+$1. S_0(x_0) = y_0$\\
+$2. S_1(x_1) = y_1$\\
+$3. S_2(x_2) = y_2$\\
+$4. S_3(x_3) = y_3$\\
+
+\textbf{\textcolor{blue}{2. Stetiger Übergang an Stellen $x_1$ und $x_2$:}\\}
+$5. S_0(x_1) =S_1(x_1)$\\
+$6. S_1(x_2) =S_2(x_2)$\\
+
+\textbf{\textcolor{blue}{3. Erste Ableitung an Übergangstellen übereinstimmen:}\\}
+$7. S'_0(x_1) =S'_1(x_1)$\\
+$8. S'_1(x_2) =S'_2(x_2)$\\
+
+\textbf{\textcolor{blue}{4. Zweite Ableitung an Übergangstellen übereinstimmen:}\\}
+$9. S''_0(x_1) =S''_1(x_1)$\\
+$10. S''_1(x_2) =S''_2(x_2)$\\
+
+$= 10 Bedingungen$\\
+
+Die weiteren 2 Bedingungen können "frei gewählt" werden.\\
+Diese beziehen sich häufig auf Randstellen $x_0$ und $x_3$.\\
+\textbf{Beispiele:\\}
+\textcolor{violet}{Natürliche kubische Splinefunktion:}\\
+Mit moeglichen Wendepunkt im Anfangs und Endpunkt.\\
+\[
+\begin{rcases*}
+S'''_0(x_0) = 0\\
+S'''_2(x_3) = 0\\
+\end{rcases*} 
+\]
+\textcolor{violet}{Periodische kubische Splinefunktion:\\}
+Wenn man Periode $p=x_3-x-0$ hat und damit $y_0$ bzw. $S_0(x_0) = S_2(x_3)$ gilt
+\[
+\begin{rcases*}
+S'_0(x_0) = S'_2(x_3) \\
+S''_0(x_0) = S''_2(x_3) \\
+\end{rcases*} 
+\]
+\textcolor{violet}{mit not-a-knot Bedingung kubische Splinefunktion:\\}
+s.d Auch dritte Ableitung in $x-1,x-2$ noch stetig ist. ($x_1,x_2$ keine echten Knoten)
+\[
+\begin{rcases*}
+S'''_0(x_1) = S'''x_1(x_1) \\
+S'''_1(x_2) = S'''_2(x_2) \\
+\end{rcases*} 
+\]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+\begin{mdframed}
+	\textbf{Algorithmus: natürliche kubische Splinefunktion\\}
+	$S_i = a_i + b_i(x-x_i) + c_i(x-x_i)^{2} + d_i(x-x_i)^{3}$\\
+Koeffizienten $a_i,b_i,c_i,d_i$ berechnen:
+\begin{enumerate}
+	\item 
+\end{enumerate}
+	
+\end{mdframed}
 
 
 
@@ -55,3 +172,4 @@
 
 
 \end{document}
+
