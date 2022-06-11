@@ -1,6 +1,16 @@
 \documentclass[../ZF_HM2.tex]{subfiles}
 
+
 \begin{document}
+
+\newmdtheoremenv[%
+  backgroundcolor=white,
+  linecolor=magenta!,
+  linewidth=2pt,
+  topline=true,
+  rightline=true,
+  leftline=true]{theorem}{}
+
 \subsection{Partielle Ableitungen}
 
 $m = f'(x_0)$ im Punkt $(x_0,f(x_0)$
@@ -90,24 +100,52 @@ Immer wieder $Df(x^{0}) verwenden$
 
 \subsubsection{Gedämpftes Newton-Verfahren}
 
-Nach dem n-ten Schritt wenn $Df(x^{n})$ schlecht konditioniert ist (nicht oder fast nicht invertierbar), dann $x^{n} +\delta ^{n}$ verwerfen!!
+Nach dem n-ten Schritt wenn $Df(x^{n})$ schlecht konditioniert ist (nicht oder fast nicht invertierbar), dann $x^{n} +\delta ^{n}$ verwerfen!!\\
+Funktioniert auch mit vereinfachtes Newton Verfahren.		
 
-\begin{mdframed}
+\begin{theorem}
 	\textbf{Probieren:\\\\}
 	$x^{n} + \dfrac{\delta ^{n}} {2}$\\\\
 	Mit der Bedingung:\\
 	$\|f(x^{n}) + \dfrac{\delta ^{n}} {2})\|_2 < \|f(x^{n} \|_2$ \\\\
 	Weil wir Iteration $\|f(x^{n}) \|_2$ gegen 0 erreichen wollen
 	 
-\end{mdframed}
+\end{theorem}
 
+\pagebreak
 
 \begin{mdframed}
 	\textbf{Algorithmus:\\}
 	\begin{enumerate}
-		\item $Df(x^{0})\delta ^{n} = -f(x^{(n)})$
+		\item $Df(x^{n})\delta ^{n} = -f(x^{(n)})$
 		\item nach $\delta ^{n}$ auflösen
-		\item $x^{n+1} = x^{n} +\delta ^{n} $
+		\item Finde minimale aus $k \in \|f(x^{n}) + \dfrac{\delta ^{n}} {2})\|_2 < \|f(x^{n} \|_2$ $,k_{max} = 4$\\
+		sofern nichts Anderes als sinnvoll angegeben\\
+ \UseRawInputEncoding
+\begin{lstlisting}[language=Python]
+	while k <= k_max:
+		new_residual = np.linalg.norm
+		(f_lambda(x_n + (delta.reshape(x0.shape[0], ) / 
+		(2 ** k))), 2) 
+# ‖f(x(n) + 𝛅(n) / 2^k)‖₂
+	        if new_residual < last_residual:
+	        		delta = delta / (2**k)
+	        		x_next = x_n + 
+	        		delta.reshape(x0.shape[0], )  
+# x(n+1) = x(n) + 𝛅(n) / 2^k
+				k_actual = k
+	                break  
+# Minimales k, für welches das Residuum besser ist wurde gefunden 
+-> abbrechen
+	            else:
+	            		k=0
+	 k += 1
+            		
+
+\end{lstlisting}
+		
+		\item $x^{n+1} = x^{n} +\dfrac{\delta ^{n}}{2^{k}} $\\
+
 	\end{enumerate}
 \end{mdframed}
 
@@ -115,6 +153,9 @@ Nach dem n-ten Schritt wenn $Df(x^{n})$ schlecht konditioniert ist (nicht oder f
 
 
 
+
+
+ 
 
 
 
