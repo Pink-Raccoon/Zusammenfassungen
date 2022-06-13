@@ -1,13 +1,8 @@
 \documentclass[../ZF_HM2.tex]{subfiles}
 
 \begin{document}
-\newmdtheoremenv[%
-  backgroundcolor=white,
-  linecolor=magenta!,
-  linewidth=2pt,
-  topline=true,
-  rightline=true,
-  leftline=true]{theorem}{}
+
+
 
 \subsection{Ausgleichsrechnung}
 \begin{itemize}
@@ -197,11 +192,13 @@ $A = $\colorbox {yellow!30}{$ \left[\begin {matrix} &  &  & \\
 \colorbox {pink!30}{Ausgleichsgerade:} $f(x)=ax+b$:
 \colorbox {pink!30} {gesucht:}$F=af_1+bf_2$ $|$ $a,b \in \mathbb{R}$
 \textbf{Basisfunktion:} $f_1(x) = x$ und $f_2(x) = 1$
-\begin{theorem}
+
+
+
 	\textbf{Form Fehlerfunktional:\\\\}
-	$E(f)(a,b):= \sum_{i=1}^{n}(y_i-f(x_i))^2 = \sum_{i=1}^{n}(y_i-(ax_i +b))^2 )$
+	\colorbox{magenta!30}{$E(f)(a,b):= \sum_{i=1}^{n}(y_i-f(x_i))^2 = \sum_{i=1}^{n}(y_i-(ax_i +b))^2 )$}
 	 
-\end{theorem}
+
 \colorbox {pink!30}{minimal = } patiellen Ableitung nach a,b müssen verschwinden
 
 $ \left[\begin {matrix}\sum_{i=1}^{n}(x_i)^2 & \sum_{i=1}^{n}(x_i)\\\\
@@ -254,7 +251,134 @@ y_n
 \textcolor{magenta}{Lösung:}$\lambda$ beinhaltet gesuchte Prameter des linearen Ausgleichproblems\\
 Verfahren am Besten mit QR-Zerlegung
 
+\subsubsection{Nichtlineare Ausgleichprobleme}
+\begin{mdframed}
+	\textbf{Allgemeines Ausgleichproblem:\\\\}
+	\colorbox{blue!10}{Fehlerfunktional:}\\
+	$f_p$ = Ansatzfunktion
+	
+	$E(f)(a,b):= \sum_{i=1}^{n}(y_i-f_p(\lambda_1,\lambda_2,...,\lambda_m,x_i))^2$
+	= $ \left[\begin {matrix}
+y_1-f_p(\lambda_1,\lambda_2,...,\lambda_m,x_1)\\
+y_2-f_p(\lambda_1,\lambda_2,...,\lambda_m,x_2)\\
+.&&&\\
+.\\
+.\\
+y_n-f_p(\lambda_1,\lambda_2,...,\lambda_m,x_n)\\\\\\
+\end{matrix}\right]\|_2^2 = \|y-f(\lambda)\|_2^2$\\
 
+$f(\lambda):=f(\lambda_1,\lambda_2,...,\lambda_m):=$ $\left[\begin {matrix}
+f_p(\lambda_1,\lambda_2,...,\lambda_m)\\
+f_p(\lambda_1,\lambda_2,...,\lambda_m)\\
+.&&&\\
+.\\
+.\\
+f_p(\lambda_1,\lambda_2,...,\lambda_m)\\
+\end{matrix}\right]$:=
+$ \left[\begin {matrix}
+f_p(\lambda_1,\lambda_2,...,\lambda_m,x_1)\\
+f_p(\lambda_1,\lambda_2,...,\lambda_m,x_2)\\
+.&&&\\
+.\\
+.\\
+f_p(\lambda_1,\lambda_2,...,\lambda_m,x_n)\\
+\end{matrix}\right]$,\\
+y=$\left[\begin{matrix}
+y_1\\
+y_2\\
+.\\
+.\\
+.\\
+y_n
+\end{matrix}\right]$, $\lambda=\left[\begin {matrix}\lambda_1\\
+\lambda_2\\
+.\\
+.\\
+.\\
+\lambda_n
+\end{matrix}\right]$
+	 
+\end{mdframed}
+Falls Ansatzfunktionen linear in den Parametern $\implies$\\ Spezialfall des Ausgleichsproblems: $f(\lambda)= A \lambda \implies$ \colorbox{orange!30}{Allg.Ausgleichsproblem}=\colorbox{violet!30}{Minimums einer Funktion}
+
+\begin{mdframed}
+	\textbf{Schritte:\\}
+	\begin{enumerate}
+		\item Normalgleichungen aufstellen (part.Abl.von f)
+		\item $\lambda_i =0$
+		\item Nichtlineare Gleichungssystem lösen
+	\end{enumerate}
+	
+	
+\end{mdframed}
+\subsubsection{Das Gauss-Newton Verfahren}
+\textcolor {pink!200}{Quadratmittelproblem:} Problem einen Vektor x zu finden für den E(x) minimal wird.\\
+\textcolor{violet!30}{Nichtlineare Ausgleichsprobleme:} \colorbox {magenta!30}{$g(\lambda):=y-f(\lambda)$}\\
+\textcolor{orange!50}{Fehlerfunktional:}\colorbox {magenta!30}{$E(\lambda):=\|g(\lambda)\|_2^2=\|y-f(\lambda)\|_2^2$}\\
+\textcolor{teal!50}{Gauss-Newton-Verfahren:} Lin.Ausgl.RG + Newton-Verfahren = \colorbox{magenta!30}{$g(\lambda)=g(\lambda^{(0)})+Dg(\lambda^{0})*(\lambda - \lambda^{0})$} = Verallg.Tangentgleichung!!\\
+$Dg(\lambda^{0})=\left[\begin{matrix}
+\dfrac{\delta g_1}{\lambda_1}(\delta\lambda^{0}) & \dfrac{\delta g_1}{\lambda_2}(\delta\lambda^{0}) & ...& \dfrac{\delta g_1}{\lambda_m}(\delta\lambda^{(0)})\\\\
+\dfrac{\delta g_2}{\lambda_1}(\delta\lambda^{0}) & \dfrac{\delta g_2}{\lambda_2}(\delta\lambda^{0}) & ...& \dfrac{\delta g_2}{\lambda_m}(\lambda^{(0)})\\\\
+.\\
+.\\
+.\\
+\dfrac{\delta g_n}{\lambda_1}(\delta\lambda^{0}) & \dfrac{\delta g_n}{\lambda_2}(\delta\lambda^{0}) & ...& \dfrac{\delta g_n}{\lambda_m}(\delta\lambda^{(0)})\\\\
+
+\end{matrix}\right]$\\
+Minimum Fehlerfunktionals: $E(\lambda) = 
+\underbrace{\|g(\lambda^{(0)})\|}_\text{\colorbox{pink!30}{y}}+ 
+\underbrace{Dg(\lambda^{0})}_\text{\colorbox{pink!30}{-A}}*
+\underbrace{\lambda - \lambda^{0})}_\text{\colorbox{pink!30}{$\delta$}}$\\
+\colorbox{blue!30}{Normagleichungssystem:}$A^{T}A\delta = A^{T}y = Dg(\lambda^{0})^{T}Dg(\lambda^{0})\delta=Dg(\lambda^{0})^{T}*g(\lambda^{0})$
+$\implies$\\ QR-Zerlegung: $Dg(\lambda^{0})$=QR$\geq R\delta = -Q^{T}g(\lambda^{0})$\\
+$\implies$ Lösung: $\Lambda = (\lambda^{0})+\delta$
+\begin{mdframed}
+	\textbf{Schritte:\\}
+	\begin{enumerate}
+		\item Berechne Funktion
+		\begin{itemize}
+			\item $g(\lambda):= y-f(\lambda)$
+			\item $Dg(\lambda)$
+		\end{itemize}
+		\item k = 0,1...:\\ $\delta^{k}$ als Lösung: $min\|g(\lambda^{k})+Dg(\lambda^{k})*\delta^{k}\|_2^{2}$\\
+		$\implies Dg(\lambda^{k})^{T}*Dg(\lambda^{k})\delta^{k} = Dg(\lambda^{k})^{T}*g(\lambda^{k})$\\
+		nach \colorbox{pink!30}{nach $\delta^{k}$ auflösen} durch QR-Zerlegung.
+		\begin{itemize}
+			\item \colorbox{pink!30}{$Dg(\lambda^{k})=Q^{k}R^{k}$}
+			\item \colorbox{pink!30}{$R^{k}\delta^{k}=-(Q^{k})^{T}g(\lambda^{k})$}
+		\end{itemize}
+		\item Setze: \colorbox{pink!30}{$\lambda^{k+1} = \lambda^{k}+\delta^{k}$}
+
+	\end{enumerate}
+\end{mdframed}
+
+Korrektur \colorbox{orange!30}{$\delta^{k}$} nur \colorbox{orange!30}{akzeptiert wenn} Fehlerfunktional zur Abnahme führt:
+\textbf{Fehlerfunktional\\}\colorbox{magenta!30}{$E(\lambda^{k+1})=\|g(\lambda^{k+1})\|_2^2 < \|g(\lambda^{k})\|_2^2 = E(\lambda^{k})$}
+
+
+\begin{mdframed}
+	\textbf{Gedämpftes Gauss-Newton-Verfahren}
+	\begin{enumerate}
+		\item Berechne Funktion:
+		\begin{itemize}
+			\item  $g(\lambda):= y-f(\lambda)$
+			\item $Dg(\lambda)$
+			\end{itemize}
+		\item k = 0,1...:\\ $\delta^{k}$ als Lösung: $min\|g(\lambda^{k})+Dg(\lambda^{k})*\delta^{k}\|_2^{2}$\\
+		$\implies Dg(\lambda^{k})^{T}*Dg(\lambda^{k})\delta^{k} = Dg(\lambda^{k})^{T}*g(\lambda^{k})$\\
+		nach \colorbox{pink!30}{nach $\delta^{k}$ auflösen} durch QR-Zerlegung.
+		\begin{itemize}
+			\item \colorbox{pink!30}{$Dg(\lambda^{k})=Q^{k}R^{k}$}
+			\item \colorbox{pink!30}{$R^{k}\delta^{k}=-(Q^{k})^{T}g(\lambda^{k})$}
+		\end{itemize}
+		\item Finde das minimale p $\in$ {0,1,...,$p_{max}$}\\ $\underbrace{\|\lambda^{(k)}+\dfrac{\delta^{k}}{2^{p}}\|_2^{2}}_\text{\colorbox{pink!30}{$\lambda^{(k+1)}$}}<\|g(\lambda^{(k)})\|_2^{2}$\\
+		\item Falls kein min. p gefunden:\\
+		p=0 und weiterfahren
+		\item Setze: $\lambda^{(k)}+\dfrac{\delta^{(k)}}{2^{p}}$
+		
+	\end{enumerate}
+\end{mdframed}
+\colorbox{teal!30}{Abbruchkriterium:}  $\|\dfrac{\delta^{(k)}}{2^{p}}\| < TOL$ \\Keine Grantie, dass die Näherung max. Abstand von TOL zum ges. Min. ist.
 
 
 
