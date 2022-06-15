@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.6)  13 JUN 2022 09:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.6)  13 JUN 2022 13:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"./Numerische Integration.tex"
-(Numerische Integration.tex
+**"./Einfuehrung in gewoehnliche Differentialgleichungen.tex"
+(Einfuehrung in gewoehnliche Differentialgleichungen.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.cls
@@ -1023,8 +1023,8 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
-))) (Numerische Integration.aux)
-\openout1 = `"Numerische Integration.aux"'.
+))) (Einfuehrung in gewoehnliche Differentialgleichungen.aux)
+\openout1 = `"Einfuehrung in gewoehnliche Differentialgleichungen.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -1120,9 +1120,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
- (Numerische Integration.out) (Numerische Integration.out)
+ (Einfuehrung in gewoehnliche Differentialgleichungen.out)
+(Einfuehrung in gewoehnliche Differentialgleichungen.out)
 \@outlinefile=\write4
-\openout4 = `"Numerische Integration.out"'.
+\openout4 = `"Einfuehrung in gewoehnliche Differentialgleichungen.out"'.
 
 
 
@@ -1132,111 +1133,155 @@ your preamble.
  on input line 3.
 
 \c@lstlisting=\count356
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
 
 (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
 
  []
 
 [1
 
 {C:/Users/ashas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<..//Resources/Images/RombergExtrapolation.png, id=70, 525.965pt x 274.02374pt>
-
-File: ..//Resources/Images/RombergExtrapolation.png Graphic file (type png)
-<use ..//Resources/Images/RombergExtrapolation.png>
-Package pdftex.def Info: ..//Resources/Images/RombergExtrapolation.png  used on
- input line 54.
-(pdftex.def)             Requested size: 133.07489pt x 69.32947pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--56
+Underfull \hbox (badness 10000) in paragraph at lines 80--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--56
+Underfull \hbox (badness 10000) in paragraph at lines 80--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--56
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
 
  []
 
-[2
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.89 \end{document}
-                    <..//Resources/Images/RombergExtrapolation.png>]
-(Numerische Integration.aux)
+[2]
+(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 204--252
 
-Package rerunfilecheck Warning: File `"Numerische Integration".out' has changed
-.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+ []
 
-Package rerunfilecheck Info: Checksums for `"Numerische Integration".out':
-(rerunfilecheck)             Before: 49DB7FD3038D2666FC188701A82FC6A0;2123
-(rerunfilecheck)             After:  21E99D30081060DC0BCBD42199AFB1C4;1299.
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+[4]
+Overfull \hbox (30.42635pt too wide) in paragraph at lines 269--271
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--356
+
+ []
+
+[5] [6] (Einfuehrung in gewoehnliche Differentialgleichungen.aux)
+Package rerunfilecheck Info: File `"Einfuehrung in gewoehnliche Differentialgle
+ichungen".out' has not changed.
+(rerunfilecheck)             Checksum: F3BF375D25C7D87A9A9344B7C8EF7605;2213.
  ) 
 Here is how much of TeX's memory you used:
- 35132 strings out of 478582
- 810255 string characters out of 2844345
- 1292181 words of memory out of 3000000
- 52736 multiletter control sequences out of 15000+600000
+ 35655 strings out of 478582
+ 815581 string characters out of 2844345
+ 1496787 words of memory out of 3000000
+ 53174 multiletter control sequences out of 15000+600000
  472206 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 119i,10n,111p,767b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
-
-pdfTeX warning (dest): name{subsection.0.10} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.0.9} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.0.8} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.0.7} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.0.6} has been referenced but does not ex
-ist, replaced by a fixed one
-
- <C:\Users\ashas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm10
-00.pk><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmex10.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ashas/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/ashas/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ashas/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ash
-as/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Us
-ers/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmsy7.pfb>
-Output written on "Numerische Integration.pdf" (2 pages, 172805 bytes).
+ 119i,12n,111p,796b,1972s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\ashas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ashas/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ashas/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ashas/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/as
+has/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/U
+sers/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy7.pfb>
+Output written on "Einfuehrung in gewoehnliche Differentialgleichungen.pdf" (6 
+pages, 169021 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 235 PDF objects out of 1000 (max. 8388607)
+ 100 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
