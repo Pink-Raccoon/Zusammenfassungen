@@ -24,3 +24,16 @@
 \contentsline {subsection}{\numberline {3.4}Gauss-Formeln}{11}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Romberg-Extrapolation}{11}{subsection.3.5}%
 \contentsline {section}{\numberline {4}Einführung in gewöhnliche Differentialgleichungen}{11}{section.4}%
+<<<<<<< HEAD
+=======
+\contentsline {subsection}{\numberline {4.1}Problemstellung ODE}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Richtungsfelder DGL 1.Ordnung}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Eulerverfahren}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Mittelpunktverfahren}{12}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Das modifizierte Eulerverfahren}{13}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Fehlerordnung eines Verfahrens}{13}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Das klassische 4-Stufige Runge-Kutta Verfahren}{13}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}Das allgemeine s-stufige Runge-Kutta Verfahren}{13}{subsubsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.8}Zurückführen DGL k-ter Ordnung auf k DGL 1.Ordnung}{15}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Lösen eines Systems von k DGL 1.Ordnung}{16}{subsection.4.9}%
+>>>>>>> 9425189da596448ddd0f7eccf21914def25aac42
