@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  12 JUN 2022 14:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  15 JUN 2022 21:16
 entering extended mode
 **./ZF_HM2.tex
 (ZF_HM2.tex
@@ -1395,16 +1395,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--22
 
  []
 
-) (subfiles/Einfuehrung in gewoehnliche Differentialgleichungen.tex) [10]
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+) (subfiles/Einfuehrung in gewoehnliche Differentialgleichungen.tex) [11]
 (ZF_HM2.aux)
 Package rerunfilecheck Info: File `ZF_HM2.out' has not changed.
-(rerunfilecheck)             Checksum: A9454B5E540459D23005DB0CFA73F03C;3757.
+(rerunfilecheck)             Checksum: 637A86E74F1E249EB6F54837933FC763;4300.
  ) 
 Here is how much of TeX's memory you used:
- 34805 strings out of 478927
- 788593 string characters out of 2853008
+ 34812 strings out of 478927
+ 788690 string characters out of 2853008
  1486975 words of memory out of 3000000
- 51978 multiletter control sequences out of 15000+600000
+ 51981 multiletter control sequences out of 15000+600000
  412333 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,13n,97p,726b,2190s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1428,9 +1443,9 @@ e1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Asha/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Asha/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on ZF_HM2.pdf (10 pages, 273745 bytes).
+Output written on ZF_HM2.pdf (11 pages, 282362 bytes).
 PDF statistics:
- 317 PDF objects out of 1000 (max. 8388607)
- 89 named destinations out of 1000 (max. 500000)
- 165 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 337 PDF objects out of 1000 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
