@@ -1,71 +1,72 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.6)  26 MAY 2022 17:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.11)  27 JUN 2022 16:21
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **./ZF_Wing.tex
 (ZF_Wing.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24>
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/02/26 3.73 The Babel package
-\babel@savecnt=\count193
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/07/22 3.63 The Babel package
+
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/07/22 3.63 Babel common definitions
+\babel@savecnt=\count190
 \U@D=\dimen139
 \l@unhyphenated=\language79
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count194
+)
+\bbl@dirlevel=\count191
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\german.ldf
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\german.ldf
 Language: german 2021/02/27 v2.13 German support for babel (pre-1996 orthograph
 y)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\germanb.ld
-f
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\germanb.ldf
 Language: germanb 2021/02/27 v2.13 German support for babel (pre-1996 orthograp
 hy)
 Package babel Info: Making " an active character on input line 139.
 )))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count195
-\Gm@cntv=\count196
-\c@Gm@tempcnt=\count197
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
 \Gm@bindingoffset=\dimen140
 \Gm@wd@mp=\dimen141
 \Gm@odd@mp=\dimen142
@@ -76,34 +77,34 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen147
 \Gm@dimlist=\toks17
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/10/15 v2.17l AMS math features
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen148
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen149
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2021/08/26 v2.02 operator names
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count198
+\inf@bad=\count195
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count199
-\leftroot@=\count266
+\uproot@=\count196
+\leftroot@=\count197
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count267
-\DOTSCASE@=\count268
+\classnum@=\count198
+\DOTSCASE@=\count199
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -112,15 +113,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen150
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count269
-\c@MaxMatrixCols=\count270
+\macc@depth=\count266
+\c@MaxMatrixCols=\count267
 \dotsspace@=\muskip16
-\c@parentequation=\count271
-\dspbrk@lvl=\count272
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
 \tag@help=\toks19
-\row@=\count273
-\column@=\count274
-\maxfields@=\count275
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
 \andhelp@=\toks20
 \eqnshift@=\dimen151
 \alignsep@=\dimen152
@@ -132,157 +133,160 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \multlinegap=\skip50
 \multlinetaggap=\skip51
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2938.
-LaTeX Info: Redefining \] on input line 2939.
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen157
 \Gin@req@width=\dimen158
-)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
-
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+) (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
-ty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.st
+y
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
-.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.
+sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen159
-\Hy@linkcounter=\count276
-\Hy@pagecounter=\count277
- (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+\Hy@linkcounter=\count273
+\Hy@pagecounter=\count274
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langpa
+tches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count278
- (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count275
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4018.
-Package hyperref Info: Hyper figures OFF on input line 4137.
-Package hyperref Info: Link nesting OFF on input line 4142.
-Package hyperref Info: Hyper index ON on input line 4145.
-Package hyperref Info: Plain pages OFF on input line 4152.
-Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4390.
-\c@Hy@tempcnt=\count279
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count276
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4749.
+LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen160
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count280
+\Fld@menulength=\count277
 \Field@Width=\dimen161
 \Fld@charsize=\dimen162
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring ON on input line 6045.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
-LaTeX Info: Redefining \ref on input line 6097.
-LaTeX Info: Redefining \pageref on input line 6101.
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring ON on input line 6094.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count281
-\c@Item=\count282
-\c@Hfootnote=\count283
+\Hy@abspage=\count278
+\c@Item=\count279
+\c@Hfootnote=\count280
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
 with kernel methods
 )
-\Fld@listcount=\count284
-\c@bookmark@seq@number=\count285
+\Fld@listcount=\count281
+\c@bookmark@seq@number=\count282
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -290,24 +294,24 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip52
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count286
+\c@float@type=\count283
 \float@exts=\toks23
 \float@box=\box52
 \@float@everytoks=\toks24
 \@floatcapt=\box53
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
-Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count287
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count284
 \mult@box=\box54
 \multicol@leftmargin=\dimen163
-\c@unbalance=\count288
-\c@collectmore=\count289
-\doublecol@number=\count290
-\multicoltolerance=\count291
-\multicolpretolerance=\count292
+\c@unbalance=\count285
+\c@collectmore=\count286
+\doublecol@number=\count287
+\multicoltolerance=\count288
+\multicolpretolerance=\count289
 \full@width=\dimen164
 \page@free=\dimen165
 \premulticols=\dimen166
@@ -319,8 +323,8 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \maxbalancingoverflow=\dimen168
 \mult@rightbox=\box57
 \mult@grightbox=\box58
-\mult@firstbox=\box59
-\mult@gfirstbox=\box60
+\mult@gfirstbox=\box59
+\mult@firstbox=\box60
 \@tempa=\box61
 \@tempa=\box62
 \@tempa=\box63
@@ -357,81 +361,83 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \@tempa=\box94
 \@tempa=\box95
 \@tempa=\box96
-\c@minrows=\count293
-\c@columnbadness=\count294
-\c@finalcolumnbadness=\count295
+\@tempa=\box97
+\c@minrows=\count290
+\c@columnbadness=\count291
+\c@finalcolumnbadness=\count292
 \last@try=\dimen169
 \multicolovershoot=\dimen170
 \multicolundershoot=\dimen171
-\mult@nat@firstbox=\box97
-\colbreak@box=\box98
-\mc@col@check@num=\count296
+\mult@nat@firstbox=\box98
+\colbreak@box=\box99
+\mc@col@check@num=\count293
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 227.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-) (C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
 Package: import 2020/04/01  v 6.2
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-euclide
-.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-euclide.
+sty
 2022/02/25 4.051b tkz-euclide.sty
 Package: tkz-euclide  2022/02/25 4.051b for pure Euclidean Geometry 
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
-sty
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
-y
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--common.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
+ty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+common.tex
 \pgfutil@everybye=\toks25
 \pgfutil@tempdima=\dimen172
 \pgfutil@tempdimb=\dimen173
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--common-lists.tex))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--latex.def
-\pgfutil@abb=\box99
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+common-lists.tex))
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+latex.def
+\pgfutil@abb=\box100
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
-code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
+ode.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
-sty
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
-sty
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.s
+ty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
+ty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex
 \pgfkeys@pathtoks=\toks26
 \pgfkeys@temptoks=\toks27
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-filtered.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysf
+iltered.code.tex
 \pgfkeys@tmptoks=\toks28
 ))
 \pgf@x=\dimen174
@@ -446,84 +452,84 @@ filtered.code.tex
 \pgf@yd=\dimen183
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count297
-\c@pgf@countb=\count298
-\c@pgf@countc=\count299
-\c@pgf@countd=\count300
+\c@pgf@counta=\count294
+\c@pgf@countb=\count295
+\c@pgf@countc=\count296
+\c@pgf@countd=\count297
 \t@pgf@toka=\toks29
 \t@pgf@tokb=\toks30
 \t@pgf@tokc=\toks31
-\pgf@sys@id@count=\count301
+\pgf@sys@id@count=\count298
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
-fg
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
+g
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-pdftex.def
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-pdftex.def
 File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-common-pdf.def
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-common-pdf.def
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-ssoftpath.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+softpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count302
-\pgfsyssoftpath@bigbuffer@items=\count303
+\pgfsyssoftpath@smallbuffer@items=\count299
+\pgfsyssoftpath@bigbuffer@items=\count300
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-sprotocol.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+protocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-e.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
-code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
-code.tex)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
-r.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.c
+ode.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.c
+ode.tex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
+.code.tex
 \pgfmath@dimen=\dimen184
-\pgfmath@count=\count304
-\pgfmath@box=\box100
+\pgfmath@count=\count301
+\pgfmath@box=\box101
 \pgfmath@toks=\toks32
 \pgfmath@stack@operand=\toks33
 \pgfmath@stack@operation=\toks34
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.basic.code.tex)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.trigonometric.code.tex)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.random.code.tex)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.comparison.code.tex)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.base.code.tex)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.round.code.tex)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.misc.code.tex)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.integerarithmetics.code.tex)))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
-.code.tex
-\c@pgfmathroundto@lastzeros=\count305
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.basic.code.tex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.random.code.tex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.comparison.code.tex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.base.code.tex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.round.code.tex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.misc.code.tex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.integerarithmetics.code.tex)))
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count302
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
-tex)
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epoints.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
+ex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+points.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen185
 \pgf@picmaxx=\dimen186
@@ -540,134 +546,134 @@ File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@zx=\dimen197
 \pgf@zy=\dimen198
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathconstruct.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@path@lastx=\dimen199
 \pgf@path@lasty=\dimen256
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathusage.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@shorten@end@additional=\dimen257
 \pgf@shorten@start@additional=\dimen258
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-escopes.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+scopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box101
-\pgf@hbox=\box102
-\pgf@layerbox@main=\box103
-\pgf@picture@serial@count=\count306
+\pgfpic=\box102
+\pgf@hbox=\box103
+\pgf@layerbox@main=\box104
+\pgf@picture@serial@count=\count303
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-egraphicstate.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+graphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen259
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransformations.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen260
 \pgf@pt@y=\dimen261
 \pgf@pt@temp=\dimen262
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-equick.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+quick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eobjects.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+objects.code.tex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathprocessing.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-earrows.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+arrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowsep=\dimen263
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eshade.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+shade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen264
-\pgf@sys@shading@range@num=\count307
-\pgf@shadingcount=\count308
+\pgf@sys@shading@range@num=\count304
+\pgf@shadingcount=\count305
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eimage.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+image.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eexternal.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+external.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box104
+\pgfexternal@startupbox=\box105
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-elayers.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+layers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransparency.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transparency.code.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epatterns.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+patterns.code.tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-erdf.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+rdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-shapes.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
+hapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box105
+\pgfnodeparttextbox=\box106
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-plot.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
+lot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-0-65.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@nodesepstart=\dimen265
 \pgf@nodesepend=\dimen266
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-1-18.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.st
 y
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
-ty
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
-code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex))
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex))
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
+ode.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex)
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex)
 \pgffor@iter=\dimen267
 \pgffor@skip=\dimen268
 \pgffor@stack=\toks35
 \pgffor@toks=\toks36
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z\tikz.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryplothandlers.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count309
+\pgf@plot@mark@count=\count306
 \pgfplotmarksize=\dimen269
 )
 \tikz@lastx=\dimen270
@@ -678,131 +684,131 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@lastmovetoy=\dimen275
 \tikzleveldistance=\dimen276
 \tikzsiblingdistance=\dimen277
-\tikz@figbox=\box106
-\tikz@figbox@bg=\box107
-\tikz@tempbox=\box108
-\tikz@tempbox@bg=\box109
-\tikztreelevel=\count310
-\tikznumberofchildren=\count311
-\tikznumberofcurrentchild=\count312
-\tikz@fig@count=\count313
+\tikz@figbox=\box107
+\tikz@figbox@bg=\box108
+\tikz@tempbox=\box109
+\tikz@tempbox@bg=\box110
+\tikztreelevel=\count307
+\tikznumberofchildren=\count308
+\tikznumberofcurrentchild=\count309
+\tikz@fig@count=\count310
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-matrix.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
+atrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count314
-\pgfmatrixcurrentcolumn=\count315
-\pgf@matrix@numberofcolumns=\count316
+\pgfmatrixcurrentrow=\count311
+\pgfmatrixcurrentcolumn=\count312
+\pgf@matrix@numberofcolumns=\count313
 )
-\tikz@expandcount=\count317
+\tikz@expandcount=\count314
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarytopaths.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryangles.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryangles.code.tex
 File: tikzlibraryangles.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryarrows.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryarrows.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryarrows.code.tex
 File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \arrowsize=\dimen278
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryarrows.meta.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowinset=\dimen279
 \pgfarrowlength=\dimen280
 \pgfarrowwidth=\dimen281
 \pgfarrowlinewidth=\dimen282
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarycalc.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-decorations.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduled
+ecorations.code.tex
 \pgfdecoratedcompleteddistance=\dimen283
 \pgfdecoratedremainingdistance=\dimen284
 \pgfdecoratedinputsegmentcompleteddistance=\dimen285
 \pgfdecoratedinputsegmentremainingdistance=\dimen286
 \pgf@decorate@distancetomove=\dimen287
-\pgf@decorate@repeatstate=\count318
+\pgf@decorate@repeatstate=\count315
 \pgfdecorationsegmentamplitude=\dimen288
 \pgfdecorationsegmentlength=\dimen289
 )
-\tikz@lib@dec@box=\box110
+\tikz@lib@dec@box=\box111
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.markings.code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
-ions\pgflibrarydecorations.markings.code.tex))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
-ions\pgflibrarydecorations.pathreplacing.code.tex))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.shapes.code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
-ions\pgflibrarydecorations.shapes.code.tex))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.text.code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
-ions\pgflibrarydecorations.text.code.tex
-\pgf@lib@dec@text@box=\box111
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.markings.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
+ons\pgflibrarydecorations.markings.code.tex))
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
+ons\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.shapes.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
+ons\pgflibrarydecorations.shapes.code.tex))
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.text.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
+ons\pgflibrarydecorations.text.code.tex
+\pgf@lib@dec@text@box=\box112
 )
-\tikz@lib@dec@te@box=\box112
+\tikz@lib@dec@te@box=\box113
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
-ions\pgflibrarydecorations.pathmorphing.code.tex))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryintersections.code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryintersections.code.tex
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryfpu.code.tex)
-\pgf@intersect@solutions=\count319
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
+ons\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryintersections.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryintersections.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryfpu.code.tex)
+\pgf@intersect@solutions=\count316
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryplotmarks.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryplotmarks.code.tex
 File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryplotmarks.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryquotes.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryquotes.code.tex
 File: tikzlibraryquotes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryshapes.misc.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.misc.code.tex
 File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
-pgflibraryshapes.misc.code.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
+gflibraryshapes.misc.code.tex
 File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xfp.sty
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-02-24 L3 programming layer (loader) 
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xfp.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count320
-\l__pdf_internal_box=\box113
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count317
+\l__pdf_internal_box=\box114
 ))
-Package: xfp 2022-01-12 L3 Floating point unit
+Package: xfp 2021-08-27 L3 Floating point unit
 )
 \tkzRadius=\dimen290
 \tkzLength=\dimen291
@@ -815,138 +821,138 @@ Package: xfp 2022-01-12 L3 Floating point unit
 \tkz@cy=\dimen298
 \tkz@dx=\dimen299
 \tkz@dy=\dimen300
-\tkz@cntmk=\count321
+\tkz@cntmk=\count318
 
 Local configuration file tkz-euclide.cfg found and used
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-euclide
-.cfg
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-euclide.
+cfg
 2022/02/25 4.051b tkz-euclide.cfg
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-e
-u-base.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-eu
+-base.tex
 2022/02/25 4.051b tkz-tools-eu-base.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-e
-u-utilities.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-eu
+-utilities.tex
 2022/02/25 4.051b tkz-tools-eu-utilities.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-e
-u-BB.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-eu
+-BB.tex
 2022/02/25 4.051b tkz-obj-eu-BB.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-grids.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-g
+rids.tex
 2022/02/25 4.051b tkz-obj-eu-grids.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-lib-eu-
-marks.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-lib-eu-m
+arks.tex
 2022/02/25 4.051b tkz-lib-eu-marks.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-e
-u-text.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-eu
+-text.tex
 2022/02/25 4.051b tkz-tools-eu-text.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-lib-eu-
-shape.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-lib-eu-s
+hape.tex
 2022/02/25 4.051b tkz-lib-eu-shape.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-axesmin.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-a
+xesmin.tex
 2022/02/25 4.051b tkz-obj-eu-axesmin
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-e
-u-colors.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-eu
+-colors.tex
 2022/02/25 4.051b tkz-tools-eu-colors
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-points.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-p
+oints.tex
 2022/02/25 4.051b tkz-obj-eu-points.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-e
-u-math.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-eu
+-math.tex
 2022/02/25 4.051b tkz-tools-eu-math.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-e
-u-intersections.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-eu
+-intersections.tex
 2022/01/22 4.04 tkz-tools-intersections.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-e
-u-angles.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-tools-eu
+-angles.tex
 2022/02/25 4.051b tkz-tools-angles.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-compass.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-c
+ompass.tex
 2022/02/25 4.051b tkz-obj-eu-compass.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-circles.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-c
+ircles.tex
 2022/02/25 4.051b tkz-obj-eu-circles.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-circles-by.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-c
+ircles-by.tex
 2022/02/25 4.051b tkz-obj-eu-circles.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-draw-angles.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-d
+raw-angles.tex
 2022/02/25 4.051b tkz-tool-eu-angles.tex
 \tkz@arcsize=\dimen301
 \tkz@fillsize=\dimen302
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-draw-circles.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-d
+raw-circles.tex
 2022/02/25 4.051b tkz-obj-eu-draw-circles.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-draw-lines.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-d
+raw-lines.tex
 2022/02/25 4.051b tkz-obj-eu-draw-lines.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-draw-polygons.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-d
+raw-polygons.tex
 2022/02/25 4.051b tkz-obj-eu-polygons.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-draw-triangles.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-d
+raw-triangles.tex
 2022/02/25 4.051b tkz-obj-eu-draw-triangles.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-lines.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-l
+ines.tex
 2022/02/25 4.051b tkz-obj-eu-lines.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-points-by.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-p
+oints-by.tex
 2022/02/25 4.051b tkz-tools-el-points-by.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-points-rnd.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-p
+oints-rnd.tex
 2022/02/25 4.051b tkz-obj-el-points-rnd.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-points-spc.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-p
+oints-spc.tex
 2022/02/25 4.051b tkz-obj-el-points.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-points-with.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-p
+oints-with.tex
 2022/02/25 4.051b tkz-obj-el-points-with.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-polygons.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-p
+olygons.tex
 2022/02/25 4.051b tkz-obj-eu-polygons.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-protractor.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-p
+rotractor.tex
 2022/02/25 4.051b tkz-obj-eu-protractor.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-sectors.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-s
+ectors.tex
 2022/02/25 4.051b tkz-obj-eu-sectors.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-show.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-s
+how.tex
 2022/02/25 4.051b tkz-obj-eu-show.tex
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-
-triangles.tex
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-obj-eu-t
+riangles.tex
 2022/02/25 4.051b tkz-obj-eu-triangles.tex
 )) (ZF_Wing.aux
 
@@ -973,6 +979,9 @@ LaTeX Warning: Label `fig:BegriffMarketing' multiply defined.
 
 
 LaTeX Warning: Label `fig:BegriffMarketing' multiply defined.
+
+
+LaTeX Warning: Label `fig:GliederungER' multiply defined.
 
 )
 \openout1 = `ZF_Wing.aux'.
@@ -1031,44 +1040,42 @@ LaTeX Font Info:    ... okay on input line 28.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
+\scratchcounter=\count319
 \scratchdimen=\dimen303
-\scratchbox=\box114
-\nofMPsegments=\count323
-\nofMParguments=\count324
+\scratchbox=\box115
+\nofMPsegments=\count320
+\nofMParguments=\count321
 \everyMPshowfont=\toks37
-\MPscratchCnt=\count325
+\MPscratchCnt=\count322
 \MPscratchDim=\dimen304
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
+\MPnumerator=\count323
+\makeMPintoPDFobject=\count324
 \everyMPtoPDFconversion=\toks38
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring ON on input line 28.
-
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+ (C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\ashas\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+(C:\Users\Asha\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count328
+\c@section@level=\count325
 )
 LaTeX Info: Redefining \ref on input line 28.
 LaTeX Info: Redefining \pageref on input line 28.
@@ -1079,13 +1086,13 @@ LaTeX Info: Redefining \nameref on input line 28.
 
  (ZF_Wing.toc [1
 
-{C:/Users/ashas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+{C:/Users/Asha/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2])
 \tf@toc=\write5
 \openout5 = `ZF_Wing.toc'.
 
- [2]
+ [3]
 (subfiles/Grundprinzipien der Betriebswirtschaft.tex
-<Resources/Image/Guetereinteilung.png, id=381, 426.09187pt x 411.78844pt>
+<Resources/Image/Guetereinteilung.png, id=550, 426.09187pt x 411.78844pt>
 File: Resources/Image/Guetereinteilung.png Graphic file (type png)
 <use Resources/Image/Guetereinteilung.png>
 Package pdftex.def Info: Resources/Image/Guetereinteilung.png  used on input li
@@ -1096,7 +1103,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-<Resources/Image/Dreifache Unternehmungsveratntwortung.png, id=383, 502.12593pt
+<Resources/Image/Dreifache Unternehmungsveratntwortung.png, id=552, 502.12593pt
  x 383.18156pt>
 File: Resources/Image/Dreifache Unternehmungsveratntwortung.png Graphic file (t
 ype png)
@@ -1104,14 +1111,13 @@ ype png)
 Package pdftex.def Info: Resources/Image/Dreifache Unternehmungsveratntwortung.
 png  used on input line 41.
 (pdftex.def)             Requested size: 125.47737pt x 95.75421pt.
-[3
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
-s been already used, duplicate ignored
+[4pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.44 
       <./Resources/Image/Guetereinteilung.png>]
-<Resources/Image/SGMM.png, id=396, 640.64343pt x 403.5075pt>
+<Resources/Image/SGMM.png, id=565, 640.64343pt x 403.5075pt>
 File: Resources/Image/SGMM.png Graphic file (type png)
 <use Resources/Image/SGMM.png>
 Package pdftex.def Info: Resources/Image/SGMM.png  used on input line 49.
@@ -1121,34 +1127,31 @@ Overfull \hbox (116.08057pt too wide) in paragraph at lines 56--69
 [] 
  []
 
-<Resources/Image/MachtausuebungStakeholder.png, id=397, 579.66562pt x 549.55313
+<Resources/Image/MachtausuebungStakeholder.png, id=566, 579.66562pt x 549.55313
 pt>
 File: Resources/Image/MachtausuebungStakeholder.png Graphic file (type png)
 <use Resources/Image/MachtausuebungStakeholder.png>
 Package pdftex.def Info: Resources/Image/MachtausuebungStakeholder.png  used on
  input line 95.
 (pdftex.def)             Requested size: 125.47737pt x 118.95662pt.
-[4
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
-s been already used, duplicate ignored
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.98 
-     
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
-s been already used, duplicate ignored
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.98 
       <./Resources/Image/Dreifache Unternehmungsveratntwortung.png> <./Resource
-s/Image/SGMM.png>] [5
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
-s been already used, duplicate ignored
+s/Image/SGMM.png>] [6pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.135 \end{itemize}
                     <./Resources/Image/MachtausuebungStakeholder.png>]
-<Resources/Image/Interaktionsthemenanalyse.png, id=426, 553.31718pt x 359.09157
+<Resources/Image/Interaktionsthemenanalyse.png, id=595, 553.31718pt x 359.09157
 pt>
 File: Resources/Image/Interaktionsthemenanalyse.png Graphic file (type png)
 <use Resources/Image/Interaktionsthemenanalyse.png>
@@ -1166,15 +1169,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-[6
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
-s been already used, duplicate ignored
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) 
+has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.67 \item G
-            esamterhalt (Planet)
-pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
-s been already used, duplicate ignored
+            esamterhalt (Planet)pdfTeX warning (ext4): destination with the sam
+e identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.67 \item G
@@ -1195,15 +1196,13 @@ Overfull \hbox (116.08057pt too wide) in paragraph at lines 89--102
 [] 
  []
 
-[7
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
-s been already used, duplicate ignored
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) 
+has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.114 \item v
-             ertragliche
-pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
-s been already used, duplicate ignored
+             ertraglichepdfTeX warning (ext4): destination with the same identi
+fier (name{figure.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.114 \item v
@@ -1213,9 +1212,8 @@ File: Resources/Image/MachtausuebungStakeholder.png Graphic file (type png)
 Package pdftex.def Info: Resources/Image/MachtausuebungStakeholder.png  used on
  input line 128.
 (pdftex.def)             Requested size: 125.47737pt x 118.95662pt.
- [8
-pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
-s been already used, duplicate ignored
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.9})
+ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.160 \item N
@@ -1226,7 +1224,7 @@ Package pdftex.def Info: Resources/Image/Interaktionsthemenanalyse.png  used on
  input line 172.
 (pdftex.def)             Requested size: 125.47737pt x 81.4277pt.
  (subfiles/Strategie.tex
-<Resources/Image/StrategieEinordnung.png, id=465, 445.665pt x 277.035pt>
+<Resources/Image/StrategieEinordnung.png, id=634, 445.665pt x 277.035pt>
 File: Resources/Image/StrategieEinordnung.png Graphic file (type png)
 <use Resources/Image/StrategieEinordnung.png>
 Package pdftex.def Info: Resources/Image/StrategieEinordnung.png  used on input
@@ -1237,7 +1235,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--12
 
  []
 
-<Resources/Image/ManagementEntscheide.png, id=466, 436.63126pt x 233.37187pt>
+<Resources/Image/ManagementEntscheide.png, id=635, 436.63126pt x 233.37187pt>
 File: Resources/Image/ManagementEntscheide.png Graphic file (type png)
 <use Resources/Image/ManagementEntscheide.png>
 Package pdftex.def Info: Resources/Image/ManagementEntscheide.png  used on inpu
@@ -1248,33 +1246,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--19
 
  []
 
-[9
-pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
-as been already used, duplicate ignored
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.20 
-     
-pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
-as been already used, duplicate ignored
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.1
+1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.20 
-      <./Resources/Image/StrategieEinordnung.png>] [10
-pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) h
-as been already used, duplicate ignored
+      <./Resources/Image/StrategieEinordnung.png>] [11pdfTeX warning (ext4): de
+stination with the same identifier (name{figure.12}) has been already used, dup
+licate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.31 \subsection
                 {Die strategische Analyse} <./Resources/Image/ManagementEntsche
 ide.png>]
-<Resources/Image/FaktorenEinfluss.png, id=487, 615.0478pt x 304.88907pt>
+<Resources/Image/FaktorenEinfluss.png, id=656, 615.0478pt x 304.88907pt>
 File: Resources/Image/FaktorenEinfluss.png Graphic file (type png)
 <use Resources/Image/FaktorenEinfluss.png>
 Package pdftex.def Info: Resources/Image/FaktorenEinfluss.png  used on input li
 ne 42.
 (pdftex.def)             Requested size: 125.47737pt x 62.20026pt.
-<Resources/Image/SwotAnalyse.png, id=488, 408.77719pt x 222.07968pt>
+<Resources/Image/SwotAnalyse.png, id=657, 408.77719pt x 222.07968pt>
 File: Resources/Image/SwotAnalyse.png Graphic file (type png)
 <use Resources/Image/SwotAnalyse.png>
 Package pdftex.def Info: Resources/Image/SwotAnalyse.png  used on input line 49
@@ -1315,21 +1311,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--102
 
  []
 
-[11
-pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
-as been already used, duplicate ignored
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.13}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.102 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) h
-as been already used, duplicate ignored
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+14}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.102 
        <./Resources/Image/FaktorenEinfluss.png> <./Resources/Image/SwotAnalyse.
 png>]
-<Resources/Image/GrundstrategieAnsaetze.png, id=501, 587.94656pt x 249.93375pt>
+<Resources/Image/GrundstrategieAnsaetze.png, id=670, 587.94656pt x 249.93375pt>
 
 File: Resources/Image/GrundstrategieAnsaetze.png Graphic file (type png)
 <use Resources/Image/GrundstrategieAnsaetze.png>
@@ -1341,7 +1335,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--108
 
  []
 
-<Resources/Image/Pestelanalyse.png, id=502, 316.18124pt x 256.70906pt>
+<Resources/Image/Pestelanalyse.png, id=671, 316.18124pt x 256.70906pt>
 File: Resources/Image/Pestelanalyse.png Graphic file (type png)
 <use Resources/Image/Pestelanalyse.png>
 Package pdftex.def Info: Resources/Image/Pestelanalyse.png  used on input line 
@@ -1357,32 +1351,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-<Resources/Image/Porteranalyse.png, id=503, 510.40688pt x 383.18156pt>
+<Resources/Image/Porteranalyse.png, id=672, 510.40688pt x 383.18156pt>
 File: Resources/Image/Porteranalyse.png Graphic file (type png)
 <use Resources/Image/Porteranalyse.png>
 Package pdftex.def Info: Resources/Image/Porteranalyse.png  used on input line 
 129.
 (pdftex.def)             Requested size: 125.47737pt x 94.19894pt.
-<Resources/Image/ZFPorter.png, id=504, 439.6425pt x 376.40625pt>
+<Resources/Image/ZFPorter.png, id=673, 439.6425pt x 376.40625pt>
 File: Resources/Image/ZFPorter.png Graphic file (type png)
 <use Resources/Image/ZFPorter.png>
 Package pdftex.def Info: Resources/Image/ZFPorter.png  used on input line 136.
 (pdftex.def)             Requested size: 125.47737pt x 107.42622pt.
-[12
-pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) h
-as been already used, duplicate ignored
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.15}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.139 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
-as been already used, duplicate ignored
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+16}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.139 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) h
-as been already used, duplicate ignored
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+17}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.139 
@@ -1392,13 +1383,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
-<Resources/Image/Branchenanalyse.png, id=515, 749.80125pt x 441.14813pt>
+<Resources/Image/Branchenanalyse.png, id=685, 749.80125pt x 441.14813pt>
 File: Resources/Image/Branchenanalyse.png Graphic file (type png)
 <use Resources/Image/Branchenanalyse.png>
 Package pdftex.def Info: Resources/Image/Branchenanalyse.png  used on input lin
 e 144.
 (pdftex.def)             Requested size: 125.47737pt x 73.82292pt.
-<Resources/Image/Strategieentwicklung.png, id=516, 301.8778pt x 115.18031pt>
+<Resources/Image/Strategieentwicklung.png, id=686, 301.8778pt x 115.18031pt>
 File: Resources/Image/Strategieentwicklung.png Graphic file (type png)
 <use Resources/Image/Strategieentwicklung.png>
 Package pdftex.def Info: Resources/Image/Strategieentwicklung.png  used on inpu
@@ -1409,7 +1400,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 149--154
 
  []
 
-<Resources/Image/Unternehmensleitbild.png, id=517, 335.00156pt x 217.5628pt>
+<Resources/Image/Unternehmensleitbild.png, id=687, 335.00156pt x 217.5628pt>
 File: Resources/Image/Unternehmensleitbild.png Graphic file (type png)
 <use Resources/Image/Unternehmensleitbild.png>
 Package pdftex.def Info: Resources/Image/Unternehmensleitbild.png  used on inpu
@@ -1420,34 +1411,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--162
 
  []
 
-[13
-pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) h
-as been already used, duplicate ignored
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.18}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.164 \title
-            \textbf{Unternehmensstrategie\\}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) h
-as been already used, duplicate ignored
+            \textbf{Unternehmensstrategie\\}pdfTeX warning (ext4): destination 
+with the same identifier (name{figure.19}) has been already used, duplicate ign
+ored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.164 \title
-            \textbf{Unternehmensstrategie\\}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) h
-as been already used, duplicate ignored
+            \textbf{Unternehmensstrategie\\}pdfTeX warning (ext4): destination 
+with the same identifier (name{figure.20}) has been already used, duplicate ign
+ored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.164 \title
-            \textbf{Unternehmensstrategie\\}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.21}) h
-as been already used, duplicate ignored
+            \textbf{Unternehmensstrategie\\}pdfTeX warning (ext4): destination 
+with the same identifier (name{figure.21}) has been already used, duplicate ign
+ored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.164 \title
             \textbf{Unternehmensstrategie\\} <./Resources/Image/ZFPorter.png> <
 ./Resources/Image/Branchenanalyse.png> <./Resources/Image/Strategieentwicklung.
 png> <./Resources/Image/Unternehmensleitbild.png>]
-<Resources/Image/Unternehmensstrategie.png, id=531, 632.3625pt x 389.95688pt>
+<Resources/Image/Unternehmensstrategie.png, id=700, 632.3625pt x 389.95688pt>
 File: Resources/Image/Unternehmensstrategie.png Graphic file (type png)
 <use Resources/Image/Unternehmensstrategie.png>
 Package pdftex.def Info: Resources/Image/Unternehmensstrategie.png  used on inp
@@ -1468,7 +1458,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
-<Resources/Image/PorterWettbewerbstrategie.png, id=532, 749.80125pt x 367.3725p
+<Resources/Image/PorterWettbewerbstrategie.png, id=701, 749.80125pt x 367.3725p
 t>
 File: Resources/Image/PorterWettbewerbstrategie.png Graphic file (type png)
 <use Resources/Image/PorterWettbewerbstrategie.png>
@@ -1480,26 +1470,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
 
-<Resources/Image/Ansoff.png, id=533, 417.81094pt x 245.41687pt>
+<Resources/Image/Ansoff.png, id=702, 417.81094pt x 245.41687pt>
 File: Resources/Image/Ansoff.png Graphic file (type png)
 <use Resources/Image/Ansoff.png>
 Package pdftex.def Info: Resources/Image/Ansoff.png  used on input line 202.
 (pdftex.def)             Requested size: 125.47737pt x 73.70425pt.
-[14
-pdfTeX warning (ext4): destination with the same identifier (name{figure.22}) h
-as been already used, duplicate ignored
+[15pdfTeX warning (ext4): destination with the same identifier (name{figure.22}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.206 \title
-            \textbf{Die drei Stossrichtungen und ihre Erfolgsaussichten \\}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.23}) h
-as been already used, duplicate ignored
+            \textbf{Die drei Stossrichtungen und ihre Erfolgsaussichten \\}pdfT
+eX warning (ext4): destination with the same identifier (name{figure.23}) has b
+een already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.206 \title
-            \textbf{Die drei Stossrichtungen und ihre Erfolgsaussichten \\}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.24}) h
-as been already used, duplicate ignored
+            \textbf{Die drei Stossrichtungen und ihre Erfolgsaussichten \\}pdfT
+eX warning (ext4): destination with the same identifier (name{figure.24}) has b
+een already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.206 \title
@@ -1510,7 +1499,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
-<Resources/Image/Stossrichtungen.png, id=547, 588.69937pt x 229.60782pt>
+<Resources/Image/Stossrichtungen.png, id=716, 588.69937pt x 229.60782pt>
 File: Resources/Image/Stossrichtungen.png Graphic file (type png)
 <use Resources/Image/Stossrichtungen.png>
 Package pdftex.def Info: Resources/Image/Stossrichtungen.png  used on input lin
@@ -1521,7 +1510,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
-<Resources/Image/Marktdurchdringung.png, id=548, 587.94656pt x 155.07938pt>
+<Resources/Image/Marktdurchdringung.png, id=717, 587.94656pt x 155.07938pt>
 File: Resources/Image/Marktdurchdringung.png Graphic file (type png)
 <use Resources/Image/Marktdurchdringung.png>
 Package pdftex.def Info: Resources/Image/Marktdurchdringung.png  used on input 
@@ -1532,7 +1521,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
-<Resources/Image/Marktentwicklung.png, id=549, 589.4522pt x 156.585pt>
+<Resources/Image/Marktentwicklung.png, id=718, 589.4522pt x 156.585pt>
 File: Resources/Image/Marktentwicklung.png Graphic file (type png)
 <use Resources/Image/Marktentwicklung.png>
 Package pdftex.def Info: Resources/Image/Marktentwicklung.png  used on input li
@@ -1543,13 +1532,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
-<Resources/Image/Produktentwicklung.png, id=550, 475.02469pt x 115.93312pt>
+<Resources/Image/Produktentwicklung.png, id=719, 475.02469pt x 115.93312pt>
 File: Resources/Image/Produktentwicklung.png Graphic file (type png)
 <use Resources/Image/Produktentwicklung.png>
 Package pdftex.def Info: Resources/Image/Produktentwicklung.png  used on input 
 line 236.
 (pdftex.def)             Requested size: 125.47737pt x 30.62306pt.
-<Resources/Image/Diversifikation.png, id=551, 473.51906pt x 185.94469pt>
+<Resources/Image/Diversifikation.png, id=720, 473.51906pt x 185.94469pt>
 File: Resources/Image/Diversifikation.png Graphic file (type png)
 <use Resources/Image/Diversifikation.png>
 Package pdftex.def Info: Resources/Image/Diversifikation.png  used on input lin
@@ -1560,33 +1549,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 241--246
 
  []
 
-) [15
-pdfTeX warning (ext4): destination with the same identifier (name{figure.25}) h
-as been already used, duplicate ignored
+) [16pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.181 \section
-              {Marketing I}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.26}) h
-as been already used, duplicate ignored
+              {Marketing I}pdfTeX warning (ext4): destination with the same ide
+ntifier (name{figure.26}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.181 \section
-              {Marketing I}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.27}) h
-as been already used, duplicate ignored
+              {Marketing I}pdfTeX warning (ext4): destination with the same ide
+ntifier (name{figure.27}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.181 \section
-              {Marketing I}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.28}) h
-as been already used, duplicate ignored
+              {Marketing I}pdfTeX warning (ext4): destination with the same ide
+ntifier (name{figure.28}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.181 \section
-              {Marketing I}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.29}) h
-as been already used, duplicate ignored
+              {Marketing I}pdfTeX warning (ext4): destination with the same ide
+ntifier (name{figure.29}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.181 \section
@@ -1598,13 +1582,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-<Resources/Image/BegriffMarketing.png, id=566, 560.0925pt x 307.1475pt>
+<Resources/Image/BegriffMarketing.png, id=735, 560.0925pt x 307.1475pt>
 File: Resources/Image/BegriffMarketing.png Graphic file (type png)
 <use Resources/Image/BegriffMarketing.png>
 Package pdftex.def Info: Resources/Image/BegriffMarketing.png  used on input li
 ne 13.
 (pdftex.def)             Requested size: 125.47737pt x 68.80994pt.
-<Resources/Image/Absatzmarkt.png, id=567, 554.07pt x 236.38312pt>
+<Resources/Image/Absatzmarkt.png, id=736, 554.07pt x 236.38312pt>
 File: Resources/Image/Absatzmarkt.png Graphic file (type png)
 <use Resources/Image/Absatzmarkt.png>
 Package pdftex.def Info: Resources/Image/Absatzmarkt.png  used on input line 21
@@ -1615,21 +1599,19 @@ Overfull \hbox (77.08832pt too wide) in paragraph at lines 32--42
 [] 
  []
 
-<Resources/Image/Marktgroessen.png, id=568, 660.96938pt x 280.79906pt>
+<Resources/Image/Marktgroessen.png, id=737, 660.96938pt x 280.79906pt>
 File: Resources/Image/Marktgroessen.png Graphic file (type png)
 <use Resources/Image/Marktgroessen.png>
 Package pdftex.def Info: Resources/Image/Marktgroessen.png  used on input line 
 73.
 (pdftex.def)             Requested size: 125.47737pt x 53.30524pt.
-[16
-pdfTeX warning (ext4): destination with the same identifier (name{figure.30}) h
-as been already used, duplicate ignored
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.30}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.76 
-     
-pdfTeX warning (ext4): destination with the same identifier (name{figure.31}) h
-as been already used, duplicate ignored
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.76 
@@ -1639,7 +1621,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
-<Resources/Image/ModellSegmentierung.png, id=577, 632.3625pt x 383.18156pt>
+<Resources/Image/ModellSegmentierung.png, id=746, 632.3625pt x 383.18156pt>
 File: Resources/Image/ModellSegmentierung.png Graphic file (type png)
 <use Resources/Image/ModellSegmentierung.png>
 Package pdftex.def Info: Resources/Image/ModellSegmentierung.png  used on input
@@ -1650,7 +1632,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--86
 []\OT1/cmr/m/n/10 Abbildung 33:
  []
 
-<Resources/Image/AbgrenzungGeographisch.png, id=578, 392.21532pt x 137.7647pt>
+<Resources/Image/AbgrenzungGeographisch.png, id=747, 392.21532pt x 137.7647pt>
 File: Resources/Image/AbgrenzungGeographisch.png Graphic file (type png)
 <use Resources/Image/AbgrenzungGeographisch.png>
 Package pdftex.def Info: Resources/Image/AbgrenzungGeographisch.png  used on in
@@ -1661,7 +1643,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--94
 []\OT1/cmr/m/n/10 Abbildung 34:
  []
 
-<Resources/Image/AbgrenzungEigenschaften.png, id=579, 298.11375pt x 223.58531pt
+<Resources/Image/AbgrenzungEigenschaften.png, id=748, 298.11375pt x 223.58531pt
 >
 File: Resources/Image/AbgrenzungEigenschaften.png Graphic file (type png)
 <use Resources/Image/AbgrenzungEigenschaften.png>
@@ -1723,27 +1705,23 @@ Overfull \hbox (9.0577pt too wide) in paragraph at lines 164--165
 \OT1/cmr/bx/n/10 dukt[]ausseren(Zusatznutzen)[] 
  []
 
-[17
-pdfTeX warning (ext4): destination with the same identifier (name{figure.32}) h
-as been already used, duplicate ignored
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.32}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.177 	\item I
-              nstallation
-pdfTeX warning (ext4): destination with the same identifier (name{figure.33}) h
-as been already used, duplicate ignored
+              nstallationpdfTeX warning (ext4): destination with the same ident
+ifier (name{figure.33}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.177 	\item I
-              nstallation
-pdfTeX warning (ext4): destination with the same identifier (name{figure.34}) h
-as been already used, duplicate ignored
+              nstallationpdfTeX warning (ext4): destination with the same ident
+ifier (name{figure.34}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.177 	\item I
-              nstallation
-pdfTeX warning (ext4): destination with the same identifier (name{figure.35}) h
-as been already used, duplicate ignored
+              nstallationpdfTeX warning (ext4): destination with the same ident
+ifier (name{figure.35}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.177 	\item I
@@ -1799,7 +1777,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 244--245
 \OT1/cmr/m/n/10 Kon-kur-
  []
 
-<Resources/Image/ReaktionNachfrager.png, id=592, 550.30594pt x 295.1025pt>
+<Resources/Image/ReaktionNachfrager.png, id=761, 550.30594pt x 295.1025pt>
 File: Resources/Image/ReaktionNachfrager.png Graphic file (type png)
 <use Resources/Image/ReaktionNachfrager.png>
 Package pdftex.def Info: Resources/Image/ReaktionNachfrager.png  used on input 
@@ -1815,27 +1793,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 252--252
 []\OT1/cmr/m/n/10 Abbildung 36:
  []
 
-<Resources/Image/Break-Even-Analyse.png, id=593, 666.23906pt x 362.10281pt>
+<Resources/Image/Break-Even-Analyse.png, id=762, 666.23906pt x 362.10281pt>
 File: Resources/Image/Break-Even-Analyse.png Graphic file (type png)
 <use Resources/Image/Break-Even-Analyse.png>
 Package pdftex.def Info: Resources/Image/Break-Even-Analyse.png  used on input 
 line 264.
 (pdftex.def)             Requested size: 125.47737pt x 68.19246pt.
-[18
-pdfTeX warning (ext4): destination with the same identifier (name{figure.36}) h
-as been already used, duplicate ignored
+[19pdfTeX warning (ext4): destination with the same identifier (name{figure.36}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.283 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.37}) h
-as been already used, duplicate ignored
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+37}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.283 
        <./Resources/Image/ReaktionNachfrager.png> <./Resources/Image/Break-Even
--Analyse.png>] [19]
-<Resources/Image/PenetrationvsSkimming.png, id=610, 537.50812pt x 349.305pt>
+-Analyse.png>] [20]
+<Resources/Image/PenetrationvsSkimming.png, id=779, 537.50812pt x 349.305pt>
 File: Resources/Image/PenetrationvsSkimming.png Graphic file (type png)
 <use Resources/Image/PenetrationvsSkimming.png>
 Package pdftex.def Info: Resources/Image/PenetrationvsSkimming.png  used on inp
@@ -1856,7 +1832,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 421--422
 
  []
 
-<Resources/Image/Elastizität.png, id=611, 645.16031pt x 419.31656pt>
+<Resources/Image/Elastizität.png, id=780, 645.16031pt x 419.31656pt>
 File: Resources/Image/Elastizität.png Graphic file (type png)
 <use Resources/Image/Elastizität.png>
 Package pdftex.def Info: Resources/Image/Elastizität.png  used on input line 4
@@ -1877,15 +1853,13 @@ Overfull \hbox (346.2629pt too wide) in paragraph at lines 20--21
 [][][][][][][] 
  []
 
-[20
-pdfTeX warning (ext4): destination with the same identifier (name{figure.38}) h
-as been already used, duplicate ignored
+[21pdfTeX warning (ext4): destination with the same identifier (name{figure.38}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.29 
-     
-pdfTeX warning (ext4): destination with the same identifier (name{figure.39}) h
-as been already used, duplicate ignored
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.29 
@@ -1940,7 +1914,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
-[21]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
@@ -1990,8 +1964,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--92
 \OT1/cmr/m/n/10 Ver-si-che-run-gen, Bank-
  []
 
-[22]
-<Resources/Image/Absatzwege.png, id=628, 657.2053pt x 232.61906pt>
+[23]
+<Resources/Image/Absatzwege.png, id=797, 657.2053pt x 232.61906pt>
 File: Resources/Image/Absatzwege.png Graphic file (type png)
 <use Resources/Image/Absatzwege.png>
 Package pdftex.def Info: Resources/Image/Absatzwege.png  used on input line 104
@@ -2002,33 +1976,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--106
 
  []
 
-<Resources/Image/DirekterAbsatzweg.png, id=629, 660.21657pt x 351.56343pt>
+<Resources/Image/DirekterAbsatzweg.png, id=798, 660.21657pt x 351.56343pt>
 File: Resources/Image/DirekterAbsatzweg.png Graphic file (type png)
 <use Resources/Image/DirekterAbsatzweg.png>
 Package pdftex.def Info: Resources/Image/DirekterAbsatzweg.png  used on input l
 ine 112.
 (pdftex.def)             Requested size: 125.47737pt x 66.81383pt.
-<Resources/Image/IndirekterAbsatzweg.png, id=630, 647.41875pt x 245.41687pt>
+<Resources/Image/IndirekterAbsatzweg.png, id=799, 647.41875pt x 245.41687pt>
 File: Resources/Image/IndirekterAbsatzweg.png Graphic file (type png)
 <use Resources/Image/IndirekterAbsatzweg.png>
 Package pdftex.def Info: Resources/Image/IndirekterAbsatzweg.png  used on input
  line 121.
 (pdftex.def)             Requested size: 125.47737pt x 47.56212pt.
-[23
-pdfTeX warning (ext4): destination with the same identifier (name{figure.40}) h
-as been already used, duplicate ignored
+[24pdfTeX warning (ext4): destination with the same identifier (name{figure.40}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.168 \textbf{Marketing\\}
-                          
-pdfTeX warning (ext4): destination with the same identifier (name{figure.41}) h
-as been already used, duplicate ignored
+                          pdfTeX warning (ext4): destination with the same iden
+tifier (name{figure.41}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.168 \textbf{Marketing\\}
-                          
-pdfTeX warning (ext4): destination with the same identifier (name{figure.42}) h
-as been already used, duplicate ignored
+                          pdfTeX warning (ext4): destination with the same iden
+tifier (name{figure.42}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.168 \textbf{Marketing\\}
@@ -2048,14 +2019,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--218
 
  []
 
-[24]
-<Resources/Image/LinearesStufenmodell.png, id=654, 154.32657pt x 416.30531pt>
+[25]
+<Resources/Image/LinearesStufenmodell.png, id=824, 154.32657pt x 416.30531pt>
 File: Resources/Image/LinearesStufenmodell.png Graphic file (type png)
 <use Resources/Image/LinearesStufenmodell.png>
 Package pdftex.def Info: Resources/Image/LinearesStufenmodell.png  used on inpu
 t line 228.
 (pdftex.def)             Requested size: 125.47737pt x 338.49496pt.
-<Resources/Image/CustomDecisionJourney.png, id=655, 563.85657pt x 377.91188pt>
+<Resources/Image/CustomDecisionJourney.png, id=825, 563.85657pt x 377.91188pt>
 File: Resources/Image/CustomDecisionJourney.png Graphic file (type png)
 <use Resources/Image/CustomDecisionJourney.png>
 Package pdftex.def Info: Resources/Image/CustomDecisionJourney.png  used on inp
@@ -2066,28 +2037,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
-[25
-pdfTeX warning (ext4): destination with the same identifier (name{figure.43}) h
-as been already used, duplicate ignored
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.43}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.270 	\item S
-              lice-of-Life-Technik
-pdfTeX warning (ext4): destination with the same identifier (name{figure.44}) h
-as been already used, duplicate ignored
+              lice-of-Life-TechnikpdfTeX warning (ext4): destination with the s
+ame identifier (name{figure.44}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.270 	\item S
               lice-of-Life-Technik <./Resources/Image/LinearesStufenmodell.png>
  <./Resources/Image/CustomDecisionJourney.png>]
-<Resources/Image/HarmonischeMarketingMix1.png, id=665, 347.04657pt x 87.32625pt
+<Resources/Image/HarmonischeMarketingMix1.png, id=834, 347.04657pt x 87.32625pt
 >
 File: Resources/Image/HarmonischeMarketingMix1.png Graphic file (type png)
 <use Resources/Image/HarmonischeMarketingMix1.png>
 Package pdftex.def Info: Resources/Image/HarmonischeMarketingMix1.png  used on 
 input line 289.
 (pdftex.def)             Requested size: 125.47737pt x 31.57333pt.
-<Resources/Image/HarmonischerMarketingMix2.png, id=666, 417.05812pt x 197.23688
+<Resources/Image/HarmonischerMarketingMix2.png, id=835, 417.05812pt x 197.23688
 pt>
 File: Resources/Image/HarmonischerMarketingMix2.png Graphic file (type png)
 <use Resources/Image/HarmonischerMarketingMix2.png>
@@ -2104,15 +2073,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 343--344
 
  []
 
-[26
-pdfTeX warning (ext4): destination with the same identifier (name{figure.45}) h
-as been already used, duplicate ignored
+[27pdfTeX warning (ext4): destination with the same identifier (name{figure.45}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.344 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.46}) h
-as been already used, duplicate ignored
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+46}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.344 
@@ -2122,33 +2089,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 357--359
 
  []
 
-[27]
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 482--483
 
  []
 
-) (subfiles/Erfolgsrechnung_Bilanz.tex [28]
-<Resources/Image/Rechnungswesen.png, id=701, 499.8675pt x 344.78813pt>
+) (subfiles/Erfolgsrechnung_Bilanz.tex [29]
+<Resources/Image/Rechnungswesen.png, id=870, 499.8675pt x 344.78813pt>
 File: Resources/Image/Rechnungswesen.png Graphic file (type png)
 <use Resources/Image/Rechnungswesen.png>
 Package pdftex.def Info: Resources/Image/Rechnungswesen.png  used on input line
  25.
 (pdftex.def)             Requested size: 125.47737pt x 86.5493pt.
-<Resources/Image/Gegenüberstellung.png, id=702, 557.83406pt x 256.70906pt>
+<Resources/Image/Gegenüberstellung.png, id=871, 557.83406pt x 256.70906pt>
 File: Resources/Image/Gegenüberstellung.png Graphic file (type png)
 <use Resources/Image/Gegenüberstellung.png>
 Package pdftex.def Info: Resources/Image/Gegenüberstellung.png  used on input 
 line 81.
 (pdftex.def)             Requested size: 125.47737pt x 57.74136pt.
- [29
-pdfTeX warning (ext4): destination with the same identifier (name{figure.47}) h
-as been already used, duplicate ignored
+ [30pdfTeX warning (ext4): destination with the same identifier (name{figure.47
+}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.103 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.48}) h
-as been already used, duplicate ignored
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+48}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.103 
@@ -2163,19 +2128,19 @@ Overfull \hbox (95.67029pt too wide) in paragraph at lines 130--151
 [][] 
  []
 
-[30]
+[31]
 Overfull \hbox (80.32323pt too wide) in paragraph at lines 172--192
 [][] 
  []
 
-<Resources/Image/GliederungER.png, id=717, 453.19313pt x 253.69781pt>
+<Resources/Image/GliederungER.png, id=887, 453.19313pt x 253.69781pt>
 File: Resources/Image/GliederungER.png Graphic file (type png)
 <use Resources/Image/GliederungER.png>
 Package pdftex.def Info: Resources/Image/GliederungER.png  used on input line 1
 98.
 (pdftex.def)             Requested size: 125.47737pt x 70.24132pt.
-[31]
-<Resources/Image/Gewinngrössen.png, id=723, 570.63188pt x 268.00125pt>
+[32]
+<Resources/Image/Gewinngrössen.png, id=892, 570.63188pt x 268.00125pt>
 File: Resources/Image/Gewinngrössen.png Graphic file (type png)
 <use Resources/Image/Gewinngrössen.png>
 Package pdftex.def Info: Resources/Image/Gewinngrössen.png  used on input line
@@ -2186,44 +2151,41 @@ Overfull \hbox (74.9075pt too wide) in paragraph at lines 211--226
 [][] 
  []
 
-<Resources/Image/Cashflow.png, id=724, 497.60907pt x 292.84406pt>
+<Resources/Image/Cashflow.png, id=893, 497.60907pt x 292.84406pt>
 File: Resources/Image/Cashflow.png Graphic file (type png)
 <use Resources/Image/Cashflow.png>
 Package pdftex.def Info: Resources/Image/Cashflow.png  used on input line 230.
 (pdftex.def)             Requested size: 125.47737pt x 73.84088pt.
-[32
-pdfTeX warning (ext4): destination with the same identifier (name{figure.49}) h
-as been already used, duplicate ignored
+[33pdfTeX warning (ext4): destination with the same identifier (name{figure.49}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.236 \begin
-            {figure}[H]
-pdfTeX warning (ext4): destination with the same identifier (name{figure.50}) h
-as been already used, duplicate ignored
+            {figure}[H]pdfTeX warning (ext4): destination with the same identif
+ier (name{figure.50}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.236 \begin
-            {figure}[H]
-pdfTeX warning (ext4): destination with the same identifier (name{figure.51}) h
-as been already used, duplicate ignored
+            {figure}[H]pdfTeX warning (ext4): destination with the same identif
+ier (name{figure.51}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.236 \begin
             {figure}[H] <./Resources/Image/GliederungER.png> <./Resources/Image
 /Gewinngrössen.png> <./Resources/Image/Cashflow.png>]
-<Resources/Image/BerechnungCashflow.png, id=735, 530.73282pt x 267.24844pt>
+<Resources/Image/BerechnungCashflow.png, id=904, 530.73282pt x 267.24844pt>
 File: Resources/Image/BerechnungCashflow.png Graphic file (type png)
 <use Resources/Image/BerechnungCashflow.png>
 Package pdftex.def Info: Resources/Image/BerechnungCashflow.png  used on input 
 line 237.
 (pdftex.def)             Requested size: 125.47737pt x 63.18263pt.
-<Resources/Image/CashflowSchemata.png, id=736, 471.26062pt x 307.1475pt>
+<Resources/Image/CashflowSchemata.png, id=905, 471.26062pt x 307.1475pt>
 File: Resources/Image/CashflowSchemata.png Graphic file (type png)
 <use Resources/Image/CashflowSchemata.png>
 Package pdftex.def Info: Resources/Image/CashflowSchemata.png  used on input li
 ne 244.
 (pdftex.def)             Requested size: 125.47737pt x 81.778pt.
-<Resources/Image/Unternehmensfinanzierung.png, id=737, 562.35094pt x 260.47313p
+<Resources/Image/Unternehmensfinanzierung.png, id=906, 562.35094pt x 260.47313p
 t>
 File: Resources/Image/Unternehmensfinanzierung.png Graphic file (type png)
 <use Resources/Image/Unternehmensfinanzierung.png>
@@ -2235,21 +2197,18 @@ Overfull \hbox (95.17769pt too wide) in paragraph at lines 283--306
 [][] 
  []
 
-[33
-pdfTeX warning (ext4): destination with the same identifier (name{figure.52}) h
-as been already used, duplicate ignored
+[34pdfTeX warning (ext4): destination with the same identifier (name{figure.52}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.307 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.53}) h
-as been already used, duplicate ignored
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+53}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.307 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.54}) h
-as been already used, duplicate ignored
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+54}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.307 
@@ -2264,7 +2223,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 312--315
 
  []
 
-<Resources/Image/LeverageEffect.png, id=749, 342.27875pt x 185.69376pt>
+<Resources/Image/LeverageEffect.png, id=918, 342.27875pt x 185.69376pt>
 File: Resources/Image/LeverageEffect.png Graphic file (type png)
 <use Resources/Image/LeverageEffect.png>
 Package pdftex.def Info: Resources/Image/LeverageEffect.png  used on input line
@@ -2286,9 +2245,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--9
 
  []
 
-[34
-pdfTeX warning (ext4): destination with the same identifier (name{figure.55}) h
-as been already used, duplicate ignored
+[35pdfTeX warning (ext4): destination with the same identifier (name{figure.55}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.9 
@@ -2302,8 +2260,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[35]
-<Resources/Image/Vollkostenrechnung.png, id=770, 376.90813pt x 289.08pt>
+[36]
+<Resources/Image/Vollkostenrechnung.png, id=939, 376.90813pt x 289.08pt>
 File: Resources/Image/Vollkostenrechnung.png Graphic file (type png)
 <use Resources/Image/Vollkostenrechnung.png>
 Package pdftex.def Info: Resources/Image/Vollkostenrechnung.png  used on input 
@@ -2356,9 +2314,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
-[36
-pdfTeX warning (ext4): destination with the same identifier (name{figure.56}) h
-as been already used, duplicate ignored
+[37pdfTeX warning (ext4): destination with the same identifier (name{figure.56}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.106 
@@ -2368,7 +2325,7 @@ Overfull \hbox (29.87769pt too wide) in paragraph at lines 108--110
 l-tungs-ko-sten-ge-mein-ko-sten)/Herstellkosten)*100 
  []
 
-<Resources/Image/Break-Even-Absatzmenge.png, id=777, 410.03188pt x 260.47313pt>
+<Resources/Image/Break-Even-Absatzmenge.png, id=947, 410.03188pt x 260.47313pt>
 
 File: Resources/Image/Break-Even-Absatzmenge.png Graphic file (type png)
 <use Resources/Image/Break-Even-Absatzmenge.png>
@@ -2377,13 +2334,12 @@ put line 132.
 (pdftex.def)             Requested size: 125.47737pt x 79.70848pt.
 
 Overfull \hbox (2.34615pt too wide) in paragraph at lines 127--134
-\OML/cmm/m/it/10 Break \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 Even \OMS/cmsy/m/n
-/10 ^^@ \OML/cmm/m/it/10 Absatzmenge\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr
-/m/n/10 ) = \OML/cmm/m/it/10 Fixkosten\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 FK\OT1/
-cmr/m/n/10 )\OML/cmm/m/it/10 =Preis\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P\OT1/cmr/
-m/n/10 )\OML/cmm/m/it/10 =Stk: \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 VariableKo
-sten\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 VK\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 =Stk$
- 
+\OML/cmm/m/it/10 Break \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 Even \OMS/cmsy/m/n/1
+0   \OML/cmm/m/it/10 Absatzmenge\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n
+/10 ) = \OML/cmm/m/it/10 Fixkosten\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 FK\OT1/cmr/
+m/n/10 )\OML/cmm/m/it/10 =Preis\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P\OT1/cmr/m/n/
+10 )\OML/cmm/m/it/10 =Stk: \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 VariableKosten\O
+T1/cmr/m/n/10 (\OML/cmm/m/it/10 VK\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 =Stk$ 
  []
 
 
@@ -2406,9 +2362,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-[37
-pdfTeX warning (ext4): destination with the same identifier (name{figure.57}) h
-as been already used, duplicate ignored
+[38pdfTeX warning (ext4): destination with the same identifier (name{figure.57}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.146 \subparagraph
@@ -2478,7 +2433,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--44
 
  []
 
-[38]
+[39]
 Overfull \hbox (5.83994pt too wide) in paragraph at lines 57--63
 [] \OT1/cmr/bx/n/10 Net-to-kre-ditan-kaufs-preis(=Rechnungsbetrag)= \OT1/cmr/m/
 n/10 Brut-to-kre-ditan-kaufs-preis(= Ka-ta-log-preis
@@ -2539,46 +2494,203 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-<Resources/Image/Gesamt-Kalkulation.png, id=797, 286.06876pt x 280.04625pt>
+<Resources/Image/Gesamt-Kalkulation.png, id=966, 286.06876pt x 280.04625pt>
 File: Resources/Image/Gesamt-Kalkulation.png Graphic file (type png)
 <use Resources/Image/Gesamt-Kalkulation.png>
 Package pdftex.def Info: Resources/Image/Gesamt-Kalkulation.png  used on input 
 line 87.
 (pdftex.def)             Requested size: 125.47737pt x 122.83614pt.
-[39]) (subfiles/Absatz-u.Produktionsplanung.tex) [40
-pdfTeX warning (ext4): destination with the same identifier (name{figure.58}) h
-as been already used, duplicate ignored
+[40]) (subfiles/Absatz-u.Produktionsplanung.tex
+<Resources/Image/Logistik.png, id=976, 298.11375pt x 208.27812pt>
+File: Resources/Image/Logistik.png Graphic file (type png)
+<use Resources/Image/Logistik.png>
+Package pdftex.def Info: Resources/Image/Logistik.png  used on input line 48.
+(pdftex.def)             Requested size: 125.47737pt x 87.66371pt.
+ [41pdfTeX warning (ext4): destination with the same identifier (name{figure.58
+}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.264 \end{document}
-                     <./Resources/Image/Gesamt-Kalkulation.png>] (ZF_Wing.aux)
+l.51 
+      <./Resources/Image/Gesamt-Kalkulation.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+[42pdfTeX warning (ext4): destination with the same identifier (name{figure.59}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.91 	\item R
+             eduktion Lieferzeiten <./Resources/Image/Logistik.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--114
+
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
+
+ []
+
+
+Overfull \hbox (70.65662pt too wide) in paragraph at lines 212--215
+\OT1/cmr/m/n/10 Lagerumschlagsh[]aufigkeit (Je h[]oher, de-sto nied-ri-ger das 
+im La-ger ge-bun-de-ne Ka-pi-tal) $= []$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
+
+ []
+
+
+Overfull \hbox (38.75165pt too wide) in paragraph at lines 212--215
+\OT1/cmr/m/n/10 Durchschnittliche La-ger-dau-er(Je k[]urzer, de-sto ge-rin-ger 
+Kap-ti-al-bin-dungs-dau-er) $= []$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
+
+ []
+
+) (subfiles/Personalmanagement.tex [45]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 15.
+
+) (subfiles/Investitionsrechnung.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 80--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--84
+
+ []
+
+[47]
+<Resources/Image/Kapitalwertmethode.png, id=1018, 825.0825pt x 256.70906pt>
+File: Resources/Image/Kapitalwertmethode.png Graphic file (type png)
+<use Resources/Image/Kapitalwertmethode.png>
+Package pdftex.def Info: Resources/Image/Kapitalwertmethode.png  used on input 
+line 92.
+(pdftex.def)             Requested size: 125.47737pt x 39.03741pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--94
+
+ []
+
+<Resources/Image/Kapitalwertmethode2.png, id=1019, 533.74406pt x 410.2828pt>
+File: Resources/Image/Kapitalwertmethode2.png Graphic file (type png)
+<use Resources/Image/Kapitalwertmethode2.png>
+Package pdftex.def Info: Resources/Image/Kapitalwertmethode2.png  used on input
+ line 97.
+(pdftex.def)             Requested size: 125.47737pt x 96.44777pt.
+) (subfiles/Realisation.tex [48pdfTeX warning (ext4): destination with the same
+ identifier (name{figure.60}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.10 	\end{itemize}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.61}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.10 	\end{itemize}
+                    <./Resources/Image/Kapitalwertmethode.png> <./Resources/Ima
+ge/Kapitalwertmethode2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
+
+ []
+
+[49]) [50] (ZF_Wing.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `ZF_Wing.out' has not changed.
-(rerunfilecheck)             Checksum: AC3EB42A2889F89251E9A58D1A376822;12442.
+(rerunfilecheck)             Checksum: E75AC85A9B160A0D2795DA197B517C3A;17852.
  ) 
 Here is how much of TeX's memory you used:
- 26764 strings out of 478582
- 556443 string characters out of 2844345
- 825227 words of memory out of 3000000
- 44057 multiletter control sequences out of 15000+600000
- 474977 words of font info for 48 fonts, out of 8000000 for 9000
+ 26370 strings out of 478927
+ 538843 string characters out of 2853008
+ 825610 words of memory out of 3000000
+ 43265 multiletter control sequences out of 15000+600000
+ 409148 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,10n,96p,410b,633s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\ashas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1000.pk><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ashas/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ashas/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ashas/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ashas/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/as
-has/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ZF_Wing.pdf (40 pages, 5670938 bytes).
+ 101i,10n,99p,410b,631s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Asha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+000.pk><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb><C:/Users/Asha/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Asha/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Asha/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Asha/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Asha/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Asha
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on ZF_Wing.pdf (50 pages, 6072880 bytes).
 PDF statistics:
- 914 PDF objects out of 1000 (max. 8388607)
- 277 named destinations out of 1000 (max. 500000)
- 854 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1154 PDF objects out of 1200 (max. 8388607)
+ 331 named destinations out of 1000 (max. 500000)
+ 1133 words of extra memory for PDF output out of 10000 (max. 10000000)
 
