@@ -1,0 +1,144 @@
+\babel@toc {german}{}\relax 
+\contentsline {section}{\numberline {1}Grundprinzipien der Betriebswirtschaft}{2}{section.1}%
+\contentsline {paragraph}{Ökonomisches Prinzip:}{2}{section*.2}%
+\contentsline {subsection}{\numberline {1.1}Gütereinteilung}{2}{subsection.1.1}%
+\contentsline {paragraph}{Güter werden aufgeteilt in:}{2}{section*.3}%
+\contentsline {subsection}{\numberline {1.2}Markt}{2}{subsection.1.2}%
+\contentsline {subparagraph}{Nachfrage:}{2}{section*.4}%
+\contentsline {subparagraph}{Angebot:}{2}{section*.5}%
+\contentsline {subsection}{\numberline {1.3}Dreifache Unternehmensverantwortung}{2}{subsection.1.3}%
+\contentsline {paragraph}{Balance Akt zwischen:}{2}{section*.6}%
+\contentsline {subsection}{\numberline {1.4}St. Galler Managementmodell}{3}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Umweltsphären}{3}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Anspruchsgruppen / Stakeholder}{3}{subsubsection.1.4.2}%
+\contentsline {subparagraph}{Machtausübung Primär:}{3}{section*.7}%
+\contentsline {subparagraph}{Sanktionsgrundlage Sekundär:}{4}{section*.8}%
+\contentsline {subsubsection}{\numberline {1.4.3}Interaktionsthemen}{4}{subsubsection.1.4.3}%
+\contentsline {paragraph}{Interaktionsthemenanalyse:}{4}{section*.9}%
+\contentsline {paragraph}{Ressourcen:}{4}{section*.10}%
+\contentsline {paragraph}{Vorgehen:}{4}{section*.11}%
+\contentsline {subparagraph}{1. Sachverhalt:}{4}{section*.12}%
+\contentsline {subparagraph}{2. Welche Anspruchsgruppe:}{4}{section*.13}%
+\contentsline {subparagraph}{3. Aus Unternehmenssicht:}{5}{section*.14}%
+\contentsline {paragraph}{Ökonomisches Prinzip:}{5}{section*.15}%
+\contentsline {subsection}{\numberline {1.5}Gütereinteilung}{5}{subsection.1.5}%
+\contentsline {paragraph}{Güter werden aufgeteilt in:}{5}{section*.16}%
+\contentsline {subsection}{\numberline {1.6}Markt}{5}{subsection.1.6}%
+\contentsline {subparagraph}{Nachfrage:}{5}{section*.17}%
+\contentsline {subparagraph}{Angebot:}{6}{section*.18}%
+\contentsline {subsection}{\numberline {1.7}Dreifache Unternehmensverantwortung}{6}{subsection.1.7}%
+\contentsline {paragraph}{Balance Akt zwischen:}{6}{section*.19}%
+\contentsline {subsection}{\numberline {1.8}St. Galler Managementmodell}{6}{subsection.1.8}%
+\contentsline {subsubsection}{\numberline {1.8.1}Umweltsphären}{6}{subsubsection.1.8.1}%
+\contentsline {subsubsection}{\numberline {1.8.2}Anspruchsgruppen / Stakeholder}{6}{subsubsection.1.8.2}%
+\contentsline {subparagraph}{Machtausübung Primär:}{7}{section*.20}%
+\contentsline {subparagraph}{Sanktionsgrundlage Sekundär:}{7}{section*.21}%
+\contentsline {subsubsection}{\numberline {1.8.3}Interaktionsthemen}{7}{subsubsection.1.8.3}%
+\contentsline {paragraph}{Interaktionsthemenanalyse:}{7}{section*.22}%
+\contentsline {paragraph}{Ressourcen:}{7}{section*.23}%
+\contentsline {paragraph}{Vorgehen:}{7}{section*.24}%
+\contentsline {subparagraph}{1. Sachverhalt:}{7}{section*.25}%
+\contentsline {subparagraph}{2. Welche Anspruchsgruppe:}{8}{section*.26}%
+\contentsline {subparagraph}{3. Aus Unternehmenssicht:}{8}{section*.27}%
+\contentsline {section}{\numberline {2}Strategie}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Strategiefindungsprozess}{9}{subsection.2.1}%
+\contentsline {paragraph}{In vier Schritten:}{9}{section*.28}%
+\contentsline {subsection}{\numberline {2.2}Die strategische Analyse}{10}{subsection.2.2}%
+\contentsline {subparagraph}{Drei Modellen:}{10}{section*.29}%
+\contentsline {subparagraph}{Faktoren, die Analyse beeinflussen\\}{10}{figure.13}%
+\contentsline {subsubsection}{\numberline {2.2.1}SWOT-Analyse:}{10}{subsubsection.2.2.1}%
+\contentsline {subparagraph}{Kern-Kompetenzen:}{10}{section*.31}%
+\contentsline {paragraph}{Unternehmensanalyse Beispiel Easyjet \\ \\}{10}{section*.32}%
+\contentsline {subsubsection}{\numberline {2.2.2}PESTEL-Analyse}{11}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}5 Kräfte Modell von Porter}{11}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Die Strategische Planung}{13}{subsection.2.3}%
+\contentsline {paragraph}{zwei Modelle: \\}{13}{section*.33}%
+\contentsline {section}{\numberline {3}Marketing I}{15}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Marktanalyse}{15}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Erhebungsmethoden}{15}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Marktgrössen}{16}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Marketing 4P-Mix}{16}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Produktgestaltung}{16}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Preisstrategie}{17}{subsubsection.3.2.2}%
+\contentsline {paragraph}{Preishöhe: }{17}{section*.34}%
+\contentsline {paragraph}{Absatzmenge: }{17}{section*.35}%
+\contentsline {paragraph}{Defintion: }{17}{section*.36}%
+\contentsline {section}{\numberline {4}Marketing II}{19}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Distribution}{19}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Distributionsorgane}{20}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Absatzwege}{22}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Kommunikation}{22}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Kommunikationsinstrumente}{23}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Vermarktungsobjekte}{23}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Wie funktioniert Werbung?}{23}{subsubsection.4.2.3}%
+\contentsline {paragraph}{Custom Decision Journey}{23}{section*.37}%
+\contentsline {subsection}{\numberline {4.3}Markenführung}{25}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Aspekte}{25}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Signalfunktion}{25}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Markenwert}{25}{subsubsection.4.3.3}%
+\contentsline {paragraph}{Formen der Verknüpfung: \\}{26}{section*.38}%
+\contentsline {subsection}{\numberline {4.4}Customer Relationship Management (CRM)}{26}{subsection.4.4}%
+\contentsline {paragraph}{Aufgaben der Kundenbindung: \\}{26}{section*.39}%
+\contentsline {subsubsection}{\numberline {4.4.1}CRM Instrumente}{26}{subsubsection.4.4.1}%
+\contentsline {section}{\numberline {5}Erfolgsrechnung / Bilanz}{28}{section.5}%
+\contentsline {paragraph}{Einfache Buchhaltung}{28}{section*.40}%
+\contentsline {paragraph}{Doppelte Buchhaltung}{28}{section*.41}%
+\contentsline {subsection}{\numberline {5.1}Überblick Rechnungswesen}{28}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Jahresabschluss: Bilanz und Erfolgsrechnung}{28}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Gegenüberstellung von Aktiven und Passiven}{28}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Funktion der Bilanz}{29}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Aktiven}{29}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}Passiven}{30}{subsubsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.3}Erfolgsrechnung: Gegenüberstellung von Aufwand und Ertrag}{30}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Erfolgsrechnung}{30}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Gliederung der Erfolgsrechnung}{31}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}Erfolgsrechnung: Ausweis verschiedener Gewinngrössen}{31}{subsubsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.4}Geldflussrechnung}{31}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Berechnung operativer Cashflow aus Erfolgsrechnung}{31}{subsubsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.5}Hauptformen der Unternehmensfinanzierung}{32}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Rolle des CFO}{32}{subsection.5.6}%
+\contentsline {paragraph}{Management des Finanzdreiecks}{32}{section*.42}%
+\contentsline {subsubsection}{\numberline {5.6.1}Kennzahlen}{33}{subsubsection.5.6.1}%
+\contentsline {subparagraph}{Hebel: Erhöhung der Gesamtkapitalrendite (ROI)\\}{33}{section*.43}%
+\contentsline {subsubsection}{\numberline {5.6.2}ROE: Leverage Effect, Hebel für EK - Rendite}{33}{subsubsection.5.6.2}%
+\contentsline {section}{\numberline {6}Kostenrechnung}{34}{section.6}%
+\contentsline {paragraph}{Überblick Rechnungswesen}{34}{section*.44}%
+\contentsline {paragraph}{Gesamtheit der Kosten (Sume der Kostenarten nach Abgrenzung)\\}{34}{section*.45}%
+\contentsline {subsection}{\numberline {6.1}Vollkostenrechnung}{34}{subsection.6.1}%
+\contentsline {paragraph}{Hauptaufgaben:\\}{34}{section*.46}%
+\contentsline {subsubsection}{\numberline {6.1.1}Beispiele Sachliche Abgrenzungen}{35}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Aufgaben der Kostenstellenrechnung}{35}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Ermittlung Zuschlagsätze}{35}{subsubsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.2}Teilkostenrechnung}{36}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Break-Even-Analyse}{36}{subsection.6.3}%
+\contentsline {paragraph}{Ermittlung Nutzschwelle\\}{36}{section*.47}%
+\contentsline {subsubsection}{\numberline {6.3.1}Deckungsbeitrag}{37}{subsubsection.6.3.1}%
+\contentsline {subparagraph}{Formel DB:\\}{37}{section*.48}%
+\contentsline {section}{\numberline {7}Kalkulation}{37}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Kalkulation im Industriebetrieb}{37}{subsection.7.1}%
+\contentsline {paragraph}{Kalkulation Schema 1\\}{37}{section*.49}%
+\contentsline {paragraph}{Kalkulation Schema 2\\}{37}{section*.50}%
+\contentsline {paragraph}{Kalkulation:\\}{38}{section*.51}%
+\contentsline {subsection}{\numberline {7.2}Kalkulation Handelsbetrieb}{38}{subsection.7.2}%
+\contentsline {paragraph}{\color@box {}{orange!30}{Einkaufskalkulation Schema:}\\}{38}{section*.52}%
+\contentsline {paragraph}{\color@box {}{orange!30}{Betriebsinterne-Kalkulation Schema:}\\}{38}{section*.53}%
+\contentsline {paragraph}{\color@box {}{orange!30}{Verkaufs-Kalkulation Schema}\\}{38}{section*.54}%
+\contentsline {paragraph}{\color@box {}{orange!30}{Verkaufs-Kalkulation Gesamt-Kalkulation}\\}{38}{section*.55}%
+\contentsline {section}{\numberline {8}Absatz-u.Produktionsplanung}{39}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Materialwirtschaft}{39}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Beschaffungslogistik}{40}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}Insourcing}{41}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}Outsourcing}{41}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}Entscheid Make or buy}{41}{subsubsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.2}Magisches Dreieck der Materialwirtschaft}{41}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}ABC-Analyse I}{41}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}ABC-Analyse II}{42}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}ABC-Analyse III}{42}{subsubsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.3}XYZ-Analyse}{42}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Lagerorganisation}{43}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}Lagerfunktionen I}{43}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}Lagerfunktionen II}{43}{subsubsection.8.4.2}%
+\contentsline {subsection}{\numberline {8.5}Kennzahlen der Lagerhaltung}{43}{subsection.8.5}%
+\contentsline {section}{\numberline {9}Personalmanagement}{43}{section.9}%
+\contentsline {subsubsection}{\numberline {9.0.1}Personlagewinnung}{43}{subsubsection.9.0.1}%
+\contentsline {section}{\numberline {10}Investitionsrechnung}{44}{section.10}%
